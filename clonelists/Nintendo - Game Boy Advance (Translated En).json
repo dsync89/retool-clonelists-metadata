@@ -1,0 +1,499 @@
+{
+    "description": {
+        "name": "Nintendo - Game Boy Advance (Translated En)",
+        "lastUpdated": "4 December 2023",
+        "minimumVersion": "2.00",
+        "romSourceName": "English Translation ROMs Collection (2023)",
+        "romSourceUrl": "https://archive.org/details/En-ROMs",
+        "author": "dsync89",
+        "authorEmail": "dsync89@yahoo.com"
+    },
+    "variants": [
+        {
+            "group": "Aigle de Guerre, L'",
+            "titles": [
+                {
+                    "searchTerm": "Aigle de Guerre, L' (France) [T-En by Mkol103 v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Black Matrix Zero",
+            "titles": [
+                {
+                    "searchTerm": "Black Matrix Zero (Japan) [T-En by Chris Judah v1.0] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Chocobo Land - A Game of Dice",
+            "titles": [
+                {
+                    "searchTerm": "Chocobo Land - A Game of Dice (Japan) [T-En by Nezz v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Crash Nitro Kart",
+            "titles": [
+                {
+                    "searchTerm": "Crash Nitro Kart (Japan) [T-En by Cornholio309 v3.5] [US title theme] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Di Gi Charat - DigiCommunication",
+            "titles": [
+                {
+                    "searchTerm": "Di Gi Charat - DigiCommunication (Japan) [T-En by JegHegy v0.1] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Quest Characters - Torneko no Daibouken 3 Advance - Fushigi no Dungeon",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Quest Characters - Torneko no Daibouken 3 Advance - Fushigi no Dungeon (Japan) [T-En by Sam Steel v0.05] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Quest Monsters - Caravan Heart",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Quest Monsters - Caravan Heart (Japan) [T-En by The Translation Team v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "F-Zero - Climax",
+            "titles": [
+                {
+                    "searchTerm": "F-Zero - Climax (Japan) [T-En by F-Zero Climax Translation Project Team v1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Final Fire Pro Wrestling - Yume no Dantai Unei!",
+            "titles": [
+                {
+                    "searchTerm": "Final Fire Pro Wrestling - Yume no Dantai Unei! (Japan) [T-En by Fat Dave Beta 1] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fire Emblem - The Binding Blade",
+            "titles": [
+                {
+                    "searchTerm": "Fire Emblem - The Binding Blade (Japan) [T-En by Dark Twilkitri Net Translation Division v2.1] [Add by Gringe v1.1.3] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fullmetal Alchemist - Sonata of Memories",
+            "titles": [
+                {
+                    "searchTerm": "Fullmetal Alchemist - Sonata of Memories (Japan) [T-En by Iredc v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fullmetal Alchemist - Stray Rondo",
+            "titles": [
+                {
+                    "searchTerm": "Fullmetal Alchemist - Stray Rondo (Japan) [T-En by Mz v0.02] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Hajime no Ippo - The Fighting!",
+            "titles": [
+                {
+                    "searchTerm": "Hajime no Ippo - The Fighting! (Japan) [T-En by Markliujy v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Hikaru no Go",
+            "titles": [
+                {
+                    "searchTerm": "Hikaru no Go (Japan) [T-En by Ricardo Bittencourt v0.3] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Klonoa Heroes - The Legendary Star Medal",
+            "titles": [
+                {
+                    "searchTerm": "Klonoa Heroes - The Legendary Star Medal (Japan) [T-En by Klonoa Mega Chat Translation Team v1.1.8] [n] [SRAM version]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Kururin Paradise",
+            "titles": [
+                {
+                    "searchTerm": "Kururin Paradise (Japan) [T-En by DigitalZero Domain v0.5] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Legendary Starfy Origins, The",
+            "titles": [
+                {
+                    "searchTerm": "Legendary Starfy Origins, The (Japan) [T-En by Starfy Translation Team v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Legendary Starfy, The",
+            "titles": [
+                {
+                    "searchTerm": "Legendary Starfy, The (Japan) [T-En by Starfy Translation Team v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Love Hina Advance - Shukufuku no Kane wa Naru Kana",
+            "titles": [
+                {
+                    "searchTerm": "Love Hina Advance - Shukufuku no Kane wa Naru Kana (Japan) [T-En by LHAProject v0.98] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Magi Nation",
+            "titles": [
+                {
+                    "searchTerm": "Magi Nation (Japan) [T-En by Aplier v1.01]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Magical Vacation",
+            "titles": [
+                {
+                    "searchTerm": "Magical Vacation (Japan) [T-En by Magicalpatcher v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mega Man Battle Network 4.5 - Real Operation",
+            "titles": [
+                {
+                    "searchTerm": "Mega Man Battle Network 4.5 - Real Operation (Japan) [T-En by The Rockman EXE Zone v1.1] [NA] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mega Man Battle Network 6 - Cybeast Falzar",
+            "titles": [
+                {
+                    "searchTerm": "Mega Man Battle Network 6 - Cybeast Falzar (Japan) [T-En by Exeguy11 v1.8] [Wii U features] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mega Man Battle Network 6 - Cybeast Gregar",
+            "titles": [
+                {
+                    "searchTerm": "Mega Man Battle Network 6 - Cybeast Gregar (Japan) [T-En by Exeguy11 v1.1] [Wii U features] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Megaman - Battle Network 2",
+            "titles": [
+                {
+                    "searchTerm": "Megaman - Battle Network 2 (USA) [T-En by Vgperson v1.01] [Relocalized]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Megaman - Battle Network 3 - Blue Version",
+            "titles": [
+                {
+                    "searchTerm": "Megaman - Battle Network 3 - Blue Version (USA) [T-En by Vgperson v1.0] [Relocalized]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Megaman - Battle Network 3 - White Version",
+            "titles": [
+                {
+                    "searchTerm": "Megaman - Battle Network 3 - White Version (USA) [T-En by Vgperson v1.0] [Relocalized]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Megaman - Battle Network 4 - Blue Moon",
+            "titles": [
+                {
+                    "searchTerm": "Megaman - Battle Network 4 - Blue Moon (USA) [T-En by vgperson v1l.0.0] [Relocalized] [Preserve Resizing Of Glyphs]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Megaman - Battle Network 4 - Red Sun",
+            "titles": [
+                {
+                    "searchTerm": "Megaman - Battle Network 4 - Red Sun (USA) [T-En by vgperson v1l.0.0] [Relocalized] [Preserve Resizing Of Glyphs]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mobile Phone Beast Telefang 2 - Power",
+            "titles": [
+                {
+                    "searchTerm": "Mobile Phone Beast Telefang 2 - Power (Japan) [T-En by Telefang 2 English Translation Project v20130505] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mother 1+2",
+            "titles": [
+                {
+                    "searchTerm": "Mother 1+2 (Japan) [T-En by Jeffman & Tomato v1.01]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mother 3",
+            "titles": [
+                {
+                    "searchTerm": "Mother 3 (Japan) [T-En by Chewy & Jeffman & Tomato v1.3a] [HQ audio mix by MusicTheorist]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mr. Driller A - Fushigi na Pacteria",
+            "titles": [
+                {
+                    "searchTerm": "Mr. Driller A - Fushigi na Pacteria (Japan) [T-En by Keep Smiling International v1.0] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Oriental Blue - Ao no Tengai",
+            "titles": [
+                {
+                    "searchTerm": "Oriental Blue - Ao no Tengai (Japan) [T-En by The Romhacking Aerie v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Phoenix Wright - Ace Attorney",
+            "titles": [
+                {
+                    "searchTerm": "Phoenix Wright - Ace Attorney (Japan) [T-En by H3rmit & Spazzery v006] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Phoenix Wright - Ace Attorney \u2013 Trials and Tribulations",
+            "titles": [
+                {
+                    "searchTerm": "Phoenix Wright - Ace Attorney \u2013 Trials and Tribulations (Japan) [T-En by H3rmit v015.8] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Play Novel - Silent Hill",
+            "titles": [
+                {
+                    "searchTerm": "Play Novel - Silent Hill (Japan) [T-En by 07151129 v0.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Puyo Puyo Fever",
+            "titles": [
+                {
+                    "searchTerm": "Puyo Puyo Fever (Japan) (En,Ja,Fr,De,Es,It) [T-En by Tasos500 v1.0] [Relocalized]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Rhythm Heaven Silver",
+            "titles": [
+                {
+                    "searchTerm": "Rhythm Heaven Silver (Japan) [T-En by ShaffySwitcher Beta 14] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Rhythm Tengoku",
+            "titles": [
+                {
+                    "searchTerm": "Rhythm Tengoku (Japan) [T-En by ShaffySwitcher v20230620] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Shin Bokura no Taiyou - Gyakushuu no Sabata",
+            "titles": [
+                {
+                    "searchTerm": "Shin Bokura no Taiyou - Gyakushuu no Sabata (Japan) [T-En by DarthNemesis & Lordhuffnpuff & SpikeMan v0.7b] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Shin chan - Adventures in Cinema-Land",
+            "titles": [
+                {
+                    "searchTerm": "Shin chan - Adventures in Cinema-Land (Spain) [T-En by LeonarthCG v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Shin Megami Tensei",
+            "titles": [
+                {
+                    "searchTerm": "Shin Megami Tensei (Japan) [T-En by Gymzatan v1.3b] [iOS Localized]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Spyro - Season of Ice",
+            "titles": [
+                {
+                    "searchTerm": "Spyro - Season of Ice (Japan) [T-En by Cornholio309 & RayCarrot v1.0] [Add by Cornholio309 & RayCarrot v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Suikoden Card Stories",
+            "titles": [
+                {
+                    "searchTerm": "Suikoden Card Stories (Japan) [T-En by Pokeytax v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Summon Night - Swordcraft Story 3 - The Stone of Beginnings",
+            "titles": [
+                {
+                    "searchTerm": "Summon Night - Swordcraft Story 3 - The Stone of Beginnings (Japan) [T-En by Higsby & Normmatt & Teod & Unknownbrackets v0.9] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Super Robot Taisen D",
+            "titles": [
+                {
+                    "searchTerm": "Super Robot Taisen D (Japan) [T-En by Snesmaster40 v0.5] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Super Robot Taisen R",
+            "titles": [
+                {
+                    "searchTerm": "Super Robot Taisen R (Japan) [T-En by Shadownall v090202] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Super Robot Wars J",
+            "titles": [
+                {
+                    "searchTerm": "Super Robot Wars J (Japan) [T-En by The Romhacking Aerie v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Tales of the World - Narikiri Dungeon 2",
+            "titles": [
+                {
+                    "searchTerm": "Tales of the World - Narikiri Dungeon 2 (Japan) [T-En by Kajitani-Eizan v2.30] [SRAM fix] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Tales of the World - Narikiri Dungeon 3",
+            "titles": [
+                {
+                    "searchTerm": "Tales of the World - Narikiri Dungeon 3 (Japan) [T-En by Kajitani-Eizan v1.11] [All Bosses Monster List] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Tomato Adventure",
+            "titles": [
+                {
+                    "searchTerm": "Tomato Adventure (Japan) [T-En by Unknown W. Brackets v1.1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ui-Ire - World Soccer Winning Eleven",
+            "titles": [
+                {
+                    "searchTerm": "Ui-Ire - World Soccer Winning Eleven (Japan) [T-En by knighTeen87 v0.99]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Zoids Saga - Fuzors",
+            "titles": [
+                {
+                    "searchTerm": "Zoids Saga - Fuzors (Japan) [T-En by Gared531 v20210831] [i]",
+                    "nameType": "full"
+                }
+            ]
+        }
+    ]
+}

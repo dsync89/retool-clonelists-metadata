@@ -1,0 +1,85 @@
+{
+    "description": {
+        "name": "Bandai - Wonderswan (Translated En)",
+        "lastUpdated": "4 December 2023",
+        "minimumVersion": "2.00",
+        "romSourceName": "English Translation ROMs Collection (2023)",
+        "romSourceUrl": "https://archive.org/details/En-ROMs",
+        "author": "dsync89",
+        "authorEmail": "dsync89@yahoo.com"
+    },
+    "variants": [
+        {
+            "group": "Chocobo no Fushigi na Dungeon for WonderSwan",
+            "titles": [
+                {
+                    "searchTerm": "Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2) [T-En by Higsby & SpecialAgentApe v1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Digimon 02 - Tag Tamers",
+            "titles": [
+                {
+                    "searchTerm": "Digimon 02 - Tag Tamers (Japan) [T-En by NikcDC v1.4.5] [n] [Digimon 01 Diaboromon]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Kaze no Klonoa - Moonlight Museum",
+            "titles": [
+                {
+                    "searchTerm": "Kaze no Klonoa - Moonlight Museum (Japan) [T-En by PowerStone05 v0.511] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Klonoa - Moonlight Museum",
+            "titles": [
+                {
+                    "searchTerm": "Klonoa - Moonlight Museum (Japan) [T-En by PowerStone05 & RayCarrot & Rcs709 & StarryScarab v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Megaman & Bass - Challenger from the Future",
+            "titles": [
+                {
+                    "searchTerm": "Megaman & Bass - Challenger from the Future (Japan) [T-En by NikcDC v1.2.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Neon Genesis Evangelion - Angel Raising Project",
+            "titles": [
+                {
+                    "searchTerm": "Neon Genesis Evangelion - Angel Raising Project (Japan) [T-En by Anime Game Translations Team v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Rainbow Islands - Putty's Party",
+            "titles": [
+                {
+                    "searchTerm": "Rainbow Islands - Putty's Party (Japan) [T-En by NikcDC v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Rockman & Forte - Challenger from the Future",
+            "titles": [
+                {
+                    "searchTerm": "Rockman & Forte - Challenger from the Future (Japan) [T-En by NikcDC v1.2.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        }
+    ]
+}

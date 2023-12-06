@@ -1,0 +1,4387 @@
+{
+    "description": {
+        "name": "Nintendo - Entertainment System (Translated En)",
+        "lastUpdated": "4 December 2023",
+        "minimumVersion": "2.00",
+        "romSourceName": "English Translation ROMs Collection (2023)",
+        "romSourceUrl": "https://archive.org/details/En-ROMs",
+        "author": "dsync89",
+        "authorEmail": "dsync89@yahoo.com"
+    },
+    "variants": [
+        {
+            "group": "100 World Story, The - The Tales on a Watery Wilderness",
+            "titles": [
+                {
+                    "searchTerm": "100 World Story, The - The Tales on a Watery Wilderness (Japan) [T-En by AlanMidas BS.VQt] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "4 Player Strike Mahjong",
+            "titles": [
+                {
+                    "searchTerm": "4 Player Strike Mahjong (Japan) (Rev A) [T-En by GAFF Translations v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "4 Wheel Drive Battle",
+            "titles": [
+                {
+                    "searchTerm": "4 Wheel Drive Battle (Japan) [T-En by Pacnsacdave v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "8 Eyes",
+            "titles": [
+                {
+                    "searchTerm": "8 Eyes (Japan) [T-En by Stardust Crusaders v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "A-Train",
+            "titles": [
+                {
+                    "searchTerm": "A-Train (Japan) [T-En by MrRichard999 & Proveaux & AgentOrange & Jink640 & Rotwang v0.99] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Acala Legend, The",
+            "titles": [
+                {
+                    "searchTerm": "Acala Legend, The (Japan) [T-En by Stardust Crusaders v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Advanced Dungeons & Dragons - Dragons of Flame",
+            "titles": [
+                {
+                    "searchTerm": "Advanced Dungeons & Dragons - Dragons of Flame (Japan) [T-En by DvD Translations v1.03]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Adventure Island 4",
+            "titles": [
+                {
+                    "searchTerm": "Adventure Island 4 (Japan) [T-En by Demiforce v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Adventures in Asmik Land",
+            "titles": [
+                {
+                    "searchTerm": "Adventures in Asmik Land (Japan) [T-En by Gil Galad v0.25] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Adventures of Musashi",
+            "titles": [
+                {
+                    "searchTerm": "Adventures of Musashi (Japan) [T-En by Gaijin Productions & MadHacker v0.98] [Add by Pacnsacdave v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Adventures of Musashi Jr., The",
+            "titles": [
+                {
+                    "searchTerm": "Adventures of Musashi Jr., The (Japan) [T-En by Aishsha & Stardust Crusaders v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Aighina's Prophecy - From the Legend of Balubalouk",
+            "titles": [
+                {
+                    "searchTerm": "Aighina's Prophecy - From the Legend of Balubalouk (Japan) [T-En by Psyklax v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Aim! Top Pro - Dream in Green",
+            "titles": [
+                {
+                    "searchTerm": "Aim! Top Pro - Dream in Green (Japan) [T-En by Immutable v1.0] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Airwolf",
+            "titles": [
+                {
+                    "searchTerm": "Airwolf (Japan) [T-En by Vice Translations v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Akira [T-En by Grimm Translations v0.995]",
+            "titles": [
+                {
+                    "searchTerm": "Akira [T-En by Grimm Translations v0.995]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Akumajou Densetsu - Legend of Demon Castle",
+            "titles": [
+                {
+                    "searchTerm": "Akumajou Densetsu - Legend of Demon Castle (Japan) [T-En by Vice Translations v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Altered Beast",
+            "titles": [
+                {
+                    "searchTerm": "Altered Beast (Japan) [T-En by Aka Translations v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "America Daitouryou Senkyo",
+            "titles": [
+                {
+                    "searchTerm": "America Daitouryou Senkyo (Japan) [T-En by Hanage v0.8] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "American Dream",
+            "titles": [
+                {
+                    "searchTerm": "American Dream (Japan) [T-En by Pale Dim v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ankoku Shinwa - The Dark Myth",
+            "titles": [
+                {
+                    "searchTerm": "Ankoku Shinwa - The Dark Myth (Japan) [T-En by Snark v0.99] [Add by Proveaux v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ankoku Shinwa - Yamato Takeru Densetsu",
+            "titles": [
+                {
+                    "searchTerm": "Ankoku Shinwa - Yamato Takeru Densetsu (Japan) [T-En by Snark v0.99]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Antarctic Adventure",
+            "titles": [
+                {
+                    "searchTerm": "Antarctic Adventure (Japan) [T-En by Quest Games v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Argos no Senshi - Hachamecha Daishingeki",
+            "titles": [
+                {
+                    "searchTerm": "Argos no Senshi - Hachamecha Daishingeki (Japan) [T-En by Toma v0.9]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Armadillo",
+            "titles": [
+                {
+                    "searchTerm": "Armadillo (Japan) [T-En by Vice Translations v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Armed Dragon Fantasy Villgust",
+            "titles": [
+                {
+                    "searchTerm": "Armed Dragon Fantasy Villgust (Japan) [T-En by J2e Translations v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Artelius",
+            "titles": [
+                {
+                    "searchTerm": "Artelius (Japan) [T-En by MageCraft Translations v0.25] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Astro Fang - Super Machine",
+            "titles": [
+                {
+                    "searchTerm": "Astro Fang - Super Machine (Japan) [T-En by Caution Special K]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Attack Animal Academy",
+            "titles": [
+                {
+                    "searchTerm": "Attack Animal Academy (Japan) [T-En by PentarouZero v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "B-Wings",
+            "titles": [
+                {
+                    "searchTerm": "B-Wings (Japan) [T-En by Stardust Crusaders v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Banana",
+            "titles": [
+                {
+                    "searchTerm": "Banana (Japan) [T-En by KingMike's Translations v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Banana Prince",
+            "titles": [
+                {
+                    "searchTerm": "Banana Prince (Germany) [T-En by KingMike's Translations v1.1a] [Add by Elbobelo v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Batsu & Terry",
+            "titles": [
+                {
+                    "searchTerm": "Batsu & Terry (Japan) [T-En by Zynk Oxhyde v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Battle Storm",
+            "titles": [
+                {
+                    "searchTerm": "Battle Storm (Japan) [T-En by MrRichard999 v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Big Strategy Pachinko",
+            "titles": [
+                {
+                    "searchTerm": "Big Strategy Pachinko (Japan) [T-En by MrRichard999 v0.97b] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Big Strategy Pachinko 2",
+            "titles": [
+                {
+                    "searchTerm": "Big Strategy Pachinko 2 (Japan) [T-En by MrRichard999 v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Bikkuriman World - Gekitou Sei Senshi",
+            "titles": [
+                {
+                    "searchTerm": "Bikkuriman World - Gekitou Sei Senshi (Japan) [T-En by Tenshigami Teaser] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Bio Miracle Baby Upa!!",
+            "titles": [
+                {
+                    "searchTerm": "Bio Miracle Baby Upa!! (Japan) [T-En by Vice Translations v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Bio-Warrior Dan - The Inkliezar Battle",
+            "titles": [
+                {
+                    "searchTerm": "Bio-Warrior Dan - The Inkliezar Battle (Japan) [T-En by Abstract Crouton Productions v1.5] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Bionic Commando - Return of Hitler",
+            "titles": [
+                {
+                    "searchTerm": "Bionic Commando - Return of Hitler (Japan) [T-En by Stardust Crusaders v1.04] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Bird Squadron Jetman",
+            "titles": [
+                {
+                    "searchTerm": "Bird Squadron Jetman (Japan) [T-En by Chronix v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Black Bass, The",
+            "titles": [
+                {
+                    "searchTerm": "Black Bass, The (Japan) [T-En by GAFF Translations v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Bloody Warriors - Shan-Go no Gyakushuu",
+            "titles": [
+                {
+                    "searchTerm": "Bloody Warriors - Shan-Go no Gyakushuu (Japan) [T-En by Ded302 & Snark v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Bloody Warriors - Shan-Go Strikes Back",
+            "titles": [
+                {
+                    "searchTerm": "Bloody Warriors - Shan-Go Strikes Back (Japan) [T-En by Ded302 & Snark v1.0] [Add by BlackPaladin v0.99.9] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Brave Fighter of the Sun - Fighbird",
+            "titles": [
+                {
+                    "searchTerm": "Brave Fighter of the Sun - Fighbird (Japan) [T-En by Zynk Oxhyde v1.2] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Burn!! Judo Warriors",
+            "titles": [
+                {
+                    "searchTerm": "Burn!! Judo Warriors (Japan) [T-En by MrRichard999 v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Burnin' TwinBee - The Rescue of Dr. Cinnamon!",
+            "titles": [
+                {
+                    "searchTerm": "Burnin' TwinBee - The Rescue of Dr. Cinnamon! (Japan) [T-En by MrRichard999 v0.90b] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Burning Wild Man, The",
+            "titles": [
+                {
+                    "searchTerm": "Burning Wild Man, The (Japan) [T-En by BlackPaladin v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Cadillac",
+            "titles": [
+                {
+                    "searchTerm": "Cadillac (Japan) [T-En by Gil Galad v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Captain Silver",
+            "titles": [
+                {
+                    "searchTerm": "Captain Silver (Japan) [T-En by Stardust Crusaders v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Captain Tsubasa",
+            "titles": [
+                {
+                    "searchTerm": "Captain Tsubasa (Japan) [T-En by Lestat v1.0] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Captain Tsubasa Vol. II - Super Striker",
+            "titles": [
+                {
+                    "searchTerm": "Captain Tsubasa Vol. II - Super Striker (Japan) [T-En by Hayabusakun v1.0] [Add by Pacnsacdave v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Castle Quest",
+            "titles": [
+                {
+                    "searchTerm": "Castle Quest (Japan) [T-En by Hubz & Stardust Crusaders v2.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Castlevania II - Simon's Quest",
+            "titles": [
+                {
+                    "searchTerm": "Castlevania II - Simon's Quest (USA) [T-En by Bisqwit v2.12.0.1] [Relocalized]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Castlevania Special - Kid Dracula",
+            "titles": [
+                {
+                    "searchTerm": "Castlevania Special - Kid Dracula (Japan) [T-En by Chronix v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Cat Ninden Teyandee",
+            "titles": [
+                {
+                    "searchTerm": "Cat Ninden Teyandee (Japan) [T-En by Dark Mark v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Chaos World",
+            "titles": [
+                {
+                    "searchTerm": "Chaos World (Japan) [T-En by Aeon Genesis v0.98f] [Add by Chronix v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Charge!! Men's Private School - Number One Student",
+            "titles": [
+                {
+                    "searchTerm": "Charge!! Men's Private School - Number One Student (Japan) [T-En by Pacnsacdave v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Chef Cookie in Gourmet World",
+            "titles": [
+                {
+                    "searchTerm": "Chef Cookie in Gourmet World (Japan) [T-En by Stardust Crusaders v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Chester Field - Ankoku Shin e no Chousen",
+            "titles": [
+                {
+                    "searchTerm": "Chester Field - Ankoku Shin e no Chousen (Japan) [T-En by Aeon Genesis v1.00b]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Choujin Sentai Jetman",
+            "titles": [
+                {
+                    "searchTerm": "Choujin Sentai Jetman (Japan) [T-En by Magimoogle v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Chronicle of the Radia War",
+            "titles": [
+                {
+                    "searchTerm": "Chronicle of the Radia War (Japan) [T-En by Dreamless & Jair & [cx] v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Chuka Taisen - Cloud Master",
+            "titles": [
+                {
+                    "searchTerm": "Chuka Taisen - Cloud Master (Japan) [T-En by Stardust Crusaders v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "City Adventure Touch - Mystery of Triangle",
+            "titles": [
+                {
+                    "searchTerm": "City Adventure Touch - Mystery of Triangle (Japan) [T-En by Filler v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Cocoron",
+            "titles": [
+                {
+                    "searchTerm": "Cocoron (Japan) [T-En by Akujin & Dynamic Designs v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Columbus - Golden Dawn",
+            "titles": [
+                {
+                    "searchTerm": "Columbus - Golden Dawn (Japan) [T-En by Aishsha v1.02] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Constellation Nerdulus, The - An Adventure in the Otaku Galaxy",
+            "titles": [
+                {
+                    "searchTerm": "Constellation Nerdulus, The - An Adventure in the Otaku Galaxy (Japan) [T-En by Stardust Crusaders v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Contra",
+            "titles": [
+                {
+                    "searchTerm": "Contra (Japan) [T-En by Quest Games v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Cosmic Epsilon",
+            "titles": [
+                {
+                    "searchTerm": "Cosmic Epsilon (Japan) [T-En by Stardust Crusaders v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Cosmic Wars",
+            "titles": [
+                {
+                    "searchTerm": "Cosmic Wars (Japan) [T-En by TransBRC v0.993] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Cosmo Genesis",
+            "titles": [
+                {
+                    "searchTerm": "Cosmo Genesis (Japan) [T-En by Aeon Genesis v1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Cosmo Police Galivan",
+            "titles": [
+                {
+                    "searchTerm": "Cosmo Police Galivan (Japan) [T-En by Jair v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Crash 'n the Boys - Dunk Challenge",
+            "titles": [
+                {
+                    "searchTerm": "Crash 'n the Boys - Dunk Challenge (Japan) [T-En by Farid v1.2] [Add by El Duderino v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Crash 'n the Boys - Fighting Challenge",
+            "titles": [
+                {
+                    "searchTerm": "Crash 'n the Boys - Fighting Challenge (Japan) [T-En by oRdErEDchaos v0.95] [Add by El Duderino v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Crash 'n the Boys - Ice Challenge",
+            "titles": [
+                {
+                    "searchTerm": "Crash 'n the Boys - Ice Challenge (Japan) [T-En by Disconnected Translations v0.99] [Add by GAFF Translations v1.00] [Add by El Duderino v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Crash 'n the Boys - Technos Cup",
+            "titles": [
+                {
+                    "searchTerm": "Crash 'n the Boys - Technos Cup (Japan) [T-En by PentarouZero v1.2] [Add by Lipetsk v1.0] [Add by El Duderino v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Crayon Shin-chan - Ora to Poi Poi",
+            "titles": [
+                {
+                    "searchTerm": "Crayon Shin-chan - Ora to Poi Poi (Japan) [T-En by Alcy v0.1] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Crisis Force",
+            "titles": [
+                {
+                    "searchTerm": "Crisis Force (Japan) [T-En by Stardust Crusaders v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Cross Fire",
+            "titles": [
+                {
+                    "searchTerm": "Cross Fire (Japan) [T-En by Stardust Crusaders v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Daikaijuu Deburas",
+            "titles": [
+                {
+                    "searchTerm": "Daikaijuu Deburas (Japan) [T-En by Manipulate v0.30] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Daisenryaku",
+            "titles": [
+                {
+                    "searchTerm": "Daisenryaku (Japan) [T-En by Aeon Genesis v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Daiva Story 6 - Imperial of Nirsartia",
+            "titles": [
+                {
+                    "searchTerm": "Daiva Story 6 - Imperial of Nirsartia (Japan) [T-En by MrRichard999 v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dan's Dodgeball",
+            "titles": [
+                {
+                    "searchTerm": "Dan's Dodgeball (Japan) [T-En by TransGen v1.0.b] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dan's Dodgeball 2",
+            "titles": [
+                {
+                    "searchTerm": "Dan's Dodgeball 2 (Japan) [T-En by TransGen v1.0a] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dark Lord",
+            "titles": [
+                {
+                    "searchTerm": "Dark Lord (Japan) [T-En by Aeon Genesis v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dash Rascal",
+            "titles": [
+                {
+                    "searchTerm": "Dash Rascal (Japan) [T-En by Pacnsacdave v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Debias - Legendary Space-Time Hero",
+            "titles": [
+                {
+                    "searchTerm": "Debias - Legendary Space-Time Hero (Japan) [T-En by Gil Galad v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Deep Dungeon III - The Journey to Become a Hero",
+            "titles": [
+                {
+                    "searchTerm": "Deep Dungeon III - The Journey to Become a Hero (Japan) [T-En by KingMike's Translations v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Deep Dungeon IV - The Black Sorcerer",
+            "titles": [
+                {
+                    "searchTerm": "Deep Dungeon IV - The Black Sorcerer (Japan) [T-En by KingMike's Translations & Snark v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Delinquent Girl Detective III",
+            "titles": [
+                {
+                    "searchTerm": "Delinquent Girl Detective III (Japan) [T-En by MrRichard999 v0.95] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Demon World Village",
+            "titles": [
+                {
+                    "searchTerm": "Demon World Village (Japan) [T-En by BlackPaladin v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dengeki - Big Bang!",
+            "titles": [
+                {
+                    "searchTerm": "Dengeki - Big Bang! (Japan) [T-En by StripyMonk v2.8a] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Destiny of an Emperor II - The Story of Zhuge Liang",
+            "titles": [
+                {
+                    "searchTerm": "Destiny of an Emperor II - The Story of Zhuge Liang (Japan) [T-En by Dark Force & Dynamic Designs & Jair & Taskforce v1.12] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Detective Sanma",
+            "titles": [
+                {
+                    "searchTerm": "Detective Sanma (Japan) [T-En by Ccmar v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Devil Boy - Trap of Hell",
+            "titles": [
+                {
+                    "searchTerm": "Devil Boy - Trap of Hell (Japan) (T-En by Me_Dave v1.1] [Add by Me_Dave v1.2) [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Devil Man",
+            "titles": [
+                {
+                    "searchTerm": "Devil Man (Japan) [T-En by Snark v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dezaemon",
+            "titles": [
+                {
+                    "searchTerm": "Dezaemon (Japan) [T-En by Aeon Genesis v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Digital Devil Story - Megami Tensei",
+            "titles": [
+                {
+                    "searchTerm": "Digital Devil Story - Megami Tensei (Japan) [T-En by EsperKnight & Stardust Crusaders & Tom v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Digital Devil Story - Megami Tensei II",
+            "titles": [
+                {
+                    "searchTerm": "Digital Devil Story - Megami Tensei II (Japan) [T-En by Dushbadge v5.0] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Directive - Solbrain - Super Rescue",
+            "titles": [
+                {
+                    "searchTerm": "Directive - Solbrain - Super Rescue (Japan) [T-En by Aeon Genesis v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Distant Legend of Jarvas",
+            "titles": [
+                {
+                    "searchTerm": "Distant Legend of Jarvas (Japan) [T-En by Aishsha & Stardust Crusaders v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dog Town",
+            "titles": [
+                {
+                    "searchTerm": "Dog Town (Japan) [T-En by Pacnsacdave v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Doki! Doki! Amusement Park",
+            "titles": [
+                {
+                    "searchTerm": "Doki! Doki! Amusement Park (Japan) [T-En by Klarth Aileron v1.1] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Don Doko Don 2",
+            "titles": [
+                {
+                    "searchTerm": "Don Doko Don 2 (Japan) [T-En by MrRichard999 v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Donald Duck",
+            "titles": [
+                {
+                    "searchTerm": "Donald Duck (Japan) [T-En by Chronix v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Doraemon",
+            "titles": [
+                {
+                    "searchTerm": "Doraemon (Japan) [T-En by Neokid v1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Doraemon - The Revenge of Giga Zombie",
+            "titles": [
+                {
+                    "searchTerm": "Doraemon - The Revenge of Giga Zombie (Japan) [T-En by WakdHacks v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Double Dragon III - The Rosetta Stone",
+            "titles": [
+                {
+                    "searchTerm": "Double Dragon III - The Rosetta Stone (Japan) [T-En by Pacnsacdave v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dr. Jekyll and Mr. Hyde",
+            "titles": [
+                {
+                    "searchTerm": "Dr. Jekyll and Mr. Hyde (Japan) [T-En by Yauch v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Ball - Revival of the Dark Lord",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Ball - Revival of the Dark Lord (Japan) [T-En by Stardust Crusaders v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Ball 3 - Gokuu Den",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Ball 3 - Gokuu Den (Japan) [T-En by Dodgy Translations v0.15] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Ball Z - Assault of the Saiyans",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Ball Z - Assault of the Saiyans (Japan) [T-En by Twilight Translations v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Ball Z Gaiden - Plan to Eliminate the Saiyans",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Ball Z Gaiden - Plan to Eliminate the Saiyans (Japan) [T-En by Twilight Translations v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Ball Z II - Tyrant Freeza!!",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Ball Z II - Tyrant Freeza!! (Japan) [T-En by Gyroballer v1.02] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Ball Z III - Killer Androids",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Ball Z III - Killer Androids (Japan) [T-En by Twilight Translations v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Buster II - Seal of Darkness",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Buster II - Seal of Darkness (Japan) [T-En by PentarouZero v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Ninja",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Ninja (Japan) [T-En by Stardust Crusaders v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Quest",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Quest (USA) [T-En by Translation Quest v1.18] [Relocalized] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Quest II",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Quest II (USA) [T-En by Translation Quest v1.17] [Relocalized] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Quest III",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Quest III (USA) [T-En by Translation Quest v1.06] [Relocalized] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Quest III - Soshite Densetsu e...",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Quest III - Soshite Densetsu e... (Japan) (Rev 0A) [T-En by Spinner 8 and friends v0.0111] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Scroll - Resurrection of the Demon Dragon",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Scroll - Resurrection of the Demon Dragon (Japan) [T-En by Eien Ni Hen & KingMike's Translations v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Slayer IV - Drasle Family",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Slayer IV - Drasle Family (Japan) [T-En by Asiwish v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Slayer Jr. - Romancia",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Slayer Jr. - Romancia (Japan) [T-En by DvD Translations Rev A] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragonball - Dragon Mystery",
+            "titles": [
+                {
+                    "searchTerm": "Dragonball - Dragon Mystery (Japan) [T-En by TransBRC v1.11] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dream Penguin Adventure - The Quest for Penko's Heart",
+            "titles": [
+                {
+                    "searchTerm": "Dream Penguin Adventure - The Quest for Penko's Heart (Japan) [T-En by Vice Translations v1.021] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Eggerland - Revival of the Labyrinth",
+            "titles": [
+                {
+                    "searchTerm": "Eggerland - Revival of the Labyrinth (Japan) [T-En by Kapow v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Egypt",
+            "titles": [
+                {
+                    "searchTerm": "Egypt (Japan) [T-En by Dodgy Translations v1.01] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Elementary Math Grade 1 - Improvement Game",
+            "titles": [
+                {
+                    "searchTerm": "Elementary Math Grade 1 - Improvement Game (Japan) [T-En by Pikachumanson v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Elementary Math Grade 2 - Improvement Game",
+            "titles": [
+                {
+                    "searchTerm": "Elementary Math Grade 2 - Improvement Game (Japan) [T-En by Pikachumanson v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Elementary Math Grade 3 - Calculation Game",
+            "titles": [
+                {
+                    "searchTerm": "Elementary Math Grade 3 - Calculation Game (Japan) [T-En by Pikachumanson v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Elementary Math Grade 4 - Improvement Game",
+            "titles": [
+                {
+                    "searchTerm": "Elementary Math Grade 4 - Improvement Game (Japan) [T-En by Pikachumanson v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Elementary Math Grades 5-6 - Calculation Game",
+            "titles": [
+                {
+                    "searchTerm": "Elementary Math Grades 5-6 - Calculation Game (Japan) [T-En by Pikachumanson v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Elysion",
+            "titles": [
+                {
+                    "searchTerm": "Elysion (Japan) [T-En by Tenshigami v0.92] [SRAM hack]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Emoto's Pro Baseball - 10x More Fun!",
+            "titles": [
+                {
+                    "searchTerm": "Emoto's Pro Baseball - 10x More Fun! (Japan) [T-En by MrRichard999 v0.95] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Empire City 1931",
+            "titles": [
+                {
+                    "searchTerm": "Empire City 1931 (Japan) [T-En by Psyklax v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Erika & Satoru's Dream Adventure",
+            "titles": [
+                {
+                    "searchTerm": "Erika & Satoru's Dream Adventure (Japan) [T-En by Stardust Crusaders v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Esper Corps",
+            "titles": [
+                {
+                    "searchTerm": "Esper Corps (Japan) [T-En by Aishsha v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Esper Dream 2",
+            "titles": [
+                {
+                    "searchTerm": "Esper Dream 2 (Japan) [T-En by Aeon Genesis v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Exciting! Amusement Park",
+            "titles": [
+                {
+                    "searchTerm": "Exciting! Amusement Park (Japan) [T-En by Pacnsacdave v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "F1 Circus",
+            "titles": [
+                {
+                    "searchTerm": "F1 Circus (Japan) [T-En by MrRichard999 v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Famicom Baseball Board",
+            "titles": [
+                {
+                    "searchTerm": "Famicom Baseball Board (Japan) [T-En by AgentOrange & FlashPV & Jink640 & MrRichard999 v0.98] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Famicom Jump - Heroes History",
+            "titles": [
+                {
+                    "searchTerm": "Famicom Jump - Heroes History (Japan) [T-En by BlackPaladin v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Famicom Wars",
+            "titles": [
+                {
+                    "searchTerm": "Famicom Wars (Japan) [T-En by Aka Translations v1.11] [Add by Pacnsacdave v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Family Circuit",
+            "titles": [
+                {
+                    "searchTerm": "Family Circuit (Japan) [T-En by MrRichard999 v0.95] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Family Jockey",
+            "titles": [
+                {
+                    "searchTerm": "Family Jockey (Japan) [T-En by MrRichard999 v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Family Pinball",
+            "titles": [
+                {
+                    "searchTerm": "Family Pinball (Japan) [T-En by Suicidal Translations v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Family Tennis",
+            "titles": [
+                {
+                    "searchTerm": "Family Tennis (Japan) [T-En by Goldenband v10-05-2015] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Family Trainer 10 - Come On! Kyonshi",
+            "titles": [
+                {
+                    "searchTerm": "Family Trainer 10 - Come On! Kyonshi (Japan) [T-En by Pacnsacdave v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Family Trainer 4 - Jogging Race",
+            "titles": [
+                {
+                    "searchTerm": "Family Trainer 4 - Jogging Race (Japan) [T-En by Jink640 & MrRichard999 v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Family Trainer 8 - Showdown! Takeshi's Castle",
+            "titles": [
+                {
+                    "searchTerm": "Family Trainer 8 - Showdown! Takeshi's Castle (Japan) [T-En by AgentOrange & MrRichard999 v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Famista '89 - Opening Game!!",
+            "titles": [
+                {
+                    "searchTerm": "Famista '89 - Opening Game!! (Japan) [T-En by MrRichard999 & TheMajinZenki & AgentOrange & FlashPV v0.91] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Famista '90",
+            "titles": [
+                {
+                    "searchTerm": "Famista '90 (Japan) [T-En by MrRichard999 & TheMajinZenki & FlashPV v0.92] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Famista '91",
+            "titles": [
+                {
+                    "searchTerm": "Famista '91 (Japan) [T-En by MrRichard999 & TheMajinZenki & Jink640 & FlashPV v0.991] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Famista '92",
+            "titles": [
+                {
+                    "searchTerm": "Famista '92 (Japan) [T-En by MrRichard999 & TheMajinZenki & Jink640 & FlashPV v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Famista '93",
+            "titles": [
+                {
+                    "searchTerm": "Famista '93 (Japan) [T-En by MrRichard999 & TheMajinZenki & Jink640 & FlashPV v0.991] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Famista '94",
+            "titles": [
+                {
+                    "searchTerm": "Famista '94 (Japan) [T-En by MrRichard999 & TheMajinZenki & FlashPV v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Faxanadu",
+            "titles": [
+                {
+                    "searchTerm": "Faxanadu (Japan) [T-En by Unsavory Maggot v1.04] [FCE Ultra]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fiery Renegade Kunio",
+            "titles": [
+                {
+                    "searchTerm": "Fiery Renegade Kunio (Japan) [T-En by Stardust Crusaders v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fighting Road",
+            "titles": [
+                {
+                    "searchTerm": "Fighting Road (Japan) [T-En by Immutable v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fighting Spirit - Toukon Club",
+            "titles": [
+                {
+                    "searchTerm": "Fighting Spirit - Toukon Club (Japan) [T-En by Eric Engel v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Final Fantasy",
+            "titles": [
+                {
+                    "searchTerm": "Final Fantasy (Japan) (Rev B) [T-En by Chaos Rush v1.3] [US Font]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Final Fantasy I, II",
+            "titles": [
+                {
+                    "searchTerm": "Final Fantasy I, II (Japan) [T-En by Demiforce v1.00] [Add by Grond v1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Final Fantasy II",
+            "titles": [
+                {
+                    "searchTerm": "Final Fantasy II (Japan) [T-En by Demiforce v1.03] [Add by Parasyte v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Final Fantasy III",
+            "titles": [
+                {
+                    "searchTerm": "Final Fantasy III (Japan) [T-En by Chaos Rush v1.3] [Final Fantasy VI Font]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Final Mission",
+            "titles": [
+                {
+                    "searchTerm": "Final Mission (Japan) [T-En by Stardust Crusaders v1.01]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fire Emblem - Dark Dragon and the Sword of Light",
+            "titles": [
+                {
+                    "searchTerm": "Fire Emblem - Dark Dragon and the Sword of Light (Japan) [T-En by Quirino v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fire Emblem - Shadow Dragon and the Blade of Light",
+            "titles": [
+                {
+                    "searchTerm": "Fire Emblem - Shadow Dragon and the Blade of Light (Japan) [T-En by Polinym v1.4] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fire Emblem Gaiden",
+            "titles": [
+                {
+                    "searchTerm": "Fire Emblem Gaiden (Japan) [T-En by Artemis251 v1.01] [Add by Gaiden Guy v0.9a]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fishing Maniac Sanpei - Blue Marlin Chapter",
+            "titles": [
+                {
+                    "searchTerm": "Fishing Maniac Sanpei - Blue Marlin Chapter (Japan) [T-En by MrRichard999 v0.94] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fist of the North Star - Hokuto no Ken",
+            "titles": [
+                {
+                    "searchTerm": "Fist of the North Star - Hokuto no Ken (Japan) [T-En by Stardust Crusaders v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fleet Commander",
+            "titles": [
+                {
+                    "searchTerm": "Fleet Commander (Japan) [T-En by MrRichard999 v1.01]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Flowering Star Highway",
+            "titles": [
+                {
+                    "searchTerm": "Flowering Star Highway (Japan) [T-En by GAFF Translations v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fortune Street",
+            "titles": [
+                {
+                    "searchTerm": "Fortune Street (Japan) [T-En by RType88 v0.1] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fortune Street - Stop at My Shop",
+            "titles": [
+                {
+                    "searchTerm": "Fortune Street - Stop at My Shop (Japan) [T-En by Eric Engel & MrRichard999 v0.10b] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Future Soldier - Lios",
+            "titles": [
+                {
+                    "searchTerm": "Future Soldier - Lios (Japan) [T-En by Aeon Genesis v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fuzzical Fighter",
+            "titles": [
+                {
+                    "searchTerm": "Fuzzical Fighter (Japan) [T-En by WakdHacks v1.00b]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Game of Life RPG, The",
+            "titles": [
+                {
+                    "searchTerm": "Game of Life RPG, The (Japan) [T-En by Nebulous Translations v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Game Party",
+            "titles": [
+                {
+                    "searchTerm": "Game Party (Japan) [T-En by Proveaux v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ganbare Goemon Gaiden - The Missing Golden Pipe",
+            "titles": [
+                {
+                    "searchTerm": "Ganbare Goemon Gaiden - The Missing Golden Pipe (Japan) [T-En by Adventurous Translations v0.99c] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ganbare Goemon Gaiden 2 - Treasures of the World",
+            "titles": [
+                {
+                    "searchTerm": "Ganbare Goemon Gaiden 2 - Treasures of the World (Japan) [T-En by Adventurous Translations v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ganbare Goemon!",
+            "titles": [
+                {
+                    "searchTerm": "Ganbare Goemon! (Japan) [T-En by Spinner 8 and friends v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ganbare Pennant Race!",
+            "titles": [
+                {
+                    "searchTerm": "Ganbare Pennant Race! (Japan) [T-En by MrRichard999 & Proveaux & TheMajinZenki & AgentOrange & FlashPV v0.98]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ganso Saiyuuki - Super Monkey Adventure",
+            "titles": [
+                {
+                    "searchTerm": "Ganso Saiyuuki - Super Monkey Adventure (Japan) [T-En by GAFF Translations v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Genius Bakabon, The",
+            "titles": [
+                {
+                    "searchTerm": "Genius Bakabon, The (Japan) [T-En by KingMike's Translations v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "George Tokoro's Offense and Defense",
+            "titles": [
+                {
+                    "searchTerm": "George Tokoro's Offense and Defense (Japan) [T-En by Psyklax v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Getsu Fuuma Den",
+            "titles": [
+                {
+                    "searchTerm": "Getsu Fuuma Den (Japan) [T-En by RPGe v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ghost Hunter",
+            "titles": [
+                {
+                    "searchTerm": "Ghost Hunter (Japan) [T-En by Snark v1.0] [Add by Proveaux v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Giant Monster Flaburas",
+            "titles": [
+                {
+                    "searchTerm": "Giant Monster Flaburas (Japan) [T-En by BlackPaladin v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Gimmick!",
+            "titles": [
+                {
+                    "searchTerm": "Gimmick! (Japan) [T-En by LucianoTheWindowsFan v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Glory of Heracles II, The - Titans' Downfall",
+            "titles": [
+                {
+                    "searchTerm": "Glory of Heracles II, The - Titans' Downfall (Japan) [T-En by The Spoony Bard v1.31] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Glory of Heracles, The - Labors of the Divine Hero",
+            "titles": [
+                {
+                    "searchTerm": "Glory of Heracles, The - Labors of the Divine Hero (Japan) [T-En by DvD Translations Rev B] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Go 9 Row Boardgame",
+            "titles": [
+                {
+                    "searchTerm": "Go 9 Row Boardgame (Japan) [T-En by Helly & MrRichard999 & Proveaux v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Go for it Goemon!",
+            "titles": [
+                {
+                    "searchTerm": "Go for it Goemon! (Japan) [T-En by Spinner 8 and friends v1.01] [Add by Green Jerry v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Go for it! Goemon 2",
+            "titles": [
+                {
+                    "searchTerm": "Go for it! Goemon 2 (Japan) [T-En by Stardust Crusaders v2.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Go for it! Goemon Gaiden - The Missing Golden Pipe",
+            "titles": [
+                {
+                    "searchTerm": "Go for it! Goemon Gaiden - The Missing Golden Pipe (Japan) [T-En by Adventurous Translations v0.99c] [Add by FlashPV] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Go Go! Nekketu Hockey Club - Multi-Sport Battle",
+            "titles": [
+                {
+                    "searchTerm": "Go Go! Nekketu Hockey Club - Multi-Sport Battle (Japan) [T-En by Disconnected Translations v0.99] [Add by GAFF Translations v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "God Slayer - Sonata of the Distant Heavens",
+            "titles": [
+                {
+                    "searchTerm": "God Slayer - Sonata of the Distant Heavens (Japan) [T-En by Stardust Crusaders v1.03] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Godzilla",
+            "titles": [
+                {
+                    "searchTerm": "Godzilla (Japan) [T-En by Stardust Crusaders v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Golf '92, The",
+            "titles": [
+                {
+                    "searchTerm": "Golf '92, The (Japan) [T-En by Zynk Oxhyde v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Golf Club - Birdy Rush",
+            "titles": [
+                {
+                    "searchTerm": "Golf Club - Birdy Rush (Japan) [T-En by MrRichard999 v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Gomoku Narabe Renju",
+            "titles": [
+                {
+                    "searchTerm": "Gomoku Narabe Renju (Japan) [T-En by Psyklax v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Gorby's Pipeline - Great Military Operation",
+            "titles": [
+                {
+                    "searchTerm": "Gorby's Pipeline - Great Military Operation (Japan) [T-En by DvD Translations Rev A] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Gourmet",
+            "titles": [
+                {
+                    "searchTerm": "Gourmet (Japan) [T-En by Snark v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Grand Master",
+            "titles": [
+                {
+                    "searchTerm": "Grand Master (Japan) [T-En by Aishsha & Stardust Crusaders v1.01]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Gravity Armor Metal Storm",
+            "titles": [
+                {
+                    "searchTerm": "Gravity Armor Metal Storm (Japan) [T-En by Sliver X v1.1] [n] [USA palette]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Great Maze, The - Master of the Maze",
+            "titles": [
+                {
+                    "searchTerm": "Great Maze, The - Master of the Maze (Japan) [T-En by Filler & KingMike's Translations v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Gun Nac",
+            "titles": [
+                {
+                    "searchTerm": "Gun Nac (Japan) [T-En by Zynk Oxhyde v1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Gun-Dec",
+            "titles": [
+                {
+                    "searchTerm": "Gun-Dec (Japan) [T-En by StripyMonk v4.5] [Gun Mode]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Gunhed - The New Battle",
+            "titles": [
+                {
+                    "searchTerm": "Gunhed - The New Battle (Japan) [T-En by Filler v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Hebereke",
+            "titles": [
+                {
+                    "searchTerm": "Hebereke (Japan) [T-En by BMF54123 v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Hello Kitty World",
+            "titles": [
+                {
+                    "searchTerm": "Hello Kitty World (Japan) [T-En by Hello Kitty Kicks Ass Translations v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Hello Kitty's Flower Shop",
+            "titles": [
+                {
+                    "searchTerm": "Hello Kitty's Flower Shop (Japan) [T-En by Suicidal Translations v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Hero of the Sun - Fire Bird",
+            "titles": [
+                {
+                    "searchTerm": "Hero of the Sun - Fire Bird (Japan) [T-En by Dragoon-X Translations v1.01] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Higemaru - Seven Islands Adventure",
+            "titles": [
+                {
+                    "searchTerm": "Higemaru - Seven Islands Adventure (Japan) [T-En by Snark v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Hirake! Ponkikki",
+            "titles": [
+                {
+                    "searchTerm": "Hirake! Ponkikki (Japan) [T-En by Gil Galad v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Hokuto no Ken 2",
+            "titles": [
+                {
+                    "searchTerm": "Hokuto no Ken 2 (Japan) [T-En by Extreme Fun Translations v0.50] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Holy Diver",
+            "titles": [
+                {
+                    "searchTerm": "Holy Diver (Japan) [T-En by Monaco v1.0] [Add by MottZilla R1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Hotman",
+            "titles": [
+                {
+                    "searchTerm": "Hotman (Japan) [T-En by Six Feet Under v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Hotterman's Underground Exploration",
+            "titles": [
+                {
+                    "searchTerm": "Hotterman's Underground Exploration (Japan) [T-En by Zynk Oxhyde v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Hudson's Adventure Island IV",
+            "titles": [
+                {
+                    "searchTerm": "Hudson's Adventure Island IV (Japan) [T-En by Zynk Oxhyde v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Hudson's Bug Honey on Adventure Island",
+            "titles": [
+                {
+                    "searchTerm": "Hudson's Bug Honey on Adventure Island (Japan) [T-En by FlashPV v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Hydlide 3 - Visitor from the Dark",
+            "titles": [
+                {
+                    "searchTerm": "Hydlide 3 - Visitor from the Dark (Japan) [T-En by Pacnsacdave v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "I Love Softball",
+            "titles": [
+                {
+                    "searchTerm": "I Love Softball (Japan) [T-En by FlashPV & Jink640 & MrRichard999 & Proveaux & TheMajinZenki v0.99]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "I'm Kid Dracula!!",
+            "titles": [
+                {
+                    "searchTerm": "I'm Kid Dracula!! (Japan) [T-En by Vice Translations v1.04) [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ice Ice! Hockey Challenge",
+            "titles": [
+                {
+                    "searchTerm": "Ice Ice! Hockey Challenge (Japan) [T-En by TransBRC v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Idol Hakkenden",
+            "titles": [
+                {
+                    "searchTerm": "Idol Hakkenden (Japan) [T-En by Ccmar v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ikki",
+            "titles": [
+                {
+                    "searchTerm": "Ikki (Japan) [T-En by Psyklax v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Insector X",
+            "titles": [
+                {
+                    "searchTerm": "Insector X (Japan) [T-En by Stardust Crusaders v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Island Caper!!, The - Spy vs Spy",
+            "titles": [
+                {
+                    "searchTerm": "Island Caper!!, The - Spy vs Spy (Japan) [T-En by Pacnsacdave v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "J-League Winning Goal",
+            "titles": [
+                {
+                    "searchTerm": "J-League Winning Goal (Japan) [T-En by Stardust Crusaders v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Jesus - Tale of the Dreadful Bio-Monster",
+            "titles": [
+                {
+                    "searchTerm": "Jesus - Tale of the Dreadful Bio-Monster (Japan) [T-En by Stardust Crusaders 3 Days Later Edition Rev 2] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Jigoku Gokurakumaru - The Circle of Heaven & Hell",
+            "titles": [
+                {
+                    "searchTerm": "Jigoku Gokurakumaru - The Circle of Heaven & Hell (Japan) [T-En by Stardust Crusaders v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "JJ - Jump Out! The Epic War - Part II",
+            "titles": [
+                {
+                    "searchTerm": "JJ - Jump Out! The Epic War - Part II (Japan) [T-En by DvD Translations v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "JJ - The 3-D Battles of WorldRunner - Part II",
+            "titles": [
+                {
+                    "searchTerm": "JJ - The 3-D Battles of WorldRunner - Part II (Japan) [T-En by DvD Translations v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Journey to the West - Super Monkey Adventures",
+            "titles": [
+                {
+                    "searchTerm": "Journey to the West - Super Monkey Adventures (Japan) [T-En by GAFF Translations v1.00] [Add by Pacnsacdave v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Joy Mech Fight",
+            "titles": [
+                {
+                    "searchTerm": "Joy Mech Fight (Japan) [T-En by AlanMidas joy.mech] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Jubei Quest",
+            "titles": [
+                {
+                    "searchTerm": "Jubei Quest (Japan) [T-En by Aishsha & Stardust Crusaders v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Jumpin' Kid - Jack and the Beanstalk",
+            "titles": [
+                {
+                    "searchTerm": "Jumpin' Kid - Jack and the Beanstalk (Japan) [T-En by RistarTheStar v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Just Breed",
+            "titles": [
+                {
+                    "searchTerm": "Just Breed (Japan) [T-En by Stealth Translations v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Kaiketsu Yancha Maru 2 - Karakuri Land",
+            "titles": [
+                {
+                    "searchTerm": "Kaiketsu Yancha Maru 2 - Karakuri Land (Japan) [T-En by Derrick Sobodash v1.2]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Kantaro the Pyro's Journey across the Toukaido",
+            "titles": [
+                {
+                    "searchTerm": "Kantaro the Pyro's Journey across the Toukaido (Japan) [T-En by KingMike's Translations v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Karnov",
+            "titles": [
+                {
+                    "searchTerm": "Karnov (Japan) (Rev 1) [T-En by Eien Ni Hen & Vice Translations v1.10]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Kero Kero Keroppi's Big Adventure 1",
+            "titles": [
+                {
+                    "searchTerm": "Kero Kero Keroppi's Big Adventure 1 (Japan) [T-En by Gaijin Productions v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Kero Kero Keroppi's Great Big Adventure 2 - Trouble in Donut Pond",
+            "titles": [
+                {
+                    "searchTerm": "Kero Kero Keroppi's Great Big Adventure 2 - Trouble in Donut Pond (Japan) [T-En by The Spoony Bard v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Keroppi & Keroleen's Splash Bomb!",
+            "titles": [
+                {
+                    "searchTerm": "Keroppi & Keroleen's Splash Bomb! (Japan) [T-En by Suicidal Translations v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Kid Niki 3",
+            "titles": [
+                {
+                    "searchTerm": "Kid Niki 3 (Japan) [T-En by Suicidal Translations v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "King Kong Lives - Megaton Punch of Rage",
+            "titles": [
+                {
+                    "searchTerm": "King Kong Lives - Megaton Punch of Rage (Japan) [T-En by DvD Translations Rev A] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "King of Kings",
+            "titles": [
+                {
+                    "searchTerm": "King of Kings (Japan) [T-En by MrRichard999 v0.99b]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Kinnikuman - Muscle Tag Match",
+            "titles": [
+                {
+                    "searchTerm": "Kinnikuman - Muscle Tag Match (Japan) (Rev 1) [T-En by Stardust Crusaders v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Kiteretsu Encyclopedia",
+            "titles": [
+                {
+                    "searchTerm": "Kiteretsu Encyclopedia (Japan) [T-En by Zynk Oxhyde v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Knightmare II - The Maze of Galious",
+            "titles": [
+                {
+                    "searchTerm": "Knightmare II - The Maze of Galious (Japan) [T-En by Stardust Crusaders v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Knights of the Zodiac - Legend of the Golden Armor",
+            "titles": [
+                {
+                    "searchTerm": "Knights of the Zodiac - Legend of the Golden Armor (France) [T-En by The Rosetta Group v1.0] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Knights of the Zodiac, The - The Legend of the Gold",
+            "titles": [
+                {
+                    "searchTerm": "Knights of the Zodiac, The - The Legend of the Gold (France) [T-En by KingMike's Translations v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Kung Fu 2",
+            "titles": [
+                {
+                    "searchTerm": "Kung Fu 2 (Japan) [T-En by Abstract Crouton Productions v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Kunio Tournament",
+            "titles": [
+                {
+                    "searchTerm": "Kunio Tournament (Japan) [T-En by ReptilianCicilian v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Kunio-Kun's Nekketsu Soccer League",
+            "titles": [
+                {
+                    "searchTerm": "Kunio-Kun's Nekketsu Soccer League (Japan) [T-En by PentarouZero v1.2] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Kyoryu Sentai ZyuRanger",
+            "titles": [
+                {
+                    "searchTerm": "Kyoryu Sentai ZyuRanger (Japan) [T-En by Grimm Translations v0.99] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Labyrinth",
+            "titles": [
+                {
+                    "searchTerm": "Labyrinth (Japan) [T-En by Suicidal Translations Beta]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Lagrange Point",
+            "titles": [
+                {
+                    "searchTerm": "Lagrange Point (Japan) [T-En by Aeon Genesis v1.01]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "LaSalle Ishii's Childs Quest",
+            "titles": [
+                {
+                    "searchTerm": "LaSalle Ishii's Childs Quest (Japan) [T-En by Woolsey Fan Company v1.0] [Add by Polinym v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Last Armageddon",
+            "titles": [
+                {
+                    "searchTerm": "Last Armageddon (Japan) [T-En by BlackPaladin v1.02a]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Law of the West",
+            "titles": [
+                {
+                    "searchTerm": "Law of the West (Japan) [T-En by GAFF Translations v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Legend of Double Moon, The",
+            "titles": [
+                {
+                    "searchTerm": "Legend of Double Moon, The (Japan) [T-En by Aishsha & Stardust Crusaders v1.02] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Legend of Fuma, The [Japan] [T-En by Nebulous Translations v1.01] [n]",
+            "titles": [
+                {
+                    "searchTerm": "Legend of Fuma, The [Japan] [T-En by Nebulous Translations v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Legend of Getsu Fuma, The",
+            "titles": [
+                {
+                    "searchTerm": "Legend of Getsu Fuma, The (Japan) [T-En by RPGe v1.00] [Add by Pacnsacdave v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Legend of Peach Boy, The",
+            "titles": [
+                {
+                    "searchTerm": "Legend of Peach Boy, The (Japan) [T-En by KingMike's Translations v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Legend of Princess Kaguya, The",
+            "titles": [
+                {
+                    "searchTerm": "Legend of Princess Kaguya, The (Japan) [T-En by FCandChill & TheMajinZenki v1.2] [n] [Updated Graphics]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Legend of the River King",
+            "titles": [
+                {
+                    "searchTerm": "Legend of the River King (Japan) [T-En by Pikachumanson v0.91] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Legend of Zelda, The",
+            "titles": [
+                {
+                    "searchTerm": "Legend of Zelda, The (USA) [T-En by SimpleDanny v1.1] [Relocalized]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Light of Indra, The",
+            "titles": [
+                {
+                    "searchTerm": "Light of Indra, The (Japan) [T-En by KingMike's Translations v1.0 Beta] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Little Ghosts",
+            "titles": [
+                {
+                    "searchTerm": "Little Ghosts (Japan) [T-En by KingMike's Translations v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Little Magic",
+            "titles": [
+                {
+                    "searchTerm": "Little Magic (Japan) [T-En by Gaijin Productions & TransBRC v0.33 alpha] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Little Ninja Hattori",
+            "titles": [
+                {
+                    "searchTerm": "Little Ninja Hattori (Japan) [T-En by Pacnsacdave v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Lord of King, The",
+            "titles": [
+                {
+                    "searchTerm": "Lord of King, The (Japan) [T-En by BlackPaladin v1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Lost Word of Jenny",
+            "titles": [
+                {
+                    "searchTerm": "Lost Word of Jenny (Japan) [T-En by Zynk Oxhyde v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Lupin the 3rd - Pandora's Legacy",
+            "titles": [
+                {
+                    "searchTerm": "Lupin the 3rd - Pandora's Legacy (Japan) [T-En by Vice Translations v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mad City",
+            "titles": [
+                {
+                    "searchTerm": "Mad City (Japan) [T-En by Stardust Crusaders v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Madara",
+            "titles": [
+                {
+                    "searchTerm": "Madara (Japan) [T-En by Aeon Genesis v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Magic Candle, The",
+            "titles": [
+                {
+                    "searchTerm": "Magic Candle, The (Japan) [T-En by Aishsha & Stardust Crusaders v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Magic John",
+            "titles": [
+                {
+                    "searchTerm": "Magic John (Japan) [T-En by KingMike's Translations & Video Smash Excellent v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Magical Doropie",
+            "titles": [
+                {
+                    "searchTerm": "Magical Doropie (Japan) [T-En by Video Smash Excellent v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Magical Princess Minky Momo - Remember Dream",
+            "titles": [
+                {
+                    "searchTerm": "Magical Princess Minky Momo - Remember Dream (Japan) [T-En by Karmic v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Maharaja",
+            "titles": [
+                {
+                    "searchTerm": "Maharaja (Japan) [T-En by Snark v0.99]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mahjong",
+            "titles": [
+                {
+                    "searchTerm": "Mahjong (Japan) (Rev B) [T-En by Psyklax v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Major League",
+            "titles": [
+                {
+                    "searchTerm": "Major League (Japan) [T-En by MrRichard999 & TheMajinZenki & AgentOrange & Dr. Floppy & FlashPV v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Majou Densetsu II - Daimashikyou Galious",
+            "titles": [
+                {
+                    "searchTerm": "Majou Densetsu II - Daimashikyou Galious (Japan) [T-En by Manipulate v0.31b]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mappy Kids",
+            "titles": [
+                {
+                    "searchTerm": "Mappy Kids (Japan) [T-En by Zynk Oxhyde v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mashin Hero Wataru Gaiden",
+            "titles": [
+                {
+                    "searchTerm": "Mashin Hero Wataru Gaiden (Japan) [T-En by Hubz v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Masked Ninja - Hanamaru",
+            "titles": [
+                {
+                    "searchTerm": "Masked Ninja - Hanamaru (Japan) [T-En by Pacnsacdave v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Masked Ninja, The - Akakage",
+            "titles": [
+                {
+                    "searchTerm": "Masked Ninja, The - Akakage (Japan) [T-En by Zynk Oxhyde v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mega Man 2",
+            "titles": [
+                {
+                    "searchTerm": "Mega Man 2 (Japan) [T-En by Aeon Genesis v1.0] [Add by DarthVaderX v1.0a] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mega Man 2 - Dr. Wily's Riddle",
+            "titles": [
+                {
+                    "searchTerm": "Mega Man 2 - Dr. Wily's Riddle (Japan) [T-En by Aeon Genesis v1.0] [Add by DarthVaderX v1.0a] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mega Man 6",
+            "titles": [
+                {
+                    "searchTerm": "Mega Man 6 (Japan) [T-En by Her-Saki v1.1] [Add by DarthVaderX .0.90] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mega Man 6 - The Greatest Battle in History!!",
+            "titles": [
+                {
+                    "searchTerm": "Mega Man 6 - The Greatest Battle in History!! (Japan) [T-En by Her-Saki v1.1] [Add by DarthVaderX v0.90] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Metal Max",
+            "titles": [
+                {
+                    "searchTerm": "Metal Max (Japan) [T-En by Supper v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Metal Slader Glory",
+            "titles": [
+                {
+                    "searchTerm": "Metal Slader Glory (Japan) [T-En by FCandChill & Her-Saki v1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mickey Mouse III - Dream Balloon",
+            "titles": [
+                {
+                    "searchTerm": "Mickey Mouse III - Dream Balloon (Japan) [T-En by NikcDC v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mighty Morphin Power Rangers",
+            "titles": [
+                {
+                    "searchTerm": "Mighty Morphin Power Rangers (Japan) [T-En by Grimm Translations v0.99] [Add by Pacnsacdave v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Minelvaton Saga",
+            "titles": [
+                {
+                    "searchTerm": "Minelvaton Saga (Japan) [T-En by Aishsha v1.05]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mini Putt",
+            "titles": [
+                {
+                    "searchTerm": "Mini Putt (Japan) [T-En by Klarth Aileron v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mississippi Satsujin Jiken",
+            "titles": [
+                {
+                    "searchTerm": "Mississippi Satsujin Jiken (Japan) [T-En by GAFF Translations v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mitsume ga Tooru",
+            "titles": [
+                {
+                    "searchTerm": "Mitsume ga Tooru (Japan) [T-En by StripyMonk v5.8] [Hard Mode]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Moai-kun",
+            "titles": [
+                {
+                    "searchTerm": "Moai-kun (Japan) [T-En by Suicidal Translations v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Modern Shogi - Naito 9-Dan Shogi Secret",
+            "titles": [
+                {
+                    "searchTerm": "Modern Shogi - Naito 9-Dan Shogi Secret (Japan) [T-En by Psyklax v1.0] [Roman] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Moon Crystal",
+            "titles": [
+                {
+                    "searchTerm": "Moon Crystal (Japan) [T-En by Alex W. Jackson v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Moon Princess",
+            "titles": [
+                {
+                    "searchTerm": "Moon Princess (Japan) [T-En by Snark v0.99] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Most Dangerous Detectives, The",
+            "titles": [
+                {
+                    "searchTerm": "Most Dangerous Detectives, The (Japan) [T-En by Gil Galad v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Motocross Champion",
+            "titles": [
+                {
+                    "searchTerm": "Motocross Champion (Japan) [T-En by Suicidal Translations v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mr. Moai",
+            "titles": [
+                {
+                    "searchTerm": "Mr. Moai (Japan) [T-En by Stardust Crusaders v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Musashi no Bouken",
+            "titles": [
+                {
+                    "searchTerm": "Musashi no Bouken (Japan) [T-En by Gaijin Productions & MadHacker v0.98]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Musashi no Ken - Training Days",
+            "titles": [
+                {
+                    "searchTerm": "Musashi no Ken - Training Days (Japan) [T-En by GAFF Translations v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Musashi's Sword - Training Days",
+            "titles": [
+                {
+                    "searchTerm": "Musashi's Sword - Training Days (Japan) [T-En by GAFF Translations v1.00] ]Add by Green Jerry v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mystery of Atlantis, The",
+            "titles": [
+                {
+                    "searchTerm": "Mystery of Atlantis, The (Japan) [T-En by Pacnsacdave v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mystical Ninja",
+            "titles": [
+                {
+                    "searchTerm": "Mystical Ninja (Japan) [T-En by Spinner 8 and friends v1.01] [Add by El Duderino v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mystical Ninja - Saga of the Golden Pipe",
+            "titles": [
+                {
+                    "searchTerm": "Mystical Ninja - Saga of the Golden Pipe (Japan) [T-En by Adventurous Translations v0.99c] [Add by El Duderino v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mystical Ninja 2",
+            "titles": [
+                {
+                    "searchTerm": "Mystical Ninja 2 (Japan) [T-En by Stardust Crusaders v1.02] [Add by El Duderino v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Nadia - Secret of the Blue Water",
+            "titles": [
+                {
+                    "searchTerm": "Nadia - Secret of the Blue Water (Japan) [T-En by J2e Translations v1.3] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Nakayoshi n' Me",
+            "titles": [
+                {
+                    "searchTerm": "Nakayoshi n' Me (Japan) [T-En by HTI v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Namco Classic II",
+            "titles": [
+                {
+                    "searchTerm": "Namco Classic II (Japan) [T-En by MrRichard999 v0.80] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Namco Prism Zone - Dream Master",
+            "titles": [
+                {
+                    "searchTerm": "Namco Prism Zone - Dream Master (Japan) [T-En by Aishsha v1.01]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Nekketsu Highschool Dodgeball Club - Soccer Edition",
+            "titles": [
+                {
+                    "searchTerm": "Nekketsu Highschool Dodgeball Club - Soccer Edition (Japan) [T-En by Ghost-Tank v0.9] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Nekketsu Koukou Dodgeball-bu",
+            "titles": [
+                {
+                    "searchTerm": "Nekketsu Koukou Dodgeball-bu (Japan) [T-En by Generica Online v0.9] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Nekketsu! Street Basket - Go for it, Dunk Heroes!",
+            "titles": [
+                {
+                    "searchTerm": "Nekketsu! Street Basket - Go for it, Dunk Heroes! (Japan) [T-En by Farid v1.2] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Nekketu Cross-Country",
+            "titles": [
+                {
+                    "searchTerm": "Nekketu Cross-Country (Japan) [T-En by Disconnected Translations v0.15] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "NES Wars",
+            "titles": [
+                {
+                    "searchTerm": "NES Wars (Japan) [T-En by Stardust Crusaders v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "New York Nyankies",
+            "titles": [
+                {
+                    "searchTerm": "New York Nyankies (Japan) [T-En by StripyMonk v3.7]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ninja - Jajamaru in the Castle of Evil",
+            "titles": [
+                {
+                    "searchTerm": "Ninja - Jajamaru in the Castle of Evil (Japan) [T-En by Aishsha v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ninja Jajamaru",
+            "titles": [
+                {
+                    "searchTerm": "Ninja Jajamaru (Japan) [T-En by Aishsha & Stardust Crusaders v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ninja Jajamaru - Galactic Battle",
+            "titles": [
+                {
+                    "searchTerm": "Ninja Jajamaru - Galactic Battle (Japan) [T-En by HTI v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ninja Jajamaru - Legend of a Demon's Attack - Castle of Dreams",
+            "titles": [
+                {
+                    "searchTerm": "Ninja Jajamaru - Legend of a Demon's Attack - Castle of Dreams (Japan) [T-En by Aishsha & Stardust Crusaders v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ninja Jajamaru - The Ninja Scrolls",
+            "titles": [
+                {
+                    "searchTerm": "Ninja Jajamaru - The Ninja Scrolls (Japan) [T-En by Aishsha & Stardust Crusaders v1.02] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ninja Jajamaru in Asura's Wrath",
+            "titles": [
+                {
+                    "searchTerm": "Ninja Jajamaru in Asura's Wrath (Japan) [T-En by Aishsha v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ninja Jajamaru's Big Adventure",
+            "titles": [
+                {
+                    "searchTerm": "Ninja Jajamaru's Big Adventure (Japan) [T-En by Aishsha & Stardust Crusaders v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ninja Kid's Demon Castle Adventure",
+            "titles": [
+                {
+                    "searchTerm": "Ninja Kid's Demon Castle Adventure (Japan) [T-En by Pacnsacdave v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ninja Rahoi!",
+            "titles": [
+                {
+                    "searchTerm": "Ninja Rahoi! (Japan) [T-En by Aishsha & Stardust Crusaders v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ninja-kun - Ashura no Shou",
+            "titles": [
+                {
+                    "searchTerm": "Ninja-kun - Ashura no Shou (Japan) [T-En by The Spoony Bard v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "No Matter What!! Baseball",
+            "titles": [
+                {
+                    "searchTerm": "No Matter What!! Baseball (Japan) [T-En by Pacnsacdave v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Open! Ponkikki",
+            "titles": [
+                {
+                    "searchTerm": "Open! Ponkikki (Japan) [T-En by Open! Ponkikki v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Outlanders",
+            "titles": [
+                {
+                    "searchTerm": "Outlanders (Japan) [T-En by GAFF Translations v1.01]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Paaman 2 - Down with the Secret Madou Society!",
+            "titles": [
+                {
+                    "searchTerm": "Paaman 2 - Down with the Secret Madou Society! (Japan) [T-En by KingMike's Translations v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Palamedes II - Star Twinkles",
+            "titles": [
+                {
+                    "searchTerm": "Palamedes II - Star Twinkles (Japan) [T-En by KingMike's Translations v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Parallel World",
+            "titles": [
+                {
+                    "searchTerm": "Parallel World (Japan) [T-En by PentarouZero v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Parasol Henbee",
+            "titles": [
+                {
+                    "searchTerm": "Parasol Henbee (Japan) [T-En by Zynk Oxhyde v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Paris-Dakar Rally Special",
+            "titles": [
+                {
+                    "searchTerm": "Paris-Dakar Rally Special (Japan) [T-En by MrRichard999 v1.02] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Parodius - From Myth to Laughter",
+            "titles": [
+                {
+                    "searchTerm": "Parodius - From Myth to Laughter (Japan) [T-En by Stardust Crusaders v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Peacock King",
+            "titles": [
+                {
+                    "searchTerm": "Peacock King (Japan) [T-En by Snark v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Peacock King II",
+            "titles": [
+                {
+                    "searchTerm": "Peacock King II (Japan) [T-En by Snark v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Penguin Wars",
+            "titles": [
+                {
+                    "searchTerm": "Penguin Wars (Japan) [T-En by Pangent Technologies v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Penguin-kun Wars",
+            "titles": [
+                {
+                    "searchTerm": "Penguin-kun Wars (Japan) [T-En by Penguin Translations v1.012] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Perman - Return the Space Saucer!",
+            "titles": [
+                {
+                    "searchTerm": "Perman - Return the Space Saucer! (Japan) [T-En by Zynk Oxhyde v2.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Perman 2 - Down with the Secret Madou Society!",
+            "titles": [
+                {
+                    "searchTerm": "Perman 2 - Down with the Secret Madou Society! (Japan) [T-En by KingMike's Translations v1.0] [Add by Pacnsacdave] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Phantom Travel Journal",
+            "titles": [
+                {
+                    "searchTerm": "Phantom Travel Journal (Japan) [T-En by Jackic v0.9] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Phoenix Karma - Gao's Adventure",
+            "titles": [
+                {
+                    "searchTerm": "Phoenix Karma - Gao's Adventure (Japan) [T-En by Stardust Crusaders v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Photon - Soldier of Light - The Ultimate Game on Planet Earth",
+            "titles": [
+                {
+                    "searchTerm": "Photon - Soldier of Light - The Ultimate Game on Planet Earth (Japan) [T-En by KingMike's Translations v1.00b] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Pizza Pop!",
+            "titles": [
+                {
+                    "searchTerm": "Pizza Pop! (Japan) [T-En by Pacnsacdave v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Plasma Ball",
+            "titles": [
+                {
+                    "searchTerm": "Plasma Ball (Japan) [T-En by MrRichard999 v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Pocket Zaurus - Swords of the Ten Kings",
+            "titles": [
+                {
+                    "searchTerm": "Pocket Zaurus - Swords of the Ten Kings (Japan) [T-En by DvD Translations Rev A] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Pop Star Debut",
+            "titles": [
+                {
+                    "searchTerm": "Pop Star Debut (Japan) [T-En by Woolsey Fan Company v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Popeye Lingo Game",
+            "titles": [
+                {
+                    "searchTerm": "Popeye Lingo Game (Japan) [T-En by KingMike's Translations v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Portopia Serial Murder Case, The",
+            "titles": [
+                {
+                    "searchTerm": "Portopia Serial Murder Case, The (Japan) [T-En by DvD Translations Rev B] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Power Blazer",
+            "titles": [
+                {
+                    "searchTerm": "Power Blazer (Japan) [T-En by Stardust Crusaders v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Princess Tomato in the Salad Kingdom",
+            "titles": [
+                {
+                    "searchTerm": "Princess Tomato in the Salad Kingdom (Japan) [T-En by Stardust Crusaders v1.03] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Princesstual Orgy",
+            "titles": [
+                {
+                    "searchTerm": "Princesstual Orgy (Japan) [T-En by Suicidal Translations v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Puss in Boots - Around the World in 80 Days",
+            "titles": [
+                {
+                    "searchTerm": "Puss in Boots - Around the World in 80 Days (Japan) [T-En by Psyklax v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Puyo Puyo",
+            "titles": [
+                {
+                    "searchTerm": "Puyo Puyo (Japan) [T-En by Aeon Genesis v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Pyokotan's Big Maze",
+            "titles": [
+                {
+                    "searchTerm": "Pyokotan's Big Maze (Japan) [T-En by MrRichard999 v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Q-tarou the Ghost - Bow Wow Panic",
+            "titles": [
+                {
+                    "searchTerm": "Q-tarou the Ghost - Bow Wow Panic (Japan) [T-En by Pacnsacdave v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Quest of Ki, The",
+            "titles": [
+                {
+                    "searchTerm": "Quest of Ki, The (Japan) [T-En by Zynk Oxhyde v2.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Radical Ninja Yanchamaru 2 in Karakuri Land",
+            "titles": [
+                {
+                    "searchTerm": "Radical Ninja Yanchamaru 2 in Karakuri Land (Japan) [T-En by Zynk Oxhyde v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Raging Fire - Recca",
+            "titles": [
+                {
+                    "searchTerm": "Raging Fire - Recca (Japan) [T-En by Aeon Genesis v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Railroad Baron",
+            "titles": [
+                {
+                    "searchTerm": "Railroad Baron (Japan) [T-En by Jink640 & MrRichard999 & Proveaux v0.98] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Rainbow Silkroad",
+            "titles": [
+                {
+                    "searchTerm": "Rainbow Silkroad (Japan) [T-En by Gaijin Productions v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Rampart",
+            "titles": [
+                {
+                    "searchTerm": "Rampart (Japan) [T-En by Magnus Nilsson & MrRichard999 v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Requiem for Battle",
+            "titles": [
+                {
+                    "searchTerm": "Requiem for Battle (Japan) [T-En by BlackPaladin v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Riki Kunio",
+            "titles": [
+                {
+                    "searchTerm": "Riki Kunio (Japan) [T-En by oRdErEDchaos v0.95] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ripple Island",
+            "titles": [
+                {
+                    "searchTerm": "Ripple Island (Japan) [T-En by Supper v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "River City Ransom",
+            "titles": [
+                {
+                    "searchTerm": "River City Ransom (USA) [T-En by FANS v1.2] [Relocalized]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "River City Ransom Zero",
+            "titles": [
+                {
+                    "searchTerm": "River City Ransom Zero (Japan) [T-En by Vice Translations v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Robocco Wars",
+            "titles": [
+                {
+                    "searchTerm": "Robocco Wars (Japan) [T-En by Stardust Crusaders v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Rockman 2 - Dr. Wily's Riddle",
+            "titles": [
+                {
+                    "searchTerm": "Rockman 2 - Dr. Wily's Riddle (Japan) [T-En by Aeon Genesis v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Rockman 6 - The Greatest Battle in History!!",
+            "titles": [
+                {
+                    "searchTerm": "Rockman 6 - The Greatest Battle in History!! (Japan) [T-En by Her-Saki v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Saint Seiya - Knights of the Zodiac - The Golden Legend - Final Chapter",
+            "titles": [
+                {
+                    "searchTerm": "Saint Seiya - Knights of the Zodiac - The Golden Legend - Final Chapter (Japan) [T-En by Aishsha & Djinn v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Saiyuki World II - Evil Spirit of Heaven",
+            "titles": [
+                {
+                    "searchTerm": "Saiyuki World II - Evil Spirit of Heaven (Japan) [T-En by PentarouZero v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Saiyuuki World",
+            "titles": [
+                {
+                    "searchTerm": "Saiyuuki World (Japan) [T-En by Nebulous Translations v0.95]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Samurai Lord Musashi, The - Gimmicks on the Run!!",
+            "titles": [
+                {
+                    "searchTerm": "Samurai Lord Musashi, The - Gimmicks on the Run!! (Japan) [T-En by Aishsha & Stardust Crusaders v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Samurai Pizza Cats",
+            "titles": [
+                {
+                    "searchTerm": "Samurai Pizza Cats (Japan) [T-En by Vice Translations v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sanrio Carnival",
+            "titles": [
+                {
+                    "searchTerm": "Sanrio Carnival (Japan) [T-En by Zynk Oxhyde v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sanrio Carnival 2",
+            "titles": [
+                {
+                    "searchTerm": "Sanrio Carnival 2 (Japan) [T-En by Suicidal Translations v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sanrio Cup - Pon Pon Volley",
+            "titles": [
+                {
+                    "searchTerm": "Sanrio Cup - Pon Pon Volley (Japan) [T-En by Gaijin Productions v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sansara Naga",
+            "titles": [
+                {
+                    "searchTerm": "Sansara Naga (Japan) [T-En by Aishsha & Stardust Crusaders v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "SD Detective Blader",
+            "titles": [
+                {
+                    "searchTerm": "SD Detective Blader (Japan) [T-En by Aishsha & Stardust Crusaders v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "SD Gundam - Gachapon Senshi 3 - Hero Warrior",
+            "titles": [
+                {
+                    "searchTerm": "SD Gundam - Gachapon Senshi 3 - Hero Warrior (Japan) [T-En by MrRichard999 v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "SD Gundam - Gachapon Soldier 2 - Capsule War",
+            "titles": [
+                {
+                    "searchTerm": "SD Gundam - Gachapon Soldier 2 - Capsule War (Japan) [T-En by MrRichard999 v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "SD Gundam - Gachapon Soldier 4 - NewType Story",
+            "titles": [
+                {
+                    "searchTerm": "SD Gundam - Gachapon Soldier 4 - NewType Story (Japan) [T-En by MrRichard999 & Proveaux v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "SD Gundam Gaiden - Knight Gundam Monogatari",
+            "titles": [
+                {
+                    "searchTerm": "SD Gundam Gaiden - Knight Gundam Monogatari (Japan) (Rev 1) [T-En by Sheex v0.10] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "SD Gundam Story - Knight Gundam Legend",
+            "titles": [
+                {
+                    "searchTerm": "SD Gundam Story - Knight Gundam Legend (Japan) [T-En by Aishsha & Stardust Crusaders v1.03] [n] [FCE Ultra]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "SD Hero Total Battle - Defeat! The Army of Evil",
+            "titles": [
+                {
+                    "searchTerm": "SD Hero Total Battle - Defeat! The Army of Evil (Japan) [T-En by Corvo v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Shadow Brain",
+            "titles": [
+                {
+                    "searchTerm": "Shadow Brain (Japan) [T-En by Aishsha & Stardust Crusaders v1.0] [Add by MrRichard999 v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Shell Monsters Story",
+            "titles": [
+                {
+                    "searchTerm": "Shell Monsters Story (Japan) [T-En by KingMike's Translations v1.0beta2] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sherlock Holmes - The Kidnapped Countess",
+            "titles": [
+                {
+                    "searchTerm": "Sherlock Holmes - The Kidnapped Countess (Japan) [T-En by Psyklax v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Shikinjou",
+            "titles": [
+                {
+                    "searchTerm": "Shikinjou (Japan) [T-En by Suicidal Translations v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Shinsenden - The Legend of Immortals",
+            "titles": [
+                {
+                    "searchTerm": "Shinsenden - The Legend of Immortals (Japan) [T-En by Aishsha v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Shufflepuck Cafe",
+            "titles": [
+                {
+                    "searchTerm": "Shufflepuck Cafe (Japan) [T-En by MadHacker v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Silva Saga",
+            "titles": [
+                {
+                    "searchTerm": "Silva Saga (Japan) [T-En by Aishsha v1.01]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Softball Heaven",
+            "titles": [
+                {
+                    "searchTerm": "Softball Heaven (Japan) [T-En by The Spoony Bard v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Soreike! Anpanman - Everyones Hiking Game!",
+            "titles": [
+                {
+                    "searchTerm": "Soreike! Anpanman - Everyones Hiking Game! (Japan) [T-En by Pope Hentai's Rom Hacking Fun! v0.99] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Space Hunter",
+            "titles": [
+                {
+                    "searchTerm": "Space Hunter (Japan) [T-En by Zatos Hacks v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Spelunker II - A Hero's Challenge",
+            "titles": [
+                {
+                    "searchTerm": "Spelunker II - A Hero's Challenge (Japan) [T-En by Stardust Crusaders v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Spelunker II - Yuusha e no Chousen",
+            "titles": [
+                {
+                    "searchTerm": "Spelunker II - Yuusha e no Chousen (Japan) [T-En by Sarysa v0.9]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Splatter House - Super Deformed",
+            "titles": [
+                {
+                    "searchTerm": "Splatter House - Super Deformed (Japan) [T-En by Spinner 8 and friends v2.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Spontaneous Musician",
+            "titles": [
+                {
+                    "searchTerm": "Spontaneous Musician (Japan) [T-En by Psyklax v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Spooky Kitaro 2 - Kitaro Versus Yokai Army",
+            "titles": [
+                {
+                    "searchTerm": "Spooky Kitaro 2 - Kitaro Versus Yokai Army (Japan) [T-En by Aishsha & Djinn v1.01] [Add by Me_Dave v1.2] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Spooky Kitarou in the Yokai World",
+            "titles": [
+                {
+                    "searchTerm": "Spooky Kitarou in the Yokai World (Japan) [T-En by Aishsha v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sqoon",
+            "titles": [
+                {
+                    "searchTerm": "Sqoon (Japan) [T-En by Stardust Crusaders v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Square no Tom Sawyer",
+            "titles": [
+                {
+                    "searchTerm": "Square no Tom Sawyer (Japan) [T-En by Dushbadge v2.0] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Star Wars",
+            "titles": [
+                {
+                    "searchTerm": "Star Wars (Japan) (Namco) [T-En by Mukimuki & Shinta v2.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Stardom Warriors",
+            "titles": [
+                {
+                    "searchTerm": "Stardom Warriors (Japan) [T-En by Woolsey Fan Company v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Stargazers",
+            "titles": [
+                {
+                    "searchTerm": "Stargazers (Japan) [T-En by KingMike's Translations v0.80] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sted - Starfield of Memorable Relics",
+            "titles": [
+                {
+                    "searchTerm": "Sted - Starfield of Memorable Relics (Japan) [T-En J2e Translations v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Storm of Reformation",
+            "titles": [
+                {
+                    "searchTerm": "Storm of Reformation (Japan) [T-En by Hieroglitch v1.0] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Suddenly! Machoman",
+            "titles": [
+                {
+                    "searchTerm": "Suddenly! Machoman (Japan) [T-En by Pacnsacdave v1.0] [[n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sugoro Quest - The Quest of Dice Heroes",
+            "titles": [
+                {
+                    "searchTerm": "Sugoro Quest - The Quest of Dice Heroes (Japan) [T-En by AlanMidas koogly.titivilus] [Add by KingMike's Translations v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Summer Carnival '92 - Recca",
+            "titles": [
+                {
+                    "searchTerm": "Summer Carnival '92 - Recca (Japan) [T-En by Aeon Genesis v1.00] [Add by FlashPV v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sumo Wrestling!",
+            "titles": [
+                {
+                    "searchTerm": "Sumo Wrestling! (Japan) [T-En by The Spoony Bard v1.01] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Super Chinese 2 - Dragon Kid",
+            "titles": [
+                {
+                    "searchTerm": "Super Chinese 2 - Dragon Kid (Japan) [T-En by DDSTranslation v1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Super Chinese 3",
+            "titles": [
+                {
+                    "searchTerm": "Super Chinese 3 (Japan) [T-En by DDSTranslation v1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Super Dimensional Fortress - Macross",
+            "titles": [
+                {
+                    "searchTerm": "Super Dimensional Fortress - Macross (Japan) [T-En by BlackPaladin v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Super Planetary War Chronicle - MetaFight",
+            "titles": [
+                {
+                    "searchTerm": "Super Planetary War Chronicle - MetaFight (Japan) [T-En by BlackPaladin v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Super Planetary War Records - MetaFight",
+            "titles": [
+                {
+                    "searchTerm": "Super Planetary War Records - MetaFight (Japan) [T-En by Pacnsacdave v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Super Real Baseball '88",
+            "titles": [
+                {
+                    "searchTerm": "Super Real Baseball '88 (Japan) [T-En by MrRichard999 & Proveaux & TheMajinZenki & Jink640 & FlashPV v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Super Rescue - Solbrain",
+            "titles": [
+                {
+                    "searchTerm": "Super Rescue - Solbrain (Japan) [T-En by Chronix v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Super Robot Wars 2",
+            "titles": [
+                {
+                    "searchTerm": "Super Robot Wars 2 (Japan) [T-En by Aeon Genesis v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Super Star Force",
+            "titles": [
+                {
+                    "searchTerm": "Super Star Force (Japan) [T-En by GAFF Translations v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Super Xevious - The Riddle of GAMP",
+            "titles": [
+                {
+                    "searchTerm": "Super Xevious - The Riddle of GAMP (Japan) [T-En by Psyklax v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Superstar Pro Wrestling",
+            "titles": [
+                {
+                    "searchTerm": "Superstar Pro Wrestling (Japan) [T-En by Pacnsacdave v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "SWAT - Special Weapons and Tactics",
+            "titles": [
+                {
+                    "searchTerm": "SWAT - Special Weapons and Tactics (Japan) [T-En by Psyklax v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sweet Home",
+            "titles": [
+                {
+                    "searchTerm": "Sweet Home (Japan) [T-En by TheSiege v2.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Tabo's Tactics",
+            "titles": [
+                {
+                    "searchTerm": "Tabo's Tactics (Japan) [T-En by Suicidal Translations v1.01] [Add by Hap v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Taito Chase H.Q.",
+            "titles": [
+                {
+                    "searchTerm": "Taito Chase H.Q. (Japan) [T-En by Pacnsacdave v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Taito Grand Prix",
+            "titles": [
+                {
+                    "searchTerm": "Taito Grand Prix (Japan) [T-En by MrRichard999 v0.92b] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Takeda Shingen",
+            "titles": [
+                {
+                    "searchTerm": "Takeda Shingen (Japan) [T-En by AgentOrange & FlashPV & Jink640 & MrRichard999 & Proveaux Hacks & TheMajinZenki v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Takeshi's Challenge",
+            "titles": [
+                {
+                    "searchTerm": "Takeshi's Challenge (Japan) [T-En by KingMike's Translations v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Tank Commander - Desert Fox",
+            "titles": [
+                {
+                    "searchTerm": "Tank Commander - Desert Fox (Japan) [T-En by Stardust Crusaders v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Tao",
+            "titles": [
+                {
+                    "searchTerm": "Tao (Japan) [T-En by Snark v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Tashiro Masashi has so many Princesses",
+            "titles": [
+                {
+                    "searchTerm": "Tashiro Masashi has so many Princesses (Japan) [T-En by Suicidal Translations v1.00] [Add by Zynk Oxhyde v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Taxing Woman, A",
+            "titles": [
+                {
+                    "searchTerm": "Taxing Woman, A (Japan) [T-En by M-Tee v1.0] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Technos Samurai - Downtown Special!",
+            "titles": [
+                {
+                    "searchTerm": "Technos Samurai - Downtown Special! (Japan) [T-En by Technos Samurai Translation Project v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Tendou - Heavenly Child",
+            "titles": [
+                {
+                    "searchTerm": "Tendou - Heavenly Child (Japan) [T-En by Stardust Crusaders v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Tetrastar - The Fighter",
+            "titles": [
+                {
+                    "searchTerm": "Tetrastar - The Fighter (Japan) [T-En by Gaijin Productions v1.00beta]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Three Kingdoms - Champion of the Center",
+            "titles": [
+                {
+                    "searchTerm": "Three Kingdoms - Champion of the Center (Japan) [T-En by Green Dark Software v0.1] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Three-Eyed One, The",
+            "titles": [
+                {
+                    "searchTerm": "Three-Eyed One, The (Japan) [T-En by Arrogant v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Time Zone",
+            "titles": [
+                {
+                    "searchTerm": "Time Zone (Japan) [T-En by KingMike's Translations v1.3] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "TM Network - Live in Power Bowl",
+            "titles": [
+                {
+                    "searchTerm": "TM Network - Live in Power Bowl (Japan) [T-En by Stardust Crusaders v1.01]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Transformers, The - Mystery of Convoy",
+            "titles": [
+                {
+                    "searchTerm": "Transformers, The - Mystery of Convoy (Japan) [T-En by Stardust Crusaders v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Treasures of Elnark",
+            "titles": [
+                {
+                    "searchTerm": "Treasures of Elnark (Japan) [T-En by MrRichard999 v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "TwinBee 3 - The Aimless Demon King",
+            "titles": [
+                {
+                    "searchTerm": "TwinBee 3 - The Aimless Demon King (Japan) [T-En by Demiforce & Stardust Crusaders v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Uchuusen Cosmo Carrier",
+            "titles": [
+                {
+                    "searchTerm": "Uchuusen Cosmo Carrier (Japan) [T-En by Gil Galad v0.25] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ultimate Entertainment Stadium",
+            "titles": [
+                {
+                    "searchTerm": "Ultimate Entertainment Stadium (Japan) [T-En by MrRichard999 v0.70b] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ultraman Club - Great Kaiju Battle!!",
+            "titles": [
+                {
+                    "searchTerm": "Ultraman Club - Great Kaiju Battle!! (Japan) [T-En by Ccmar & Eric Engel v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Urusei Yatsura - Lum's Wedding Bell",
+            "titles": [
+                {
+                    "searchTerm": "Urusei Yatsura - Lum's Wedding Bell (Japan) [T-En by Stardust Crusaders v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ushio & Tora - Great Demon of the Abyss",
+            "titles": [
+                {
+                    "searchTerm": "Ushio & Tora - Great Demon of the Abyss (Japan) [T-En by BlackPaladin & Midori & Phonymike v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ushio to Tora - Shinen no Taiyou",
+            "titles": [
+                {
+                    "searchTerm": "Ushio to Tora - Shinen no Taiyou (Japan) [T-En by Neophyte Productions v0.20] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Valis - The Fantasm Soldier",
+            "titles": [
+                {
+                    "searchTerm": "Valis - The Fantasm Soldier (Japan) [T-En by Satsu & Sliver X v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Valkyrie's Adventure - Legend of the Time Key",
+            "titles": [
+                {
+                    "searchTerm": "Valkyrie's Adventure - Legend of the Time Key (Japan) [T-En by DvD Translations Rev A] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Venus Wars, The - Back to the City ''Io''",
+            "titles": [
+                {
+                    "searchTerm": "Venus Wars, The - Back to the City ''Io'' (Japan) [T-En by J2e Translations v2.0] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Wagyan Land",
+            "titles": [
+                {
+                    "searchTerm": "Wagyan Land (Japan) [T-En by AlanMidas wag.yan] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Wagyan Land 2",
+            "titles": [
+                {
+                    "searchTerm": "Wagyan Land 2 (Japan) [T-En by Abstract Crouton Productions v1.0] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Wai Wai World",
+            "titles": [
+                {
+                    "searchTerm": "Wai Wai World (Japan) [T-En by Demiforce v3.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Wai Wai World 2 - S.O.S. from Parsley Castle",
+            "titles": [
+                {
+                    "searchTerm": "Wai Wai World 2 - S.O.S. from Parsley Castle (Japan) [T-En by Vice Translations v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Wai Wai World 2 - SOS!! Parsley Castle",
+            "titles": [
+                {
+                    "searchTerm": "Wai Wai World 2 - SOS!! Parsley Castle (Japan) [T-En by Vice Translations v1.01] [Add by Chronix v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Wanpaku Kokkun no Gourmet World",
+            "titles": [
+                {
+                    "searchTerm": "Wanpaku Kokkun no Gourmet World (Japan) [T-En by The Spoony Bard v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Warwolf Chronicles",
+            "titles": [
+                {
+                    "searchTerm": "Warwolf Chronicles (Japan) [T-En by Stardust Crusaders v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Wily & Right's Rockboard - That's Paradise!!",
+            "titles": [
+                {
+                    "searchTerm": "Wily & Right's Rockboard - That's Paradise!! (Japan) [T-En by Interordi Software v1.1] [Rockman names][n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Wing of Madoola, The",
+            "titles": [
+                {
+                    "searchTerm": "Wing of Madoola, The (Japan) [T-En by Psyklax v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Wit's",
+            "titles": [
+                {
+                    "searchTerm": "Wit's (Japan) [T-En by Suicidal Translations v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Wizardry II - Legacy of Llylgamyn",
+            "titles": [
+                {
+                    "searchTerm": "Wizardry II - Legacy of Llylgamyn (Japan) [T-En by MrRichard999 v1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Woody Poko",
+            "titles": [
+                {
+                    "searchTerm": "Woody Poko (Japan) [T-En by Sqpat Final] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "WRC - FIA World Rally - World Rally Championship",
+            "titles": [
+                {
+                    "searchTerm": "WRC - FIA World Rally - World Rally Championship (Japan) [T-En by Klepto Software v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Youkai Club",
+            "titles": [
+                {
+                    "searchTerm": "Youkai Club (Japan) [T-En by Stardust Crusaders v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ys",
+            "titles": [
+                {
+                    "searchTerm": "Ys (Japan) [T-En by David Mullen v1.0] [Add by SomeOldGuy]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ys II - Ancient Ys Vanished - The Final Chapter",
+            "titles": [
+                {
+                    "searchTerm": "Ys II - Ancient Ys Vanished - The Final Chapter (Japan) [T-En by David Mullen v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ys III - Wanderers from Ys",
+            "titles": [
+                {
+                    "searchTerm": "Ys III - Wanderers from Ys (Japan) [T-En by Vice Translations v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Yu Yu Hakusho - Dark Tournament Rumble",
+            "titles": [
+                {
+                    "searchTerm": "Yu Yu Hakusho - Dark Tournament Rumble (Japan) [T-En by Stardust Crusaders v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Zoids - Battle of Central Continent",
+            "titles": [
+                {
+                    "searchTerm": "Zoids - Battle of Central Continent (Japan) [T-En by Filler v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Zoids Apocalypse",
+            "titles": [
+                {
+                    "searchTerm": "Zoids Apocalypse (Japan) [T-En by MrRichard999 v1.3] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Zombie Hunter",
+            "titles": [
+                {
+                    "searchTerm": "Zombie Hunter (Japan) [T-En by KingMike's Translations v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "description": {
+        "name": "Sega - Master System (Translated En)",
+        "lastUpdated": "4 December 2023",
+        "minimumVersion": "2.00",
+        "romSourceName": "English Translation ROMs Collection (2023)",
+        "romSourceUrl": "https://archive.org/details/En-ROMs",
+        "author": "dsync89",
+        "authorEmail": "dsync89@yahoo.com"
+    },
+    "variants": [
+        {
+            "group": "Final Bubble Bobble",
+            "titles": [
+                {
+                    "searchTerm": "Final Bubble Bobble (Japan) [T-En by Brad Smith v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fist of the North Star",
+            "titles": [
+                {
+                    "searchTerm": "Fist of the North Star (Japan) [T-En by PhalanX v1.0] [Add by Jackic 0.99] [Title B] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fist of the North Star - Hokuto no Ken",
+            "titles": [
+                {
+                    "searchTerm": "Fist of the North Star - Hokuto no Ken (Japan) [T-En by PhalanX v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Genius Bakabon, The",
+            "titles": [
+                {
+                    "searchTerm": "Genius Bakabon, The (Japan) [T-En by Cccmar & FCandChill & TheMajinZenki v1.2] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Highschool! Kimengumi",
+            "titles": [
+                {
+                    "searchTerm": "Highschool! Kimengumi (Japan) [T-En by SMS Power! v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Phantasy Star",
+            "titles": [
+                {
+                    "searchTerm": "Phantasy Star (Japan) [T-En by SMS Power! v2.3.1] [Literal]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Rygar - Legendary Warrior",
+            "titles": [
+                {
+                    "searchTerm": "Rygar - Legendary Warrior (Japan) [T-En by Psyklax v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Solomon's Key - Tears of Princess Lihita",
+            "titles": [
+                {
+                    "searchTerm": "Solomon's Key - Tears of Princess Lihita (Japan) [T-En by FlashPV v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Story of Mio",
+            "titles": [
+                {
+                    "searchTerm": "Story of Mio (Japan) [T-En by Filler & SSTranslations v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sukeban Deka II",
+            "titles": [
+                {
+                    "searchTerm": "Sukeban Deka II (Japan) [T-En by Enigmaopoeia & SSTranslations v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        }
+    ]
+}

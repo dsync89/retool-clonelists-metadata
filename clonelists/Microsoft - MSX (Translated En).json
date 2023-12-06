@@ -1,0 +1,202 @@
+{
+    "description": {
+        "name": "Microsoft - MSX (Translated En)",
+        "lastUpdated": "1 December 2023",
+        "minimumVersion": "2.00",
+        "romSourceName": "English Translation ROMs Collection (2023)",
+        "romSourceUrl": "https://archive.org/details/En-ROMs",
+        "author": "dsync89",
+        "authorEmail": "dsync89@yahoo.com"
+    },
+    "variants": [
+        {
+            "group": "Becky",
+            "titles": [
+                {
+                    "searchTerm": "Becky (Japan) [T-En by Hap & Rieks v20100121] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Black Onyx, The",
+            "titles": [
+                {
+                    "searchTerm": "Black Onyx, The (Japan) [T-En by Polaris v1.0] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Borfes and the 5 Demons",
+            "titles": [
+                {
+                    "searchTerm": "Borfes and the 5 Demons (Japan) [T-En by Hap v20081105] [n] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "C.C.R. - Annex 1 - The Algorithm",
+            "titles": [
+                {
+                    "searchTerm": "C.C.R. - Annex 1 - The Algorithm (Spain) [T-En by Daniel Gonz\u00e1lez] [n] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Daiva Story 4 - Asura's Bloodfeud",
+            "titles": [
+                {
+                    "searchTerm": "Daiva Story 4 - Asura's Bloodfeud (Japan) [T-En] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Slayer Jr. - Romancia",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Slayer Jr. - Romancia (Japan) [T-En by MSX Translations v0.7.0] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Evil Mansion - Goblin",
+            "titles": [
+                {
+                    "searchTerm": "Evil Mansion - Goblin (Japan) [T-En by Hap & Zan v20080619] [n] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fharanx",
+            "titles": [
+                {
+                    "searchTerm": "Fharanx (Japan) [T-En by Django] (Cassette)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Golvellius",
+            "titles": [
+                {
+                    "searchTerm": "Golvellius (Japan) [T-En by Novalia Spirit v1.0] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Hydlide II - Shine of Darkness",
+            "titles": [
+                {
+                    "searchTerm": "Hydlide II - Shine of Darkness (Japan) [T-En by Rieks Warendorp Torringa] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Jagur",
+            "titles": [
+                {
+                    "searchTerm": "Jagur (Japan) [T-En by Django v201101xx] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "King's Valley II - The Seal of El Giza",
+            "titles": [
+                {
+                    "searchTerm": "King's Valley II - The Seal of El Giza (Japan, Europe) [T-En by FRS v1.1] [n] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Knightmare III - Shalom",
+            "titles": [
+                {
+                    "searchTerm": "Knightmare III - Shalom (Japan) [T-En by Ricardo Bittencourt & SLotman v1.0b4] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "M36 - A Life Planet",
+            "titles": [
+                {
+                    "searchTerm": "M36 - A Life Planet (Japan) [T-En by Hubz & Wyrdwad v1.2] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mitsumega Toohru - Three-Eyed One Comes Here, The",
+            "titles": [
+                {
+                    "searchTerm": "Mitsumega Toohru - Three-Eyed One Comes Here, The (Japan) [T-En by Igor Bezhenar v20210605] [Add by Armando Perez Abad v1.1] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mystery House II",
+            "titles": [
+                {
+                    "searchTerm": "Mystery House II (Japan) [T-En by Umbrella Terms v1.0] (Cassette)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Nyorols",
+            "titles": [
+                {
+                    "searchTerm": "Nyorols (Japan) [T-En by PentarouZero v1.0] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Parodius",
+            "titles": [
+                {
+                    "searchTerm": "Parodius (Japan) [T-En by A&L Software v1.0] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Stone of Wisdom, The",
+            "titles": [
+                {
+                    "searchTerm": "Stone of Wisdom, The (Japan) [T-En by GDX v20210712] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Vilzam - Cosmic Struggle",
+            "titles": [
+                {
+                    "searchTerm": "Vilzam - Cosmic Struggle (Japan) [T-En by 232 & BiFi & Takamichi Suzukawa] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "War in Middle Earth",
+            "titles": [
+                {
+                    "searchTerm": "War in Middle Earth (Spain) [T-En by Robsy v1.0] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        }
+    ]
+}

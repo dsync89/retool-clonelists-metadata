@@ -1,0 +1,92 @@
+{
+    "description": {
+        "name": "Sega - Mega CD & Sega CD (Translated En)",
+        "lastUpdated": "7 December 2023",
+        "minimumVersion": "2.00",
+        "romSourceName": "English Translation ROMs Collection (2023)",
+        "romSourceUrl": "https://archive.org/details/En-ROMs",
+        "author": "dsync89",
+        "authorEmail": "dsync89@yahoo.com"
+    },
+	"categories": [
+		{
+			"searchTerm": "_Sega - Mega CD [T-En] Docs",
+			"nameType": "full",
+			"categories": ["Manuals"]
+		}
+    ],     
+    "variants": [
+        {
+            "group": "Game no Kandume Vol. 1",
+            "titles": [
+                {
+                    "searchTerm": "Game no Kandume Vol. 1 (Japan) [T-En by M.I.J.E.T. v100711] [Boot Europe]",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Game no Kandume Vol. 1 (Japan) [T-En by M.I.J.E.T. v100711] [Boot Japan]",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Game no Kandume Vol. 1 (Japan) [T-En by M.I.J.E.T. v100711] [Boot USA]",
+                    "nameType": "full",
+                    "priority": 0
+                }
+            ]
+        },
+        {
+            "group": "Game no Kandume Vol. 2",
+            "titles": [
+                {
+                    "searchTerm": "Game no Kandume Vol. 2 (Japan) [T-En by M.I.J.E.T. v100711] [Boot Europe]",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Game no Kandume Vol. 2 (Japan) [T-En by M.I.J.E.T. v100711] [Boot Japan]",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Game no Kandume Vol. 2 (Japan) [T-En by M.I.J.E.T. v100711] [Boot USA]",
+                    "nameType": "full",
+                    "priority": 0
+                }
+            ]
+        },
+        {
+            "group": "Lunar - Eternal Blue",
+            "titles": [
+                {
+                    "searchTerm": "Lunar - Eternal Blue (USA) [Un-Worked Design by Supper v3 (24-02-2017)]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Lunar - The Silver Star",
+            "titles": [
+                {
+                    "searchTerm": "Lunar - The Silver Star (USA) [Un-Worked Design by Supper v1 (24-02-2017)]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Popful Mail",
+            "titles": [
+                {
+                    "searchTerm": "Popful Mail (USA) [Un-Worked Design by Supper v3 (24-02-2017)]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Vay",
+            "titles": [
+                {
+                    "searchTerm": "Vay (USA) [Un-Worked Design by Supper v1 (24-02-2017)]",
+                    "nameType": "full"
+                }
+            ]
+        }
+    ]
+}

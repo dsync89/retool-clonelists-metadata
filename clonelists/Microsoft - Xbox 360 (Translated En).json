@@ -1,0 +1,42 @@
+{
+    "description": {
+        "name": "Microsoft - Xbox 360 (Translated En)",
+        "lastUpdated": "7 December 2023",
+        "minimumVersion": "2.00",
+        "romSourceName": "English Translation ROMs Collection (2023)",
+        "romSourceUrl": "https://archive.org/details/En-ROMs",
+        "author": "dsync89",
+        "authorEmail": "dsync89@yahoo.com"
+    },
+	"categories": [
+		{
+			"searchTerm": "_Microsoft - XBOX 360 [T-En] Docs",
+			"nameType": "full",
+			"categories": ["Manuals"]
+		}
+    ],    
+    "variants": [
+        {
+            "group": "Mobile Suit Gundam - Operation - Troy",
+            "titles": [
+                {
+                    "searchTerm": "Mobile Suit Gundam - Operation - Troy (Japan) [T-En by Yuvi & SnowyAria v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Otomedius Gorgeous!",
+            "titles": [
+                {
+                    "searchTerm": "Otomedius Gorgeous! (Japan) [T-En by GameStone v1.8] [DLC]",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Otomedius Gorgeous! (Japan) [T-En by GameStone v1.8]",
+                    "nameType": "full"
+                }
+            ]
+        }
+    ]
+}

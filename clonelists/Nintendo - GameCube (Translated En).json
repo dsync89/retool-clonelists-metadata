@@ -1,0 +1,112 @@
+{
+    "description": {
+        "name": "Nintendo - GameCube (Translated En)",
+        "lastUpdated": "7 December 2023",
+        "minimumVersion": "2.00",
+        "romSourceName": "English Translation ROMs Collection (2023)",
+        "romSourceUrl": "https://archive.org/details/En-ROMs",
+        "author": "dsync89",
+        "authorEmail": "dsync89@yahoo.com"
+    },
+    "variants": [
+        {
+            "group": "Animal Forest e+",
+            "titles": [
+                {
+                    "searchTerm": "Animal Forest e+ (Japan) [T-En by Animal Forest e+ English Translation Project v23] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fire Emblem - Souen no Kiseki",
+            "titles": [
+                {
+                    "searchTerm": "Fire Emblem - Souen no Kiseki (Japan) [T-En by Shadowofchaos v0.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Homeland",
+            "titles": [
+                {
+                    "searchTerm": "Homeland (Japan) (Rev 1) [T-En by DOL-Translations v20230606] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Kururin Squash!",
+            "titles": [
+                {
+                    "searchTerm": "Kururin Squash! (Japan) [T-En by DOL-Translations v20231002]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Naruto - Clash of Ninja 4",
+            "titles": [
+                {
+                    "searchTerm": "Naruto - Clash of Ninja 4 (Japan) [T-En by NicholasMoser v1.7.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Nintendo Puzzle Collection",
+            "titles": [
+                {
+                    "searchTerm": "Nintendo Puzzle Collection (Japan) [T-En by Kafke] [Panel de Pon] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Super Robot Wars GC",
+            "titles": [
+                {
+                    "searchTerm": "Super Robot Wars GC (Japan) [T-En by Super Robot Wars GC Team v1.0.2] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Taxi 3 - The Game",
+            "titles": [
+                {
+                    "searchTerm": "Taxi 3 - The Game (France) [T-En by DOL-Translations v20230801] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "World Soccer Winning Eleven 6 - Final Evolution",
+            "titles": [
+                {
+                    "searchTerm": "World Soccer Winning Eleven 6 - Final Evolution (Japan) [T-En by ADONF v0.3] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Zatch Bell! Go! Go! Mamodo Fight!!",
+            "titles": [
+                {
+                    "searchTerm": "Zatch Bell! Go! Go! Mamodo Fight!! (Japan) [T-En by SuperrSonic & XZatchBellGamerX v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Zoids Vs. III",
+            "titles": [
+                {
+                    "searchTerm": "Zoids Vs. III (Japan) [T-En by Traceytrace v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,472 @@
+{
+    "description": {
+        "name": "Nintendo - Famicom Disk System (Translated En)",
+        "lastUpdated": "4 December 2023",
+        "minimumVersion": "2.00",
+        "romSourceName": "English Translation ROMs Collection (2023)",
+        "romSourceUrl": "https://archive.org/details/En-ROMs",
+        "author": "dsync89",
+        "authorEmail": "dsync89@yahoo.com"
+    },
+    "variants": [
+        {
+            "group": "19 - Neunzehn",
+            "titles": [
+                {
+                    "searchTerm": "19 - Neunzehn (Japan) [T-En by MrRichard999 v1.0] [Regular NES Font]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "All Night Nippon Super Mario Brothers",
+            "titles": [
+                {
+                    "searchTerm": "All Night Nippon Super Mario Brothers (Japan) (Promotion Card) [T-En by Psyklax v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Aspic - Curse of the Snakelord",
+            "titles": [
+                {
+                    "searchTerm": "Aspic - Curse of the Snakelord (Japan) [T-En by BlackPaladin v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Boxxle - Warehouse Evening of Tears Special",
+            "titles": [
+                {
+                    "searchTerm": "Boxxle - Warehouse Evening of Tears Special (Japan) [T-En by KingMike's Translations v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Breeder",
+            "titles": [
+                {
+                    "searchTerm": "Breeder (Japan) [T-En by Psyklax v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Crystal Dragon",
+            "titles": [
+                {
+                    "searchTerm": "Crystal Dragon (Japan) [T-En by Mute v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Cursed Treasure of Cleopatra, The",
+            "titles": [
+                {
+                    "searchTerm": "Cursed Treasure of Cleopatra, The (Japan) [T-En by DvD Translations Rev A] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dandy - The Resurrection of Zeuon",
+            "titles": [
+                {
+                    "searchTerm": "Dandy - The Resurrection of Zeuon (Japan) [T-En by Stardust Crusaders v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dandy - Zeuon no Fukkatsu",
+            "titles": [
+                {
+                    "searchTerm": "Dandy - Zeuon no Fukkatsu (Japan) [T-En by Super Roboprotector v1.2]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dead Zone",
+            "titles": [
+                {
+                    "searchTerm": "Dead Zone (Japan) [T-En by Stardust Crusaders v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Deep Dungeon - The Heretic War",
+            "titles": [
+                {
+                    "searchTerm": "Deep Dungeon - The Heretic War (Japan) [T-En by KingMike's Translations v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Deep Dungeon II - The Hero's Crest",
+            "titles": [
+                {
+                    "searchTerm": "Deep Dungeon II - The Hero's Crest (Japan) [T-En by KingMike's Translations v1.0] [HP Unfix] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Demonic Castle Dracula",
+            "titles": [
+                {
+                    "searchTerm": "Demonic Castle Dracula (Japan) (Rev 2) (Disk Writer) [T-En by DvD Translations Rev A] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dirty Pair - Project Eden",
+            "titles": [
+                {
+                    "searchTerm": "Dirty Pair - Project Eden (Japan) [T-En by Stardust Crusaders v1.01]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dream World - Doki Doki Panic!",
+            "titles": [
+                {
+                    "searchTerm": "Dream World - Doki Doki Panic! (Japan) [T-En by Vice Translations v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Druid - The Gate of Fear",
+            "titles": [
+                {
+                    "searchTerm": "Druid - The Gate of Fear (Japan) [T-En by BlackPaladin v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Egger Land",
+            "titles": [
+                {
+                    "searchTerm": "Egger Land (Japan) [T-En by Necrosaro v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Electrician",
+            "titles": [
+                {
+                    "searchTerm": "Electrician (Japan) [T-En by KingMike's Translations v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Esper Dream",
+            "titles": [
+                {
+                    "searchTerm": "Esper Dream (Japan) (Rev 1) [T-En by Mute v1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Famicom Grand Prix - F1 Race",
+            "titles": [
+                {
+                    "searchTerm": "Famicom Grand Prix - F1 Race (Japan) [T-En by AgentOrange & MrRichard999 v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Famicom Grand Prix II - 3D Hot Rally",
+            "titles": [
+                {
+                    "searchTerm": "Famicom Grand Prix II - 3D Hot Rally (Japan) [T-En by AgentOrange & MrRichard999 v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Gall Force - Eternal Story",
+            "titles": [
+                {
+                    "searchTerm": "Gall Force - Eternal Story (Japan) [T-En by Gil Galad v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ghost Manor",
+            "titles": [
+                {
+                    "searchTerm": "Ghost Manor (Japan) [T-En by KingMike's Translations v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ginga Denshou - Galaxy Odyssey",
+            "titles": [
+                {
+                    "searchTerm": "Ginga Denshou - Galaxy Odyssey (Japan) [T-En by Chris M. Covell v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Gyruss",
+            "titles": [
+                {
+                    "searchTerm": "Gyruss (Japan) [T-En by Stardust Crusaders v1.01]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Idol Hotline - Miho Nakayama's Tokimeki High School",
+            "titles": [
+                {
+                    "searchTerm": "Idol Hotline - Miho Nakayama's Tokimeki High School (Japan) [T-En by FCandChill & Filler & TheMajinZenki & Graphicus v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ishidou",
+            "titles": [
+                {
+                    "searchTerm": "Ishidou (Japan) (Disk Writer) [T-En by Django v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Kamen Rider Black - The Shadow Moon Showdown",
+            "titles": [
+                {
+                    "searchTerm": "Kamen Rider Black - The Shadow Moon Showdown (Japan) [T-En by BlackPaladin v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Knight Lore - Majou no Ookami Otoko",
+            "titles": [
+                {
+                    "searchTerm": "Knight Lore - Majou no Ookami Otoko (Japan) [T-En by Psyklax v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Knight Move",
+            "titles": [
+                {
+                    "searchTerm": "Knight Move (Japan) [T-En by PentarouZero v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Legend of Zelda, The",
+            "titles": [
+                {
+                    "searchTerm": "Legend of Zelda, The (Japan) (Rev 1) [T-En by Jordiway73 v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Lutter",
+            "titles": [
+                {
+                    "searchTerm": "Lutter (Japan) (Disk Writer) [T-En by Mute v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mahjong",
+            "titles": [
+                {
+                    "searchTerm": "Mahjong (Japan) [T-En by Psyklax v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Metroid",
+            "titles": [
+                {
+                    "searchTerm": "Metroid (Japan) (Rev 2) [T-En by AlanMidas cant.hack] [Add by Jordiway73 v1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Miracle of Almana, The",
+            "titles": [
+                {
+                    "searchTerm": "Miracle of Almana, The (Japan) [T-En by DvD Translations Rev A] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Monty on the Run - Monty no Doki Doki Dai Dassou",
+            "titles": [
+                {
+                    "searchTerm": "Monty on the Run - Monty no Doki Doki Dai Dassou (Japan) [T-En by Stardust Crusaders v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mysterious Murasame Castle, The",
+            "titles": [
+                {
+                    "searchTerm": "Mysterious Murasame Castle, The (Japan) [T-En by Spinner 8 and friends v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Myth of Light, The - Palutena's Mirror",
+            "titles": [
+                {
+                    "searchTerm": "Myth of Light, The - Palutena's Mirror (Japan) (Rev 1) [T-En by BlackPaladin v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Patlabor - The Mobile Police - Dai 2 Shoutai Shutsudou Seyo!",
+            "titles": [
+                {
+                    "searchTerm": "Patlabor - The Mobile Police - Dai 2 Shoutai Shutsudou Seyo! (Japan) [T-En by Vice Translations v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Puzzle Boys",
+            "titles": [
+                {
+                    "searchTerm": "Puzzle Boys (Japan) (Disk Writer) [T-En by DvD Translations Rev A]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Relics - The Dark Fortress",
+            "titles": [
+                {
+                    "searchTerm": "Relics - The Dark Fortress (Japan) [T-En by BlackPaladin v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Return of Mario Bros.",
+            "titles": [
+                {
+                    "searchTerm": "Return of Mario Bros. (Japan) (Disk Writer) [T-En by FCandchill & Her-Saki v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Return of the Mario Bros., The",
+            "titles": [
+                {
+                    "searchTerm": "Return of the Mario Bros., The (Japan) (Disk Writer) [T-En by MrRichard999 v0.98] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Samurai Sword",
+            "titles": [
+                {
+                    "searchTerm": "Samurai Sword (Japan) [T-En by Mute v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Santa Claus's Toybox",
+            "titles": [
+                {
+                    "searchTerm": "Santa Claus's Toybox (Japan) [T-En by Gil Galad v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "SD Gundam - Gachapon Soldier - Scramble Wars [T-En by MrRichard999 v1.01] [n]",
+            "titles": [
+                {
+                    "searchTerm": "SD Gundam - Gachapon Soldier - Scramble Wars [T-En by MrRichard999 v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Seiken Psycho Calibur",
+            "titles": [
+                {
+                    "searchTerm": "Seiken Psycho Calibur (Japan) [T-En by The Spoony Bard v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Silviana - Ai Ippai no Little Angel",
+            "titles": [
+                {
+                    "searchTerm": "Silviana - Ai Ippai no Little Angel (Japan) [T-En by Mute v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sword of Kalin, The",
+            "titles": [
+                {
+                    "searchTerm": "Sword of Kalin, The (Japan) [T-En by KingMike's Translations v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Temple Labyrinth Dababa",
+            "titles": [
+                {
+                    "searchTerm": "Temple Labyrinth Dababa (Japan) [T-En by FlashPV v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Zelda II - The Adventure of Link",
+            "titles": [
+                {
+                    "searchTerm": "Zelda II - The Adventure of Link (Japan) (Rev 1) [T-En by Columbo v2.33] [n]",
+                    "nameType": "full"
+                }
+            ]
+        }
+    ]
+}

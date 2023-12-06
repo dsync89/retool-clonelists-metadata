@@ -1,0 +1,652 @@
+{
+    "description": {
+        "name": "Sony - Playstation Portable (Translated En)",
+        "lastUpdated": "5 December 2023",
+        "minimumVersion": "2.00",
+        "romSourceName": "English Translation ROMs Collection (2023)",
+        "romSourceUrl": "https://archive.org/details/En-ROMs",
+        "author": "dsync89",
+        "authorEmail": "dsync89@yahoo.com"
+    },
+    "variants": [
+        {
+            "group": "7th Dragon 2020",
+            "titles": [
+                {
+                    "searchTerm": "7th Dragon 2020 (Japan) [T-En by Geoff Embree v0.91]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "7th Dragon 2020-II",
+            "titles": [
+                {
+                    "searchTerm": "7th Dragon 2020-II (Japan) [T-En by Geoff Embree v0.91]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "AIR",
+            "titles": [
+                {
+                    "searchTerm": "AIR (Japan) [T-En by Patr0805 v0.9]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Amagami",
+            "titles": [
+                {
+                    "searchTerm": "Amagami (Japan) (ebKore Plus) [T-En by Ni-shi-shi Translations v0.9.2] [Ai & Haruka]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Bakemonogatari Portable",
+            "titles": [
+                {
+                    "searchTerm": "Bakemonogatari Portable (Japan) [T-En by Anime Game Translations Team v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Danball Senki Boost",
+            "titles": [
+                {
+                    "searchTerm": "Danball Senki Boost (Japan) [T-En by DSB Translation Team v1.0] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Danganronpa - Hope's Academy and Despair's Students",
+            "titles": [
+                {
+                    "searchTerm": "Danganronpa - Hope's Academy and Despair's Students (Japan) [T-En by Project Zetsubou v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Digimon Adventure",
+            "titles": [
+                {
+                    "searchTerm": "Digimon Adventure (Japan) [T-En by Kazari v1.2]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Digimon World - Re-Digitize",
+            "titles": [
+                {
+                    "searchTerm": "Digimon World - Re-Digitize (Japan) [T-En by Operation Decoded v1.1] [Sub version]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Disaster Report 3 - A Fading City and Her Song",
+            "titles": [
+                {
+                    "searchTerm": "Disaster Report 3 - A Fading City and Her Song (Japan) [T-En by Geo-City Productions v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "DotHack-Link",
+            "titles": [
+                {
+                    "searchTerm": "DotHack-Link (Japan) [T-En by Dothackers v1.0.2]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Quest and Final Fantasy in Itadaki Street Portable",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Quest and Final Fantasy in Itadaki Street Portable (Japan) [T-En by MortoQueiba and Choppasmith Prerelease 3]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Echo Night - The First Voyage",
+            "titles": [
+                {
+                    "searchTerm": "Echo Night - The First Voyage (Japan) [T-En by Mugi & Tom & Xyz v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Evangelion - Girlfriend of Steel 2nd",
+            "titles": [
+                {
+                    "searchTerm": "Evangelion - Girlfriend of Steel 2nd (Japan) [T-En by Binaryfail & Mugi & Jjjewel v1.02] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Evangelion - Girlfriend of Steel Portable",
+            "titles": [
+                {
+                    "searchTerm": "Evangelion - Girlfriend of Steel Portable (Japan) [T-En by Mugi & Xyz v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ever17 - The Out of Infinity Premium Edition",
+            "titles": [
+                {
+                    "searchTerm": "Ever17 - The Out of Infinity Premium Edition (Japan) [T-En by MrComputerRevo Beta4]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Final Fantasy Reishiki",
+            "titles": [
+                {
+                    "searchTerm": "Final Fantasy Reishiki (Japan) [T-En by SkyBladeCloud v2]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "GA - Geijutsuka Art Design Class - Slapstick Wonder Land",
+            "titles": [
+                {
+                    "searchTerm": "GA - Geijutsuka Art Design Class - Slapstick Wonder Land (Japan) [T-En by Nodamiki v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "God Eater 2",
+            "titles": [
+                {
+                    "searchTerm": "God Eater 2 (Japan) [T-En by Gaikoz199 Beta] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Grand Knights History",
+            "titles": [
+                {
+                    "searchTerm": "Grand Knights History (Japan) [T-En by Justfuit v1.16]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Hatsune Miku - Project Diva",
+            "titles": [
+                {
+                    "searchTerm": "Hatsune Miku - Project Diva (Japan) [T-En by Diva Fan Project v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Hatsune Miku - Project Diva 2nd",
+            "titles": [
+                {
+                    "searchTerm": "Hatsune Miku - Project Diva 2nd (Japan) [T-En by Diva Fan Project v3.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Hatsune Miku - Project Diva Extend",
+            "titles": [
+                {
+                    "searchTerm": "Hatsune Miku - Project Diva Extend (Japan) [T-En by Diva Fan Project v2.0 Rev2] [NewStyle]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Haunted Zone, The",
+            "titles": [
+                {
+                    "searchTerm": "Haunted Zone, The (Japan) [T-En by Mugi & Tom & Xyz v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "K-ON! After School Live!!",
+            "titles": [
+                {
+                    "searchTerm": "K-ON! After School Live!! (Japan) [T-En by Frain_Breeze & Wxnder & KingSizzle v1.0] [i] [n] [PPSSPP HD version]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Kingdom Hearts - Birth by Sleep",
+            "titles": [
+                {
+                    "searchTerm": "Kingdom Hearts - Birth by Sleep (Japan) (Final Mix) [T-En by Truthkey v1.0.12]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Kurohyou - Like a Dragon - New Chapter",
+            "titles": [
+                {
+                    "searchTerm": "Kurohyou - Like a Dragon - New Chapter (Japan) [T-En by Team K4L v1.2] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Kurohyou 2 - Ryu ga Gotoku - Ashura Chapter",
+            "titles": [
+                {
+                    "searchTerm": "Kurohyou 2 - Ryu ga Gotoku - Ashura Chapter (Japan) [T-En by Team K4L v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Last Ranker",
+            "titles": [
+                {
+                    "searchTerm": "Last Ranker (Japan) [T-En by Flame and EnglishSubs4All v1] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Legend of Heroes, The - Ao no Kiseki",
+            "titles": [
+                {
+                    "searchTerm": "Legend of Heroes, The - Ao no Kiseki (Japan) [T-En by Flame and Guren v15] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Little Busters - Converted Edition",
+            "titles": [
+                {
+                    "searchTerm": "Little Busters - Converted Edition (Japan) [T-En by Patr0805 v0.95]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Lucky Star - Ryouou Gakuen Outousai Portable",
+            "titles": [
+                {
+                    "searchTerm": "Lucky Star - Ryouou Gakuen Outousai Portable (Japan) [T-En by TimepieceMaster v2023-01-23] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mahou Shoujo Lyrical Nanoha A's Portable - The Battle of Aces",
+            "titles": [
+                {
+                    "searchTerm": "Mahou Shoujo Lyrical Nanoha A's Portable - The Battle of Aces (Japan) [T-En by Vivid Translations v20180523]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mahou Shoujo Lyrical Nanoha A's Portable - The Gears of Destiny",
+            "titles": [
+                {
+                    "searchTerm": "Mahou Shoujo Lyrical Nanoha A's Portable - The Gears of Destiny (Japan) [T-En by Vivid Translations v20180523]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mahou Shoujo Madoka Magica Portable",
+            "titles": [
+                {
+                    "searchTerm": "Mahou Shoujo Madoka Magica Portable (Japan) [T-En by Carlitos & CoyoteMao & Maa9 v3.0] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Monster Hunter Freedom Unite",
+            "titles": [
+                {
+                    "searchTerm": "Monster Hunter Freedom Unite (USA) (En,Fr,De,Es,It) [T-En by Amaillo & Sky & Kenta & TeamHGG v1.2] [Dedummyfied]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Monster Hunter Portable 2nd G",
+            "titles": [
+                {
+                    "searchTerm": "Monster Hunter Portable 2nd G (Japan) [T-En by Rozalin & ShadyFigure v1.3.1] [Restored DOS Audio]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Monster Hunter Portable 3rd",
+            "titles": [
+                {
+                    "searchTerm": "Monster Hunter Portable 3rd (Japan) [T-En by Team Maverick One v5.0] [PPSSPP HD version]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Nayuta - Endless Trails",
+            "titles": [
+                {
+                    "searchTerm": "Nayuta - Endless Trails (Japan) [T-En by Flame v4.15] [Add by Dackst v1.0.8] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Never7 - The End of Infinity",
+            "titles": [
+                {
+                    "searchTerm": "Never7 - The End of Infinity (Japan) [T-En by Jv110 v2]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai - Portable ga Tsuzuku Wake ga Nai",
+            "titles": [
+                {
+                    "searchTerm": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai - Portable ga Tsuzuku Wake ga Nai (Japan) [T-En by Rinjinbu Translations v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Persona 2 - Eternal Punishment",
+            "titles": [
+                {
+                    "searchTerm": "Persona 2 - Eternal Punishment (Japan) [T-En by DarTisD & Eiowlta & Sayucchi v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Phantasy Star Portable 2 Infinity",
+            "titles": [
+                {
+                    "searchTerm": "Phantasy Star Portable 2 Infinity (Japan) [T-En by JamRules & Weyu v2]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Phantom Kingdom Portable",
+            "titles": [
+                {
+                    "searchTerm": "Phantom Kingdom Portable (Japan) [T-En by ChepChep and DurableTomb and Ignis00 v0.9.3]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Planetarian - The Dream of a Little Star",
+            "titles": [
+                {
+                    "searchTerm": "Planetarian - The Dream of a Little Star (Japan) [T-En by ShinjiGR v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Pucelle, La - Ragnarok",
+            "titles": [
+                {
+                    "searchTerm": "Pucelle, La - Ragnarok (Japan) [T-En by ChepChep and Hatsubai v1.1.2]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Queen's Blade - Spiral Chaos",
+            "titles": [
+                {
+                    "searchTerm": "Queen's Blade - Spiral Chaos (Japan) [T-En by Leecherboy & JamRules v1.8 BETA] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "R-Type Tactics II - Operation Bitter Chocolate",
+            "titles": [
+                {
+                    "searchTerm": "R-Type Tactics II - Operation Bitter Chocolate (Japan) [T-En by Isourou-san v1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Remember11 - The Age of Infinity",
+            "titles": [
+                {
+                    "searchTerm": "Remember11 - The Age of Infinity (Japan) [T-En by Dreambottle and TLWiki Team v2.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Samuraidou Portable",
+            "titles": [
+                {
+                    "searchTerm": "Samuraidou Portable (Japan) [T-En by Aka Translations v0.02]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "SD Gundam - G Generation Over World",
+            "titles": [
+                {
+                    "searchTerm": "SD Gundam - G Generation Over World (Japan) [T-En by Izzul95 v1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Shiren the Wanderer 3",
+            "titles": [
+                {
+                    "searchTerm": "Shiren the Wanderer 3 (Japan) [T-En by Aka Translations v0.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sol Trigger",
+            "titles": [
+                {
+                    "searchTerm": "Sol Trigger (Japan) [T-En by GareJei and JamRules v0.9] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Soul Eater - Battle Resonance",
+            "titles": [
+                {
+                    "searchTerm": "Soul Eater - Battle Resonance (Japan) [T-En by Anime Game Translations Team v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sound of the Sky - Quintet of Maidens",
+            "titles": [
+                {
+                    "searchTerm": "Sound of the Sky - Quintet of Maidens (Japan) [T-En by Okaysubs v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Steins;Gate",
+            "titles": [
+                {
+                    "searchTerm": "Steins;Gate (Japan) [T-En by HaselLoyance v1.0.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "StormLover Kai!!",
+            "titles": [
+                {
+                    "searchTerm": "StormLover Kai!! (Japan) [T-En by Jjjewel and Xyz v0.90]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Suikoden - Woven Web of the Centuries",
+            "titles": [
+                {
+                    "searchTerm": "Suikoden - Woven Web of the Centuries (Japan) [T-En by Twisted Phoenix Game Translation v1.0.2] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Super Dangan-Ronpa 2 - Sayonara Zetsubou Gakuen",
+            "titles": [
+                {
+                    "searchTerm": "Super Dangan-Ronpa 2 - Sayonara Zetsubou Gakuen (Japan) [T-En by The Porting Dude v0.5a]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Super Robot Wars A Portable",
+            "titles": [
+                {
+                    "searchTerm": "Super Robot Wars A Portable (Japan) [T-En by Steel Soul v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Suzumiya Haruhi no Yakusoku",
+            "titles": [
+                {
+                    "searchTerm": "Suzumiya Haruhi no Yakusoku (Japan) [T-En by EsperKnight and Soywiz and Tom and Zarradeth v1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Tantei Opera Milky Holmes",
+            "titles": [
+                {
+                    "searchTerm": "Tantei Opera Milky Holmes (Japan) [T-En by Desuwa v0.4]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Toaru Majutsu no Index",
+            "titles": [
+                {
+                    "searchTerm": "Toaru Majutsu no Index (Japan) [T-En by JeruTz v20191912]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Tokimeki Memorial Girl's Side Premium - 3rd Story",
+            "titles": [
+                {
+                    "searchTerm": "Tokimeki Memorial Girl's Side Premium - 3rd Story (Japan) [T-En by Jjjewel v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Tora Dora Portable!",
+            "titles": [
+                {
+                    "searchTerm": "Tora Dora Portable! (Japan) [T-En by Chronoes and Verdelish and Xyz v1.10]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Toukiden Kiwami",
+            "titles": [
+                {
+                    "searchTerm": "Toukiden Kiwami (Japan) [T-En by HoaiTrung97 Fan Translation Team v3.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Valkyria Chronicles 3 - Extra Edition",
+            "titles": [
+                {
+                    "searchTerm": "Valkyria Chronicles 3 - Extra Edition (Japan) [T-En by Valkyria Chronicles 3 Translation Project v2] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Yarudora Portable - Double Cast",
+            "titles": [
+                {
+                    "searchTerm": "Yarudora Portable - Double Cast (Japan) [T-En by Cargodin and Esperknight v1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ys vs. Trails in the Sky - Alternative Saga",
+            "titles": [
+                {
+                    "searchTerm": "Ys vs. Trails in the Sky - Alternative Saga (Japan) [T-En by The Geofront v1.0.0.21289] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Yu-Gi-Oh! 5D's - Tag Force 6",
+            "titles": [
+                {
+                    "searchTerm": "Yu-Gi-Oh! 5D's - Tag Force 6 (Japan) [T-En by Clickclaxer01 v2.0] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Yuusha 30 Second",
+            "titles": [
+                {
+                    "searchTerm": "Yuusha 30 Second (Japan) [T-En by ChepChep and Ignis00 v1.0.2]",
+                    "nameType": "full"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,976 @@
+{
+    "description": {
+        "name": "Microsoft - MSX2 (Translated En)",
+        "lastUpdated": "1 December 2023",
+        "minimumVersion": "2.00",
+        "romSourceName": "English Translation ROMs Collection (2023)",
+        "romSourceUrl": "https://archive.org/details/En-ROMs",
+        "author": "dsync89",
+        "authorEmail": "dsync89@yahoo.com"
+    },
+    "variants": [
+        {
+            "group": "Adventure of Randar",
+            "titles": [
+                {
+                    "searchTerm": "Adventure of Randar (Japan) [T-En by Sargon v2003xxxx] [n] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Adventure of Randar II - Revenge of Death",
+            "titles": [
+                {
+                    "searchTerm": "Adventure of Randar II - Revenge of Death (Japan) [T-En by Sargon v2003xxxx] [n] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Adventure of Randar III",
+            "titles": [
+                {
+                    "searchTerm": "Adventure of Randar III (Japan) [T-En by Django] [i] [n] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Akanbe Dragon",
+            "titles": [
+                {
+                    "searchTerm": "Akanbe Dragon (Japan) [T-En by MP83 & Lars the 18th v1.0] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Aleste",
+            "titles": [
+                {
+                    "searchTerm": "Aleste (Japan) [T-En by Tsunami v1.0] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Aleste 2",
+            "titles": [
+                {
+                    "searchTerm": "Aleste 2 (Japan) [T-En] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "American Success",
+            "titles": [
+                {
+                    "searchTerm": "American Success (Japan) [T-En by Django v2.0] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Anti-Life Trooper Androgynous",
+            "titles": [
+                {
+                    "searchTerm": "Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [MSX Audio with samples] [n] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Arcus",
+            "titles": [
+                {
+                    "searchTerm": "Arcus (Japan) [T-En by Django v201111xx] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "AshGuine Story II - Citadel in the Void",
+            "titles": [
+                {
+                    "searchTerm": "AshGuine Story II - Citadel in the Void (Japan) [T-En by MSX Translations v1.0.0] [n] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "AshGuine Story III - Fukushuu no Honoo",
+            "titles": [
+                {
+                    "searchTerm": "AshGuine Story III - Fukushuu no Honoo (Japan) [T-En by Django] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Chuka Taisen",
+            "titles": [
+                {
+                    "searchTerm": "Chuka Taisen (Japan) [T-En by Django] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Crimson II",
+            "titles": [
+                {
+                    "searchTerm": "Crimson II (Japan) [T-En by Django v201812xx] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Daikoukai Jidai",
+            "titles": [
+                {
+                    "searchTerm": "Daikoukai Jidai (Japan) [T-En by Django] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Daisenryaku",
+            "titles": [
+                {
+                    "searchTerm": "Daisenryaku (Japan) [T-En by MSX Translations v1.0.0] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Daisenryaku II - Campaign Version",
+            "titles": [
+                {
+                    "searchTerm": "Daisenryaku II - Campaign Version (Japan) [T-En by Takamichi Suzukawa & Trunks & Victor Martinez v1.0] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Daiva Story 4 - Asura's Bloodfeud & Daiva Story 5 - The Cup of Soma",
+            "titles": [
+                {
+                    "searchTerm": "Daiva Story 4 - Asura's Bloodfeud & Daiva Story 5 - The Cup of Soma (Japan) [T-En by Tsunami & Sargon v2004xxxx] [n] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dead of the Brain",
+            "titles": [
+                {
+                    "searchTerm": "Dead of the Brain (Japan) [T-En by Manuel Pazos v20200630] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Deep Forest",
+            "titles": [
+                {
+                    "searchTerm": "Deep Forest (Japan) [T-En by Django v1.0] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dios",
+            "titles": [
+                {
+                    "searchTerm": "Dios (Japan) [T-En by Django] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Quest",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Quest (Japan) [T-En by Django v201804xx] [i] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Slayer - The Legend of Heroes",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Slayer - The Legend of Heroes (Japan) [T-En by Oasis & Randam v1.0] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Slayer IV - Draslay Family",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Slayer IV - Draslay Family (Japan) [T-En by MSX Translations v1.0.0] [n] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Slayer Jr. - Romancia",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Slayer Jr. - Romancia (Japan) [T-En by MSX Translations v1.0.0] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Slayer V - Sorcerian",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Slayer V - Sorcerian (Japan) [T-En by Delta Soft v1.0] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dungeon Wanderer",
+            "titles": [
+                {
+                    "searchTerm": "Dungeon Wanderer (Japan) [T-En by Django] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Exterlien",
+            "titles": [
+                {
+                    "searchTerm": "Exterlien (Japan) [T-En by Django v2018xxxx] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "F1 Douchuuki",
+            "titles": [
+                {
+                    "searchTerm": "F1 Douchuuki (Japan) [T-En by Django v1.0] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Famicle Parodic",
+            "titles": [
+                {
+                    "searchTerm": "Famicle Parodic (Japan) [T-En by Django v1.0] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Feedback",
+            "titles": [
+                {
+                    "searchTerm": "Feedback (Japan) [T-En by Delta Soft v1.0] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Final Fantasy",
+            "titles": [
+                {
+                    "searchTerm": "Final Fantasy (Japan) [T-En by FCandChill & Her-Saki & TheMajinZenki v1.0] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Firebird - The Phoenix Saga",
+            "titles": [
+                {
+                    "searchTerm": "Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 & BiFi v1.0] [n] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fray - In Magical Adventure",
+            "titles": [
+                {
+                    "searchTerm": "Fray - In Magical Adventure (Japan) [T-En by Oasis v1.0] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Galaxy - Card & Puzzle Collection - Ginga",
+            "titles": [
+                {
+                    "searchTerm": "Galaxy - Card & Puzzle Collection - Ginga (Japan) [T-En by Django] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Galmoon",
+            "titles": [
+                {
+                    "searchTerm": "Galmoon (Japan) [T-En by Django v1.0] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Gandhara",
+            "titles": [
+                {
+                    "searchTerm": "Gandhara (Japan) [T-En by Django v201502xx] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Gekitotsu Pennant Race 2",
+            "titles": [
+                {
+                    "searchTerm": "Gekitotsu Pennant Race 2 (Japan) [T-En by Victor Martinez v1.0] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Golvellius II",
+            "titles": [
+                {
+                    "searchTerm": "Golvellius II (Japan) [T-En by Woomb] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Goofy Yaji Kita - Secrets on the Way",
+            "titles": [
+                {
+                    "searchTerm": "Goofy Yaji Kita - Secrets on the Way (Japan) [T-En by Django v202001xx] [n] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Great Strategy",
+            "titles": [
+                {
+                    "searchTerm": "Great Strategy (Japan) [T-En by MSX Translations v1.0.0] [n] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Higemaru - The Devil Island - The 7 Islands Adventure",
+            "titles": [
+                {
+                    "searchTerm": "Higemaru - The Devil Island - The 7 Islands Adventure (Japan) [T-En by Django v1.0] [n] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Hinotori - Firebird Phoenix",
+            "titles": [
+                {
+                    "searchTerm": "Hinotori - Firebird Phoenix (Japan) [T-En by Django v2.0] [n] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Hydefos",
+            "titles": [
+                {
+                    "searchTerm": "Hydefos (Japan) [T-En by Django & Victor Martinez v1.01] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Hydlide 3 - The Space Memories",
+            "titles": [
+                {
+                    "searchTerm": "Hydlide 3 - The Space Memories (Japan) [T-En by Woomb] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Kageroh Labyrinth",
+            "titles": [
+                {
+                    "searchTerm": "Kageroh Labyrinth (Japan) [T-En by Django] [i] [n] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "King Kong 2 - The Reviving Legend",
+            "titles": [
+                {
+                    "searchTerm": "King Kong 2 - The Reviving Legend (Japan) [T-En by Imanok & Manuel Pazos v20130408] [n] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Labyrinth",
+            "titles": [
+                {
+                    "searchTerm": "Labyrinth (Japan) [T-En by Django] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Legend of Shonan, The",
+            "titles": [
+                {
+                    "searchTerm": "Legend of Shonan, The (Japan) [T-En by Django v2021xxxx] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Legendly Nine Gems",
+            "titles": [
+                {
+                    "searchTerm": "Legendly Nine Gems (Japan) [T-En by Django v201202xx] [n] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Lupin III - Babylon's Gold Legend",
+            "titles": [
+                {
+                    "searchTerm": "Lupin III - Babylon's Gold Legend (Japan) [T-En by Django] [Use ASCII 8 mapper] [n] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Malaya's Treasure",
+            "titles": [
+                {
+                    "searchTerm": "Malaya's Treasure (Japan) [T-En by MSX Translations v1.0.0] [n] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Marcy's Princesses Many",
+            "titles": [
+                {
+                    "searchTerm": "Marcy's Princesses Many (Japan) [T-En by Django v2012xxxx] [n] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Master of Monsters",
+            "titles": [
+                {
+                    "searchTerm": "Master of Monsters (Japan) [T-En by Django v2.0] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Maze [T-En by 232 & BiFi] [n]",
+            "titles": [
+                {
+                    "searchTerm": "Maze [T-En by 232 & BiFi] [n] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Meow Puzzle",
+            "titles": [
+                {
+                    "searchTerm": "Meow Puzzle (Japan) [T-En by BiFi & MSX Translations v1.0.0] [n] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Metal Gear",
+            "titles": [
+                {
+                    "searchTerm": "Metal Gear (Japan) [T-En by Nekura_Hoka & Jon Taylor & Takamichi Suzukawa v1.995] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Metal Gear 2 - Solid Snake",
+            "titles": [
+                {
+                    "searchTerm": "Metal Gear 2 - Solid Snake (Japan) [T-En by Maarten ter Huurne & Takamichi Suzukawa v1.2] [Add by BiFi v1.4] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Microsoft - MSX2 [T-En] Collection",
+            "titles": [
+                {
+                    "searchTerm": "Microsoft - MSX2 [T-En] Collection (22-11-2023)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mr. Ghost",
+            "titles": [
+                {
+                    "searchTerm": "Mr. Ghost (Japan) [T-En by MSX Translations v1.0.0] [n] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Navitune - Dragon Voyage",
+            "titles": [
+                {
+                    "searchTerm": "Navitune - Dragon Voyage (Japan) [T-En by Django v20201213] [n] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Nyan Puzzle",
+            "titles": [
+                {
+                    "searchTerm": "Nyan Puzzle (Japan) [T-En by BiFi & MSX Translations v1.0.0] [n] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Nyancle Racing",
+            "titles": [
+                {
+                    "searchTerm": "Nyancle Racing (Japan) [T-En by Tsunami v1.0] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Passagers du Vent, Les",
+            "titles": [
+                {
+                    "searchTerm": "Passagers du Vent, Les (France) [T-En by TheKid] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Peach Up 1 - Trouble Partners - The Great Imperial Capital Operation",
+            "titles": [
+                {
+                    "searchTerm": "Peach Up 1 - Trouble Partners - The Great Imperial Capital Operation (Japan) [T-En by Django v202001xx] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Penguin Wars 2",
+            "titles": [
+                {
+                    "searchTerm": "Penguin Wars 2 (Japan) [T-En by MSX Translations v1.0] [n] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Persevere Goemon! - A Tricky Journey",
+            "titles": [
+                {
+                    "searchTerm": "Persevere Goemon! - A Tricky Journey (Japan) [T-En by MSX Translations v0.9.5] [n] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Pleasure Hearts",
+            "titles": [
+                {
+                    "searchTerm": "Pleasure Hearts (Japan) [T-En by Yim v1.02] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Princess Maker",
+            "titles": [
+                {
+                    "searchTerm": "Princess Maker (Japan) [T-En by Teo Lopez del Castillo v1.0] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Psycho World",
+            "titles": [
+                {
+                    "searchTerm": "Psycho World (Japan) [T-En by Ricardo Bittencourt & Rieks Warendorp Torringa & Gilneas2] [Add by by Fabio R. Schmidlin] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Puyo Puyo",
+            "titles": [
+                {
+                    "searchTerm": "Puyo Puyo (Japan) [T-En by 232 & BiFi & GDX v1.0] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Record of Lodoss War",
+            "titles": [
+                {
+                    "searchTerm": "Record of Lodoss War (Japan) [T-En by Django v20210606] [i] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Robo Crush",
+            "titles": [
+                {
+                    "searchTerm": "Robo Crush (Japan) [T-En by Django v202104xx] [i] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Rune Master",
+            "titles": [
+                {
+                    "searchTerm": "Rune Master (Japan) [T-En by Oasis v1.0] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Rune Master II",
+            "titles": [
+                {
+                    "searchTerm": "Rune Master II (Japan) [T-En by Oasis v1.0] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Rune Master III - Sangoku Eiketsuden",
+            "titles": [
+                {
+                    "searchTerm": "Rune Master III - Sangoku Eiketsuden (Japan) [T-En by Oasis v1.0] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sa-zi-ri",
+            "titles": [
+                {
+                    "searchTerm": "Sa-zi-ri (Japan) [T-En by Django v1.0] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "SD Gundam - Gachapon Senshi 2 - Capsule Senki",
+            "titles": [
+                {
+                    "searchTerm": "SD Gundam - Gachapon Senshi 2 - Capsule Senki (Japan) [T-En by Django v1.0] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "SD Snatcher",
+            "titles": [
+                {
+                    "searchTerm": "SD Snatcher (Japan) [T-En by Ded302 & Oasis v1.01] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Seikima II Special - Revenge of the Devil",
+            "titles": [
+                {
+                    "searchTerm": "Seikima II Special - Revenge of the Devil (Japan) [T-En by Django] [n] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Shiryou Sensen 2 - War of the Dead Part 2",
+            "titles": [
+                {
+                    "searchTerm": "Shiryou Sensen 2 - War of the Dead Part 2 (Japan) [T-En by Oasis v1.0] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Silviana",
+            "titles": [
+                {
+                    "searchTerm": "Silviana (Japan) [T-En by M.I.J.E.T. v20091213] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Snatcher",
+            "titles": [
+                {
+                    "searchTerm": "Snatcher (Japan) [T-En by Fudeba Software v0.6.0] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Solitaire Royale",
+            "titles": [
+                {
+                    "searchTerm": "Solitaire Royale (Japan) [T-En by Django] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sorcerer Lulba",
+            "titles": [
+                {
+                    "searchTerm": "Sorcerer Lulba (Japan) [T-En by 232 & BiFi] [n] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Super Cooks",
+            "titles": [
+                {
+                    "searchTerm": "Super Cooks (Japan) [T-En by Django v201501xx] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Super Daisenryaku",
+            "titles": [
+                {
+                    "searchTerm": "Super Daisenryaku (Japan) [T-En by Django v1.0] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Super Shang Hai - Dragon's Eye",
+            "titles": [
+                {
+                    "searchTerm": "Super Shang Hai - Dragon's Eye (Japan) [T-En by Ronin Translations] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "T.D.F.",
+            "titles": [
+                {
+                    "searchTerm": "T.D.F. (Japan) [T-En by Django v2012xxxx] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Take the A-Train",
+            "titles": [
+                {
+                    "searchTerm": "Take the A-Train (Japan) [T-En by Django v1.0] [n] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Tempo Typing",
+            "titles": [
+                {
+                    "searchTerm": "Tempo Typing (Netherlands) [T-En by 232 & BiFi] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ultima IV - Quest of the Avatar",
+            "titles": [
+                {
+                    "searchTerm": "Ultima IV - Quest of the Avatar (Japan) [T-En by Django v2009xxxx] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "USA-Jong - The Overlord Resurrection",
+            "titles": [
+                {
+                    "searchTerm": "USA-Jong - The Overlord Resurrection (Japan) [T-En by Django] [n] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Valeur, La",
+            "titles": [
+                {
+                    "searchTerm": "Valeur, La (Japan) [T-En by Django v20180130] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Valis - The Fantasm Soldier II",
+            "titles": [
+                {
+                    "searchTerm": "Valis - The Fantasm Soldier II (Japan) [T-En by Manuel Pazos & Theo Wilderbeek v20210116] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Welcome to Heaven",
+            "titles": [
+                {
+                    "searchTerm": "Welcome to Heaven (Japan) [T-En by MSX Translations v1.0.2] [n] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Wings of Arugisu",
+            "titles": [
+                {
+                    "searchTerm": "Wings of Arugisu (Japan) [T-En by Django v201903xx] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Woody Poco",
+            "titles": [
+                {
+                    "searchTerm": "Woody Poco (Japan) [T-En by MSX Translations v1.0.1] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Xak - The Art of Visual Stage",
+            "titles": [
+                {
+                    "searchTerm": "Xak - The Art of Visual Stage (Japan) [T-En by Delta Soft v1.0] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Xak II - Rising of the Red Moon",
+            "titles": [
+                {
+                    "searchTerm": "Xak II - Rising of the Red Moon (Japan) [T-En by Oasis v1.0] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Xak Precious Package - The Tower of Gazzel",
+            "titles": [
+                {
+                    "searchTerm": "Xak Precious Package - The Tower of Gazzel (Japan) [T-En by Oasis v1.0] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "XZR II",
+            "titles": [
+                {
+                    "searchTerm": "XZR II (Japan) [T-En by Django v1.0] [i] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Yoshida Konzern - Shooting Game Construction Tool",
+            "titles": [
+                {
+                    "searchTerm": "Yoshida Konzern - Shooting Game Construction Tool (Japan) [T-En by MSX Translations v0.5.0] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ys - Ancient Ys Vanished Omen",
+            "titles": [
+                {
+                    "searchTerm": "Ys - Ancient Ys Vanished Omen (Japan) [T-En by Oasis v1.0] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ys II - Ancient Ys Vanished - The Final Chapter",
+            "titles": [
+                {
+                    "searchTerm": "Ys II - Ancient Ys Vanished - The Final Chapter (Japan) [T-En by Oasis v1.0] [i] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ys III - Wanderers from Ys",
+            "titles": [
+                {
+                    "searchTerm": "Ys III - Wanderers from Ys (Japan) [T-En by Oasis v1.0] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Zombie Hunter",
+            "titles": [
+                {
+                    "searchTerm": "Zombie Hunter (Japan) [T-En by Django v2015xxxx] (Cartridge)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Zoo",
+            "titles": [
+                {
+                    "searchTerm": "Zoo (Netherlands) [T-En by MRC Users v201703xx] (Floppy)",
+                    "nameType": "full"
+                }
+            ]
+        }
+    ]
+}

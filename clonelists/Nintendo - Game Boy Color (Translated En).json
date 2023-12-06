@@ -1,0 +1,553 @@
+{
+    "description": {
+        "name": "Nintendo - Game Boy Color (Translated En)",
+        "lastUpdated": "4 December 2023",
+        "minimumVersion": "2.00",
+        "romSourceName": "English Translation ROMs Collection (2023)",
+        "romSourceUrl": "https://archive.org/details/En-ROMs",
+        "author": "dsync89",
+        "authorEmail": "dsync89@yahoo.com"
+    },
+    "variants": [
+        {
+            "group": "Alien Taro Tanaka in RPG Maker GB 2",
+            "titles": [
+                {
+                    "searchTerm": "Alien Taro Tanaka in RPG Maker GB 2 (Japan) [T-En by PentarouZero v0.50] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Arle's Adventure - Magical Jewels",
+            "titles": [
+                {
+                    "searchTerm": "Arle's Adventure - Magical Jewels (Japan) (SGB Enhanced) (GB Compatible) [T-En by Jazz v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Balloon Kid",
+            "titles": [
+                {
+                    "searchTerm": "Balloon Kid (Japan) (SGB Enhanced, GB Compatible) (NP) [T-En by DACE v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Detective Conan - The Legendary Treasure of Strange Rock Island",
+            "titles": [
+                {
+                    "searchTerm": "Detective Conan - The Legendary Treasure of Strange Rock Island (Japan) (SGB Enhanced) (GB Compatible) [T-En by Mz v0.04] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Detective Conan - The Mechanical Temple Murder Case",
+            "titles": [
+                {
+                    "searchTerm": "Detective Conan - The Mechanical Temple Murder Case (Japan) (SGB Enhanced) (GB Compatible) [T-En by Psyklax v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Donkey Kong Land III",
+            "titles": [
+                {
+                    "searchTerm": "Donkey Kong Land III (Japan) [T-En by Blaziken257 v1.3] [n] [Original title screen]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Quest Monsters",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Quest Monsters (USA, Europe) (SGB Enhanced) (GB Compatible) [T-En by Translation Quest v1.06] [Relocalized] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fishing King Adventure - Kite's Adventure",
+            "titles": [
+                {
+                    "searchTerm": "Fishing King Adventure - Kite's Adventure (Japan) (Rumble Version) [T-En by Robert Goodwin v2.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou!",
+            "titles": [
+                {
+                    "searchTerm": "From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! (Japan) (Rev 1) (SGB Enhanced) (GB Compatible) [T-En by Star Trinket v9]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Game Boy Wars 2",
+            "titles": [
+                {
+                    "searchTerm": "Game Boy Wars 2 (Japan) (SGB Enhanced) (GB Compatible) [T-En by TransBRC v1.02] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Game Boy Wars 3",
+            "titles": [
+                {
+                    "searchTerm": "Game Boy Wars 3 (Japan) [T-En by Master Knight DH v0.96] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "GB Memory Multi Menu",
+            "titles": [
+                {
+                    "searchTerm": "GB Memory Multi Menu (Japan) (SGB Enhanced, GB Compatible) (NP) [T-En by Orangeglo v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Gen the Carpenter",
+            "titles": [
+                {
+                    "searchTerm": "Gen the Carpenter (Japan) (SGB Enhanced) (GB Compatible) [T-En by PentarouZero v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Grandia - Parallel Trippers",
+            "titles": [
+                {
+                    "searchTerm": "Grandia - Parallel Trippers (Japan) [T-En by Adventurous Translations v1.03]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Hello Kitty no Magical Museum",
+            "titles": [
+                {
+                    "searchTerm": "Hello Kitty no Magical Museum (Japan) (SGB Enhanced) (GB Compatible) [T-En by Doki Doki Translations v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Hugo 2 1-2",
+            "titles": [
+                {
+                    "searchTerm": "Hugo 2 1-2 (Germany) (GB Compatible) [T-En by NikcDC v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Kettou Transformers Beast Wars - Beast Senshi Saikyou Ketteisen",
+            "titles": [
+                {
+                    "searchTerm": "Kettou Transformers Beast Wars - Beast Senshi Saikyou Ketteisen (Japan) (SGB Enhanced) (GB Compatible) [T-En by Six Feet Under v0.1] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Little Magic",
+            "titles": [
+                {
+                    "searchTerm": "Little Magic (Japan) [T-En by Some Good Shit Translations v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Magical Chase GB - Minarai Mahoutsukai Kenja no Tani e",
+            "titles": [
+                {
+                    "searchTerm": "Magical Chase GB - Minarai Mahoutsukai Kenja no Tani e (Japan) [T-En by Gaijin Productions v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Medarot 3 - Kabuto Version",
+            "titles": [
+                {
+                    "searchTerm": "Medarot 3 - Kabuto Version (Japan) [T-En by Cash Medal Chameleon v0.1.6+EN+nightly.20221221]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Medarot 3 - Kuwagata Version",
+            "titles": [
+                {
+                    "searchTerm": "Medarot 3 - Kuwagata Version (Japan) [T-En by Cash Medal Chameleon v0.1.6+EN+nightly.20221221]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Megaten Gaiden - Last Bible II",
+            "titles": [
+                {
+                    "searchTerm": "Megaten Gaiden - Last Bible II (Japan) (SGB Enhanced) (GB Compatible) [T-En by EsperKnight v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mobile Golf",
+            "titles": [
+                {
+                    "searchTerm": "Mobile Golf (Japan) [T-En by ProstatePunch & Darkshade & REON Dev Team & Marc_Max v1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mobile Monsters Telefang - Power Version",
+            "titles": [
+                {
+                    "searchTerm": "Mobile Monsters Telefang - Power Version (Japan) (GB Compatible) [T-En by Kmeisthax & Andwhyisit & Obskyr v153] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mobile Monsters Telefang - Speed Version",
+            "titles": [
+                {
+                    "searchTerm": "Mobile Monsters Telefang - Speed Version (Japan) (GB Compatible) [T-En by Kmeisthax & Andwhyisit & Obskyr v153] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Network Adventure Bugsite - Alpha Version",
+            "titles": [
+                {
+                    "searchTerm": "Network Adventure Bugsite - Alpha Version (Japan) [T-En by Kmeisthax & Kimbles & DaVince v0.29] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Network Adventure Bugsite - Beta Version",
+            "titles": [
+                {
+                    "searchTerm": "Network Adventure Bugsite - Beta Version (Japan) [T-En by Kmeisthax & Kimbles & DaVince v0.29] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Nobunaga's Ambition",
+            "titles": [
+                {
+                    "searchTerm": "Nobunaga's Ambition (Japan) (SGB Enhanced) (GB Compatible) [T-En by Opus v2 Beta] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Othello Millennium",
+            "titles": [
+                {
+                    "searchTerm": "Othello Millennium (Japan) (GB Compatible) [T-En by Dark Tetsuya v001] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ottifanten - Kommando Stoertebeker",
+            "titles": [
+                {
+                    "searchTerm": "Ottifanten - Kommando Stoertebeker (Germany) [T-En by Alemanic Translations & Matrix Arcade Division v1.2] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Pocket Billiards - Funk the 9 Ball",
+            "titles": [
+                {
+                    "searchTerm": "Pocket Billiards - Funk the 9 Ball (Japan) [T-En by PR Translations v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Pocket Monsters - Crystal Version",
+            "titles": [
+                {
+                    "searchTerm": "Pocket Monsters - Crystal Version (Japan) [T-En by Unknown v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Pokemon Trading Card Game 2 - The Invasion of Team GR!",
+            "titles": [
+                {
+                    "searchTerm": "Pokemon Trading Card Game 2 - The Invasion of Team GR! (Japan) [T-En by Artemis251 & Jazz v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "RPG Maker GB",
+            "titles": [
+                {
+                    "searchTerm": "RPG Maker GB (Japan) [T-En by Magecraft Translations v0.99] [Add by OEA v1.9] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sakura Wars GB - Go Forth, Young Cadet!",
+            "titles": [
+                {
+                    "searchTerm": "Sakura Wars GB - Go Forth, Young Cadet! (Japan) [T-En by MattoBii & Co v0.0.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Samurai Kid",
+            "titles": [
+                {
+                    "searchTerm": "Samurai Kid (Japan) [T-En by FlyingClimber & ProstatePunch & Marc_Max v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sanrio Timenet - Mirai Hen",
+            "titles": [
+                {
+                    "searchTerm": "Sanrio Timenet - Mirai Hen (Japan) (SGB Enhanced) (GB Compatible) [T-En by Katalyst Translations v0.8] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Secrets of Happy Hippo Isle, The",
+            "titles": [
+                {
+                    "searchTerm": "Secrets of Happy Hippo Isle, The (Germany) [T-En by NikcDC v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Shin Megami Tensei Devil Children - Kuro no Sho",
+            "titles": [
+                {
+                    "searchTerm": "Shin Megami Tensei Devil Children - Kuro no Sho (Japan) (SGB Enhanced) (GB Compatible) [T-En by Higsby & SpecialAgentApe v1.2]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Snowboard Champion",
+            "titles": [
+                {
+                    "searchTerm": "Snowboard Champion (Japan) [T-En by Diogo Ribeiro & Leina v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Snowboard Champions",
+            "titles": [
+                {
+                    "searchTerm": "Snowboard Champions (Japan) [T-En by Magecraft Translations v0.90] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Soul Getter - Houkago Bouken RPG",
+            "titles": [
+                {
+                    "searchTerm": "Soul Getter - Houkago Bouken RPG (Japan) (GB Compatible) [T-En by Magecraft Translations v0.10] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Star Ocean - Blue Sphere",
+            "titles": [
+                {
+                    "searchTerm": "Star Ocean - Blue Sphere (Japan) (SGB Enhanced) (GB Compatible) [T-En by Lokai20 v0.1] [Add by 4l3j4ndr0 v1.0] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Super Chinese Fighter EX",
+            "titles": [
+                {
+                    "searchTerm": "Super Chinese Fighter EX (Japan) [T-En by Some Good Shit Translations v0.99]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Super Mario Bros. Deluxe",
+            "titles": [
+                {
+                    "searchTerm": "Super Mario Bros. Deluxe (Japan) (Rev 1) (NP) [T-En by BucketOfFriedChicken v2]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Super Robot Pinball",
+            "titles": [
+                {
+                    "searchTerm": "Super Robot Pinball (Japan) [T-En by Kurenaikurai & Luis16bits & Marc_max v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Survival Kids 2 - Dasshutsu!! Futago-Jima!",
+            "titles": [
+                {
+                    "searchTerm": "Survival Kids 2 - Dasshutsu!! Futago-Jima! (Japan) (SGB Enhanced) (GB Compatible) [T-En by Hattontown & NikcDC v0.9]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sylvanian Families - The Fairyland Pendant",
+            "titles": [
+                {
+                    "searchTerm": "Sylvanian Families - The Fairyland Pendant (Japan) (SGB Enhanced) (GB Compatible) [T-En by Ryusui v1.1b] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sylvanian Melodies",
+            "titles": [
+                {
+                    "searchTerm": "Sylvanian Melodies (Japan) (SGB Enhanced) (GB Compatible) [T-En by Ryusui v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Tabaluga",
+            "titles": [
+                {
+                    "searchTerm": "Tabaluga (Germany) (GB Compatible) [T-En by NikcDC v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Tales of Phantasia - Narikiri Dungeon",
+            "titles": [
+                {
+                    "searchTerm": "Tales of Phantasia - Narikiri Dungeon (Japan) (SGB Enhanced) (GB Compatible) [T-En by ChangeV v0.009m] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Wizardry Empire",
+            "titles": [
+                {
+                    "searchTerm": "Wizardry Empire (Japan) (Rev 1) [T-En by AgentOrange & Helly & MrRichard999 v1.03] [Add by Rainponcho v0.2] [Original Logo] [Normal Style]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Wizardry Empire - The Emperor of Naraka",
+            "titles": [
+                {
+                    "searchTerm": "Wizardry Empire - The Emperor of Naraka (Japan) (Rev 1) [T-En by AgentOrange & Helly & MrRichard999 v1.03] [Add by Rainponcho v0.2] [Normal Style] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Wizardry Empire - The Staff of Resurrection",
+            "titles": [
+                {
+                    "searchTerm": "Wizardry Empire - The Staff of Resurrection (Japan) [T-En by Helly & MrRichard999 v1.16] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Wizardry I - Proving Grounds of the Mad Overlord",
+            "titles": [
+                {
+                    "searchTerm": "Wizardry I - Proving Grounds of the Mad Overlord (Japan) [T-En by Opus v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Wizardry II - Legacy of Llylgamyn",
+            "titles": [
+                {
+                    "searchTerm": "Wizardry II - Legacy of Llylgamyn (Japan) [T-En by Opus v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Wizardry III - Knight of Diamonds",
+            "titles": [
+                {
+                    "searchTerm": "Wizardry III - Knight of Diamonds (Japan) [T-En by Opus v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Yu-Gi-Oh! - Monster Capsule GB",
+            "titles": [
+                {
+                    "searchTerm": "Yu-Gi-Oh! - Monster Capsule GB (Japan) (SGB Enhanced) (GB Compatible) [T-En by Bownly v1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck",
+            "titles": [
+                {
+                    "searchTerm": "Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (Japan) [T-En by Chris Judah v0.70] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Zoids - Shirogane no Juukishin Liger Zero",
+            "titles": [
+                {
+                    "searchTerm": "Zoids - Shirogane no Juukishin Liger Zero (Japan) [T-En by Tsukuru v0.2] [i]",
+                    "nameType": "full"
+                }
+            ]
+        }
+    ]
+}

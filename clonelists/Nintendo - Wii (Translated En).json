@@ -1,0 +1,157 @@
+{
+    "description": {
+        "name": "Nintendo - Wii (Translated En)",
+        "lastUpdated": "7 December 2023",
+        "minimumVersion": "2.00",
+        "romSourceName": "English Translation ROMs Collection (2023)",
+        "romSourceUrl": "https://archive.org/details/En-ROMs",
+        "author": "dsync89",
+        "authorEmail": "dsync89@yahoo.com"
+    },
+    "variants": [
+        {
+            "group": "Arc Rise Fantasia",
+            "titles": [
+                {
+                    "searchTerm": "Arc Rise Fantasia (USA) [Undub by Somebody Special v1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Blades of Reginleiv",
+            "titles": [
+                {
+                    "searchTerm": "Blades of Reginleiv (Japan) [T-En by Gummi & Brand Newman v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Bleach - Versus Crusade",
+            "titles": [
+                {
+                    "searchTerm": "Bleach - Versus Crusade (Japan) [T-En by Sixfortyfive v1.0] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Captain Rainbow",
+            "titles": [
+                {
+                    "searchTerm": "Captain Rainbow (Japan) [T-En by MarkAss & Kirameki Translations v1] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Chibi Robo!",
+            "titles": [
+                {
+                    "searchTerm": "Chibi Robo! (Japan) [T-En by Brand Newman v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Earth Seeker",
+            "titles": [
+                {
+                    "searchTerm": "Earth Seeker (Japan) [T-En by Brand Newman v2.03]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fatal Frame 4 - Mask of the Lunar Eclipse",
+            "titles": [
+                {
+                    "searchTerm": "Fatal Frame 4 - Mask of the Lunar Eclipse (Japan) [T-En by Tempus v1.0+update] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Line Attack Heroes",
+            "titles": [
+                {
+                    "searchTerm": "Line Attack Heroes (Japan) (WiiWare) [T-En by Brand Newman v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Night of the Sacrifice",
+            "titles": [
+                {
+                    "searchTerm": "Night of the Sacrifice (Japan) [T-En by Brand Newman v1.03] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Opoona",
+            "titles": [
+                {
+                    "searchTerm": "Opoona (USA) [T-En by Opoonaproject v1.1] [Relocalized]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Pokemon Mystery Dungeon - Go for it! Radiant Adventure Squad",
+            "titles": [
+                {
+                    "searchTerm": "Pokemon Mystery Dungeon - Go for it! Radiant Adventure Squad (Japan) (WiiWare) [T-En by Higsby & MegaMinerd & SpecialAgentApe v1.03] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Pokemon Mystery Dungeon - Keep Going! Wildfire Adventure Squad",
+            "titles": [
+                {
+                    "searchTerm": "Pokemon Mystery Dungeon - Keep Going! Wildfire Adventure Squad (Japan) (WiiWare) [T-En by Higsby & MegaMinerd & SpecialAgentApe & Wowjinxy v1.03] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Pokemon Mystery Dungeon - Let's Go! Tempest Adventure Squad",
+            "titles": [
+                {
+                    "searchTerm": "Pokemon Mystery Dungeon - Let's Go! Tempest Adventure Squad (Japan) (WiiWare) [T-En by Higsby & MegaMinerd & SpecialAgentApe v1.03] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Puyo Puyo 7",
+            "titles": [
+                {
+                    "searchTerm": "Puyo Puyo 7 (Japan) [T-En by Puyo Nexus & Nenilein & Saetta06 v1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Soul Eater - Monotone Princess",
+            "titles": [
+                {
+                    "searchTerm": "Soul Eater - Monotone Princess (Japan) [T-En by Anime Game Translations Team v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Takt of Magic",
+            "titles": [
+                {
+                    "searchTerm": "Takt of Magic (Japan) [T-En by Brand Newman v1.02]",
+                    "nameType": "full"
+                }
+            ]
+        }
+    ]
+}

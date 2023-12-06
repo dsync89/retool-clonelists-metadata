@@ -1,0 +1,535 @@
+{
+    "description": {
+        "name": "Sega - Mega Drive (Translated En)",
+        "lastUpdated": "4 December 2023",
+        "minimumVersion": "2.00",
+        "romSourceName": "English Translation ROMs Collection (2023)",
+        "romSourceUrl": "https://archive.org/details/En-ROMs",
+        "author": "dsync89",
+        "authorEmail": "dsync89@yahoo.com"
+    },
+    "variants": [
+        {
+            "group": "A-Train - Take the ''A'' Train MD",
+            "titles": [
+                {
+                    "searchTerm": "A-Train - Take the ''A'' Train MD (Japan) [T-En by MrRichard999 & AgentOrange & FlashPV v0.99] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Advanced Busterhawk Gleylancer",
+            "titles": [
+                {
+                    "searchTerm": "Advanced Busterhawk Gleylancer (Japan) [T-En by M.I.J.E.T. v061023]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Advanced Daisenryaku - Deutsch Dengeki Sakusen",
+            "titles": [
+                {
+                    "searchTerm": "Advanced Daisenryaku - Deutsch Dengeki Sakusen (Japan) (Rev A) [T-En by Nebelwurfer v0.95] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Bare Knuckle III",
+            "titles": [
+                {
+                    "searchTerm": "Bare Knuckle III (Japan) [T-En by Twilight Translations v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Battle Golfer Yui",
+            "titles": [
+                {
+                    "searchTerm": "Battle Golfer Yui (Japan) [T-En by Filler v0.9]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Battle Mania Daiginjou",
+            "titles": [
+                {
+                    "searchTerm": "Battle Mania Daiginjou (Japan, Korea) [T-En by M.I.J.E.T. v061029]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Beyond Oasis",
+            "titles": [
+                {
+                    "searchTerm": "Beyond Oasis (USA) [T-En by Eien Ni Hen & Husky v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Castle of Illusion Starring Mickey Mouse",
+            "titles": [
+                {
+                    "searchTerm": "Castle of Illusion Starring Mickey Mouse (Japan) [T-En by RadioTails v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dahna - Goddess' Birth",
+            "titles": [
+                {
+                    "searchTerm": "Dahna - Goddess' Birth (Japan) [T-En by Cccmar v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Demon Genesis",
+            "titles": [
+                {
+                    "searchTerm": "Demon Genesis (Japan) [T-En by Tashi.moe v03a] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Ball Z - L'Appel du Destin",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Ball Z - L'Appel du Destin (France) [T-En by DBZ Game v0.95A]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dyna Brothers",
+            "titles": [
+                {
+                    "searchTerm": "Dyna Brothers (Japan) [T-En by Tybis v0.1] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dynamite Headdy",
+            "titles": [
+                {
+                    "searchTerm": "Dynamite Headdy (Japan) [T-En by M.I.J.E.T. v070428]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "F1 Circus MD",
+            "titles": [
+                {
+                    "searchTerm": "F1 Circus MD (Japan) [T-En by MrRichard999 & AgentOrange & TheMajinZenki v0.95b]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Kishi Densetsu",
+            "titles": [
+                {
+                    "searchTerm": "Kishi Densetsu (Japan) [T-En by Gaijin Productions v0.20] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Langrisser",
+            "titles": [
+                {
+                    "searchTerm": "Langrisser (USA) [T-En by D v20010219] [Add by Jon Najar v070103] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Langrisser II",
+            "titles": [
+                {
+                    "searchTerm": "Langrisser II (Japan) (Rev B) [T-En by M.I.J.E.T. v110701]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Lord Monarch - Legendary Battle Royale",
+            "titles": [
+                {
+                    "searchTerm": "Lord Monarch - Legendary Battle Royale (Japan) [T-En by Nebulous Translations v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Magical Hat's Turbo Flying Adventure!",
+            "titles": [
+                {
+                    "searchTerm": "Magical Hat's Turbo Flying Adventure! (Japan) [T-En by Aqualung & Lazermutt4 & Midna & Tryphon v0.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Magical Kid Taruruto",
+            "titles": [
+                {
+                    "searchTerm": "Magical Kid Taruruto (Japan) (En,Fr,Ja) [T-En by Akualung & Ghanmi & JumpingRyle & Tryphon alpha-ml] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Monster World IV",
+            "titles": [
+                {
+                    "searchTerm": "Monster World IV (Japan) [T-En by DeJap & Demiforce v1.02] [Add by Michele Di Somma v2.2] [Add by Jackic v1.1] [Virtual Console Font]",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Monster World IV (Japan) [T-En by DeJap & Demiforce v1.02] [Add by Michele Di Somma v2.2] [Add by Jackic v1.1]",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Monster World IV (Japan) [T-En by DeJap & Demiforce v1.02] [Add by Michele Di Somma v2.2]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Nadia - The Secret of Blue Water",
+            "titles": [
+                {
+                    "searchTerm": "Nadia - The Secret of Blue Water (Japan) [T-En by Eien Ni Hen & KingMike v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Panorama Cotton",
+            "titles": [
+                {
+                    "searchTerm": "Panorama Cotton (Japan) [T-En by Malias v1.0.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Phantasy Star II",
+            "titles": [
+                {
+                    "searchTerm": "Phantasy Star II (USA, Europe) (Rev A) [T-En by Naflign & Rebecca Capowski v18]",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Phantasy Star II (USA, Europe) (Rev A) [T-En by Tanner v1.0] [Relocalized]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Phantasy Star II - Amia's Adventure",
+            "titles": [
+                {
+                    "searchTerm": "Phantasy Star II - Amia's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Phantasy Star II - Anne's Adventure",
+            "titles": [
+                {
+                    "searchTerm": "Phantasy Star II - Anne's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Phantasy Star II - Eusis's Adventure",
+            "titles": [
+                {
+                    "searchTerm": "Phantasy Star II - Eusis's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Phantasy Star II - Huey's Adventure",
+            "titles": [
+                {
+                    "searchTerm": "Phantasy Star II - Huey's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Phantasy Star II - Kinds's Adventure",
+            "titles": [
+                {
+                    "searchTerm": "Phantasy Star II - Kinds's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Phantasy Star II - Nei's Adventure",
+            "titles": [
+                {
+                    "searchTerm": "Phantasy Star II - Nei's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Phantasy Star II - Rudger's Adventure",
+            "titles": [
+                {
+                    "searchTerm": "Phantasy Star II - Rudger's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Phantasy Star II - Shilka's Adventure",
+            "titles": [
+                {
+                    "searchTerm": "Phantasy Star II - Shilka's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Phantasy Star III - Successors of Time",
+            "titles": [
+                {
+                    "searchTerm": "Phantasy Star III - Successors of Time (USA, Europe, Korea) [T-En by Peaches v1.2] [n]",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Phantasy Star III - Successors of Time (USA, Europe, Korea) [T-En by Peaches v1.2] [Parallax Patch] [n]",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Phantasy Star III - Successors of Time (USA, Europe, Korea) [T-En by Peaches v1.2] [Parallax Patch] [Walk Speed Patch] [n]",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Phantasy Star III - Successors of Time (USA, Europe, Korea) [T-En by Peaches v1.2] [Walk Speed Patch] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Phantasy Star IV",
+            "titles": [
+                {
+                    "searchTerm": "Phantasy Star IV (USA) [T-En by GhaleonUnlimited v7.7] [Relocalized] [Purist]",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Phantasy Star IV (USA) [T-En by GhaleonUnlimited v7.7] [Relocalized] [Working Designs]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Pretty Soldier Sailor Moon",
+            "titles": [
+                {
+                    "searchTerm": "Pretty Soldier Sailor Moon (Japan) [T-En by Supper v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Psy-O-Blade",
+            "titles": [
+                {
+                    "searchTerm": "Psy-O-Blade (Japan) [T-En by Eien Ni Hen & Tryphon v1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Pulseman",
+            "titles": [
+                {
+                    "searchTerm": "Pulseman (Japan) [T-En by M.I.J.E.T. v070226]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Record of the Bahamut War",
+            "titles": [
+                {
+                    "searchTerm": "Record of the Bahamut War (Japan) [T-En by Supper v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Rent a Hero",
+            "titles": [
+                {
+                    "searchTerm": "Rent a Hero (Japan) [T-En NikcDC v0.98] [Genesis]",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Rent a Hero (Japan) [T-En NikcDC v0.98] [MegaDrive]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sonic Eraser",
+            "titles": [
+                {
+                    "searchTerm": "Sonic Eraser (Japan) (SegaNet) [T-En by Derrick Sobodash v1.0]",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Sonic Eraser (Japan) (SegaNet) [T-En by Roebloz v1.0.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sorcerian",
+            "titles": [
+                {
+                    "searchTerm": "Sorcerian (Japan) [T-En by SSTranslations v0.5] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sorcery Saga I",
+            "titles": [
+                {
+                    "searchTerm": "Sorcery Saga I (Japan) [T-En by Supper v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Star Cruiser",
+            "titles": [
+                {
+                    "searchTerm": "Star Cruiser (Japan) [T-En by Nebulous Translations v0.99.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Super Fantasy Zone",
+            "titles": [
+                {
+                    "searchTerm": "Super Fantasy Zone (Japan) [T-En by Saulfabreg v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Thunder Pro Wrestling Story",
+            "titles": [
+                {
+                    "searchTerm": "Thunder Pro Wrestling Story (Japan) [T-En by MrRichard999 & Fire_Pro_Fan & TheMajinZenki & FlashPV v0.99] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Tougiou King Colossus",
+            "titles": [
+                {
+                    "searchTerm": "Tougiou King Colossus (Japan) [T-En by M.I.J.E.T. v061030]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Trouble Shooter Vintage",
+            "titles": [
+                {
+                    "searchTerm": "Trouble Shooter Vintage (Japan, Korea) [T-En by M.I.J.E.T. v061029] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Twinkle Tale",
+            "titles": [
+                {
+                    "searchTerm": "Twinkle Tale (Japan) [T-En by M.I.J.E.T. v070328]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Undead Line",
+            "titles": [
+                {
+                    "searchTerm": "Undead Line (Japan) [T-En by M.I.J.E.T. v070903]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Vixen 357",
+            "titles": [
+                {
+                    "searchTerm": "Vixen 357 (Japan) [T-En by Nebulous Translations v1.2]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Warsong",
+            "titles": [
+                {
+                    "searchTerm": "Warsong (USA) [T-En by D v20010219] [Japanese names]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ys III",
+            "titles": [
+                {
+                    "searchTerm": "Ys III (USA) [T-En by Plombo v1.1] [Relocalized]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Yu Yu Hakusho - Makyou Toitsusen",
+            "titles": [
+                {
+                    "searchTerm": "Yu Yu Hakusho - Makyou Toitsusen (Japan) [T-En by M.I.J.E.T. v071113]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "_Sega Mega Drive [T-En] Docs",
+            "titles": [
+                {
+                    "searchTerm": "_Sega Mega Drive [T-En] Docs",
+                    "nameType": "full"
+                }
+            ]
+        }
+    ]
+}

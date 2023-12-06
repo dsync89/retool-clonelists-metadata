@@ -1,0 +1,76 @@
+{
+    "description": {
+        "name": "Microsoft - Xbox (Translated En)",
+        "lastUpdated": "7 December 2023",
+        "minimumVersion": "2.00",
+        "romSourceName": "English Translation ROMs Collection (2023)",
+        "romSourceUrl": "https://archive.org/details/En-ROMs",
+        "author": "dsync89",
+        "authorEmail": "dsync89@yahoo.com"
+    },
+    "variants": [
+        {
+            "group": "Drihoo",
+            "titles": [
+                {
+                    "searchTerm": "Drihoo (Japan) [T-En by ShawnS v1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Kikou Heidan J-Phoenix +",
+            "titles": [
+                {
+                    "searchTerm": "Kikou Heidan J-Phoenix + (Japan) [T-En by MrRichard999 v0.15] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Metal Wolf Chaos",
+            "titles": [
+                {
+                    "searchTerm": "Metal Wolf Chaos (Japan) [T-En by NemsMole v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "OutRun 2",
+            "titles": [
+                {
+                    "searchTerm": "OutRun 2 (Japan) [T-En by Justin Gibbins v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Thousand Land",
+            "titles": [
+                {
+                    "searchTerm": "Thousand Land (Japan) [T-En by MrRichard999 v0.992b]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Touge R",
+            "titles": [
+                {
+                    "searchTerm": "Touge R (Japan) [T-En by MrRichard999 v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Wild Rings, The",
+            "titles": [
+                {
+                    "searchTerm": "Wild Rings, The (Japan) [T-En by MrRichard999 v0.95]",
+                    "nameType": "full"
+                }
+            ]
+        }
+    ]
+}

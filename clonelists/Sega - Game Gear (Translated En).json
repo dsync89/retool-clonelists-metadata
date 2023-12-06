@@ -1,0 +1,283 @@
+{
+    "description": {
+        "name": "Sega - Game Gear (Translated En)",
+        "lastUpdated": "4 December 2023",
+        "minimumVersion": "2.00",
+        "romSourceName": "English Translation ROMs Collection (2023)",
+        "romSourceUrl": "https://archive.org/details/En-ROMs",
+        "author": "dsync89",
+        "authorEmail": "dsync89@yahoo.com"
+    },
+    "variants": [
+        {
+            "group": "Buster Ball",
+            "titles": [
+                {
+                    "searchTerm": "Buster Ball (Japan) [T-En by Lazermutt4 v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Coca-Cola Kid",
+            "titles": [
+                {
+                    "searchTerm": "Coca-Cola Kid (Japan) [T-En by Filler v1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Crayon Shin-Chan - Showdown! Quantum Panic!!",
+            "titles": [
+                {
+                    "searchTerm": "Crayon Shin-Chan - Showdown! Quantum Panic!! (Japan) [T-En by Psyklax v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Demon Child Zenki",
+            "titles": [
+                {
+                    "searchTerm": "Demon Child Zenki (Japan) [T-En by TheMajinZenki v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Eternal Legend - Eien no Densetsu",
+            "titles": [
+                {
+                    "searchTerm": "Eternal Legend - Eien no Densetsu (Japan) [T-En by Supper v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Godzilla - Monsters Attack",
+            "titles": [
+                {
+                    "searchTerm": "Godzilla - Monsters Attack (Japan) [T-En by Supper v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Head Buster",
+            "titles": [
+                {
+                    "searchTerm": "Head Buster (Japan) [T-En by Chris M. Covell v0.99]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Kaitou Saint Tail",
+            "titles": [
+                {
+                    "searchTerm": "Kaitou Saint Tail (Japan) [T-En by Matt's Messy Room v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Lunar - Sanposuru Gakuen",
+            "titles": [
+                {
+                    "searchTerm": "Lunar - Sanposuru Gakuen (Japan) [T-En by Aeon Genesis & Some Good Shit Translations v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Madou Monogatari I - 3 Magic Spheres",
+            "titles": [
+                {
+                    "searchTerm": "Madou Monogatari I - 3 Magic Spheres (Japan) [T-En by Filler & SSTranslations v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Magic Knight Rayearth",
+            "titles": [
+                {
+                    "searchTerm": "Magic Knight Rayearth (Japan) [T-En by Filler v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Magic Knight Rayearth 2 - Making of Magic Knight",
+            "titles": [
+                {
+                    "searchTerm": "Magic Knight Rayearth 2 - Making of Magic Knight (Japan) [T-En by Pearse Hillock v0.5] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mappy",
+            "titles": [
+                {
+                    "searchTerm": "Mappy (Japan) [T-En by Maxim & ArugulaZ v1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Megami Tensei Gaiden - Last Bible",
+            "titles": [
+                {
+                    "searchTerm": "Megami Tensei Gaiden - Last Bible (Japan) [T-En by Supper v3.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Megaten Gaiden - Last Bible Special",
+            "titles": [
+                {
+                    "searchTerm": "Megaten Gaiden - Last Bible Special (Japan) [T-En by MrRichard999 & SSTranslations & Tom v1.02] [n] [Modded]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Moldorian - The Sisters of Light and Darkness",
+            "titles": [
+                {
+                    "searchTerm": "Moldorian - The Sisters of Light and Darkness (Japan) [T-En by Supper v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Nazo Puyo - Arle no Roux",
+            "titles": [
+                {
+                    "searchTerm": "Nazo Puyo - Arle no Roux (Japan) [T-En by T-En by TriumphantBass v0.2] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ninku",
+            "titles": [
+                {
+                    "searchTerm": "Ninku (Japan) [T-En by Some Good Shit Translations v0.1] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Phantasy Star Adventure",
+            "titles": [
+                {
+                    "searchTerm": "Phantasy Star Adventure (Japan) [T-En by Aeon Genesis v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Phantasy Star Gaiden",
+            "titles": [
+                {
+                    "searchTerm": "Phantasy Star Gaiden (Japan) [T-En by Magic Translations v1.00] [Original Sega Font]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Pretty Soldier Sailor Moon S",
+            "titles": [
+                {
+                    "searchTerm": "Pretty Soldier Sailor Moon S (Japan) [T-En by Supper v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Royal Stone",
+            "titles": [
+                {
+                    "searchTerm": "Royal Stone (Japan) [T-En by Aeon Genesis v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "SD Gundam - Winner's History",
+            "titles": [
+                {
+                    "searchTerm": "SD Gundam - Winner's History (Japan) [T-En by Gaijin Productions v0.99]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Shining Force Gaiden - Final Conflict",
+            "titles": [
+                {
+                    "searchTerm": "Shining Force Gaiden - Final Conflict (Japan) [T-En by Shining Force Central v070606 Final]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sorcery Saga A - Vivacious Vacation",
+            "titles": [
+                {
+                    "searchTerm": "Sorcery Saga A - Vivacious Vacation (Japan) [T-En by Supper v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sorcery Saga I - 3 Magic Spheres",
+            "titles": [
+                {
+                    "searchTerm": "Sorcery Saga I - 3 Magic Spheres (Japan) [T-En by Filler & SSTranslations v1.0] [Add by EvilJagaGenius v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sorcery Saga II - Arle, Age 16",
+            "titles": [
+                {
+                    "searchTerm": "Sorcery Saga II - Arle, Age 16 (Japan) [T-En by Supper v1.2] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sorcery Saga III - The Ultimate Queen",
+            "titles": [
+                {
+                    "searchTerm": "Sorcery Saga III - The Ultimate Queen (Japan) [T-En by Supper v1.2] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sylvan Tale",
+            "titles": [
+                {
+                    "searchTerm": "Sylvan Tale (Japan) [T-En by Aeon Genesis v1.01] [Slab Shrine Music]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Yu Yu Hakusho II - Battle of the 7 Fighters",
+            "titles": [
+                {
+                    "searchTerm": "Yu Yu Hakusho II - Battle of the 7 Fighters (Japan) [T-En by Gaijin Productions v1.10] [n]",
+                    "nameType": "full"
+                }
+            ]
+        }
+    ]
+}

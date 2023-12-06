@@ -1,0 +1,395 @@
+{
+    "description": {
+        "name": "NEC - PC Engine TurboGrafx-16 (Translated En)",
+        "lastUpdated": "4 December 2023",
+        "minimumVersion": "2.00",
+        "romSourceName": "English Translation ROMs Collection (2023)",
+        "romSourceUrl": "https://archive.org/details/En-ROMs",
+        "author": "dsync89",
+        "authorEmail": "dsync89@yahoo.com"
+    },
+    "variants": [
+        {
+            "group": "Aoi Blink",
+            "titles": [
+                {
+                    "searchTerm": "Aoi Blink (Japan) [T-En by Gaijin Productions & Zatos Hacks v0.99b]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Barunba",
+            "titles": [
+                {
+                    "searchTerm": "Barunba (Japan) [T-En by Dave Shadoff & Diogo Ribeiro v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Bikkuriman World",
+            "titles": [
+                {
+                    "searchTerm": "Bikkuriman World (Japan) [T-En by Demiforce v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Bubblegum Crash! - Knight Sabers 2034",
+            "titles": [
+                {
+                    "searchTerm": "Bubblegum Crash! - Knight Sabers 2034 (Japan) [T-En by Dave Shadoff & Filler & Tomaitheous v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "City Hunter",
+            "titles": [
+                {
+                    "searchTerm": "City Hunter (Japan) [T-En by Cabbage v1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Crest of Gaia, The",
+            "titles": [
+                {
+                    "searchTerm": "Crest of Gaia, The (Japan) [T-En by Derrick Sobodash & Benjamin Whitting v1.3] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Die Hard",
+            "titles": [
+                {
+                    "searchTerm": "Die Hard (Japan) [T-En by Spinner 8 & DarknessSavior v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Egg!",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Egg! (Japan) [T-En by Cabbage & Onionzoo v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Energy",
+            "titles": [
+                {
+                    "searchTerm": "Energy (Japan) [T-En by Cabbage & Onionzoo v1.01]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "F-1 Pilot - You're King of Kings",
+            "titles": [
+                {
+                    "searchTerm": "F-1 Pilot - You're King of Kings (Japan) [T-En by Jink640 & MrRichard999 v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fairytale Dreams of Alice, The",
+            "titles": [
+                {
+                    "searchTerm": "Fairytale Dreams of Alice, The (Japan) [T-En by Dave Shadoff & Diogo Ribeiro & Filler & MooZ v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Final Match Tennis",
+            "titles": [
+                {
+                    "searchTerm": "Final Match Tennis (Japan) [T-En by tAz-07 v1.2]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Final Match Tennis Ladies",
+            "titles": [
+                {
+                    "searchTerm": "Final Match Tennis Ladies (Japan) [Hack by MooZ v1.0] [T-En by tAz-07 v1.0] [HMCD2002 Extract]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Flying Trooper X-Serd",
+            "titles": [
+                {
+                    "searchTerm": "Flying Trooper X-Serd (Japan) [T-En by Nebulous Translations v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Gai Flame",
+            "titles": [
+                {
+                    "searchTerm": "Gai Flame (Japan) [T-En by Nebulous Translations v0.98]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ganbare! Golf Boys",
+            "titles": [
+                {
+                    "searchTerm": "Ganbare! Golf Boys (Japan) [T-En by AgentOrange & Jink640 & MrRichard999 v0.99]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Gekisha Boy",
+            "titles": [
+                {
+                    "searchTerm": "Gekisha Boy (Japan) [T-En by LaytonLoztew v1.0]",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Gekisha Boy (Japan) [T-En by Zatos Hacks v0.99]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Hanii in the Sky",
+            "titles": [
+                {
+                    "searchTerm": "Hanii in the Sky (Japan) [T-En by Eadmaster v0.3] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Honey in the Sky",
+            "titles": [
+                {
+                    "searchTerm": "Honey in the Sky (Japan) [T-En by Cabbage & Filler & Diogo Ribeiro v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Jaseiken Necromancer",
+            "titles": [
+                {
+                    "searchTerm": "Jaseiken Necromancer (Japan) [T-En by Pikachumanson v0.25] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Knight Rider Special",
+            "titles": [
+                {
+                    "searchTerm": "Knight Rider Special (Japan) [T-En by Psyklax v2.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Kore ga Pro Yakyuu '89",
+            "titles": [
+                {
+                    "searchTerm": "Kore ga Pro Yakyuu '89 (Japan) [T-En by AgentOrange & Jink640 & MrRichard999 v0.99]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Kore ga Pro Yakyuu '90",
+            "titles": [
+                {
+                    "searchTerm": "Kore ga Pro Yakyuu '90 (Japan) [T-En by AgentOrange & Jink640 & MrRichard999 v0.98]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Lode Runner - Lost Labyrinth",
+            "titles": [
+                {
+                    "searchTerm": "Lode Runner - Lost Labyrinth (Japan) [T-En by Dave Shadoff v0.99]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Maerchen Maze",
+            "titles": [
+                {
+                    "searchTerm": "Maerchen Maze (Japan) [T-En by MooZ & Shubibiman v1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Maison Ikkoku",
+            "titles": [
+                {
+                    "searchTerm": "Maison Ikkoku (Japan) [T-En by Dave Shadoff & Filler v1.01]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Makai Hakkenden Shada",
+            "titles": [
+                {
+                    "searchTerm": "Makai Hakkenden Shada (Japan) [T-En by Cabbage & Shubibiman v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mashin Hero Wataru",
+            "titles": [
+                {
+                    "searchTerm": "Mashin Hero Wataru (Japan) [T-En by Stardust Crusaders v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Naxat Stadium",
+            "titles": [
+                {
+                    "searchTerm": "Naxat Stadium (Japan) [T-En by Jink640 & MrRichard999 v0.98]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Obo Chama-kun - Little Princeling",
+            "titles": [
+                {
+                    "searchTerm": "Obo Chama-kun - Little Princeling (Japan) [T-En by Dave Shadoff & Diogo Ribeiro & Filler & MooZ v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Out Live",
+            "titles": [
+                {
+                    "searchTerm": "Out Live (Japan) [T-En by Nebulous Translations v1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Puzzle Boy",
+            "titles": [
+                {
+                    "searchTerm": "Puzzle Boy (Japan) [T-En by KingMike's Translations v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Rabbit Punch Special",
+            "titles": [
+                {
+                    "searchTerm": "Rabbit Punch Special (Japan) [T-En by Diogo Ribeiro v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Shanghai",
+            "titles": [
+                {
+                    "searchTerm": "Shanghai (Japan) [T-En by Dave Shadoff v0.99]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Shiryou Sensen - War of the Dead [T-En Nebulous Translations v1.0]",
+            "titles": [
+                {
+                    "searchTerm": "Shiryou Sensen - War of the Dead [T-En Nebulous Translations v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Son Son II",
+            "titles": [
+                {
+                    "searchTerm": "Son Son II (Japan) [T-En by Sgt. Bow Hack v1.0b] [Add by Someitalian123 v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Street Fighter II' - Champion Edition",
+            "titles": [
+                {
+                    "searchTerm": "Street Fighter II' - Champion Edition (Japan) [T-En by Cabbage v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Tower of Druaga, The",
+            "titles": [
+                {
+                    "searchTerm": "Tower of Druaga, The (Japan) [T-En by Procyon Lotor v1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Valkyrie no Densetsu",
+            "titles": [
+                {
+                    "searchTerm": "Valkyrie no Densetsu (Japan) [T-En by Cabbage & Shawn Cox v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Wonder Momo",
+            "titles": [
+                {
+                    "searchTerm": "Wonder Momo (Japan) [T-En by Filler & Dave Shadoff & Diogo Ribeiro v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "World Circuit",
+            "titles": [
+                {
+                    "searchTerm": "World Circuit (Japan) [T-En by FlashPV & Jink640 & MrRichard999 v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Youkai Douchuuki",
+            "titles": [
+                {
+                    "searchTerm": "Youkai Douchuuki (Japan) [T-En by Cabbage v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        }
+    ]
+}

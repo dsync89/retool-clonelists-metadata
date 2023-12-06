@@ -1,0 +1,580 @@
+{
+    "description": {
+        "name": "Nintendo - DS (Translated En)",
+        "lastUpdated": "4 December 2023",
+        "minimumVersion": "2.00",
+        "romSourceName": "English Translation ROMs Collection (2023)",
+        "romSourceUrl": "https://archive.org/details/En-ROMs",
+        "author": "dsync89",
+        "authorEmail": "dsync89@yahoo.com"
+    },
+    "variants": [
+        {
+            "group": "7th Dragon",
+            "titles": [
+                {
+                    "searchTerm": "7th Dragon (Japan) [T-En by Geoff Embree v1.01]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ace Attorney Investigations - Miles Edgeworth - Prosecutor's Path",
+            "titles": [
+                {
+                    "searchTerm": "Ace Attorney Investigations - Miles Edgeworth - Prosecutor's Path (Japan) [T-En by Auryn v20022015] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "ASH - Archaic Sealed Heat",
+            "titles": [
+                {
+                    "searchTerm": "ASH - Archaic Sealed Heat (Japan) [T-En by Psycoblaster v1.0b]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Blood of Bahamut",
+            "titles": [
+                {
+                    "searchTerm": "Blood of Bahamut (Japan) [T-En by Aaron Tokunaga-Chmielowiec v1.07]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Chibi-Robo! - Clean Sweep!",
+            "titles": [
+                {
+                    "searchTerm": "Chibi-Robo! - Clean Sweep! (Japan) [T-En by Cjuub v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Culdcept DS",
+            "titles": [
+                {
+                    "searchTerm": "Culdcept DS (Japan) [T-En by Theli v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "D.Gray-Man - The Apostles of God",
+            "titles": [
+                {
+                    "searchTerm": "D.Gray-Man - The Apostles of God (Japan) [T-En by Phantom & Supper v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Death Note - Kira Game",
+            "titles": [
+                {
+                    "searchTerm": "Death Note - Kira Game (Japan) [T-En by Anime Game Translations Team v1.2]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Detective Conan & Kindaichi Case Files - Chance Encounter of 2 Great Detectives",
+            "titles": [
+                {
+                    "searchTerm": "Detective Conan & Kindaichi Case Files - Chance Encounter of 2 Great Detectives (Japan) [T-En by DCTP v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Digimon Story - Lost Evolution",
+            "titles": [
+                {
+                    "searchTerm": "Digimon Story - Lost Evolution (Japan) [T-En by Operation Decoded v1.1] [AP fix]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Quest IV - Michibikareshi Mono-tachi",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Quest IV - Michibikareshi Mono-tachi (Japan) [T-En by Concreted v20210703]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dungeon of Windaria",
+            "titles": [
+                {
+                    "searchTerm": "Dungeon of Windaria (Japan) [T-En by Rastsan v0.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "FabStyle",
+            "titles": [
+                {
+                    "searchTerm": "FabStyle (Japan) [T-En by Rocket Robz & Sidier v2.0] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fire Emblem - Heroes of Light and Shadow",
+            "titles": [
+                {
+                    "searchTerm": "Fire Emblem - Heroes of Light and Shadow (Japan) (Rev 1) (NDSi Enhanced) [T-En by The Heroes of Shadow v3.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Girlish Love Revolution - Love Revo DS",
+            "titles": [
+                {
+                    "searchTerm": "Girlish Love Revolution - Love Revo DS (Korea) [T-En by Jjjewel v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "I Will Protect You",
+            "titles": [
+                {
+                    "searchTerm": "I Will Protect You (Japan) [T-En by Illidan & Phantom v1.2] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Jump Ultimate Stars",
+            "titles": [
+                {
+                    "searchTerm": "Jump Ultimate Stars (Japan) [T-En by JUS Translation v030508]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ketsui Death Label - Kizuna Jigoku-tachi",
+            "titles": [
+                {
+                    "searchTerm": "Ketsui Death Label - Kizuna Jigoku-tachi (Japan) [T-En by Z3tzilla v0.2] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Kuroshitsuji - Phantom & Ghost",
+            "titles": [
+                {
+                    "searchTerm": "Kuroshitsuji - Phantom & Ghost (Japan) [T-En by Phantom & Ghost Team v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Kurutore eCDP",
+            "titles": [
+                {
+                    "searchTerm": "Kurutore eCDP (Japan) (Not for Resale) [T-En by KabanFriends v1.1.2] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "L - The Prologue to Death Note - Spiraling Trap",
+            "titles": [
+                {
+                    "searchTerm": "L - The Prologue to Death Note - Spiraling Trap (Japan) [T-En by Anime Game Translations Team v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Love Plus",
+            "titles": [
+                {
+                    "searchTerm": "Love Plus (Japan) [T-En by Jjjewel v1.0n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Luminous Arc 3 - Eyes",
+            "titles": [
+                {
+                    "searchTerm": "Luminous Arc 3 - Eyes (Japan) [T-En by Asakura & Buster Gundo & CheshireCat & Jaumander & Plasturion v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "MegaMan Battle Network - Operate Star Force",
+            "titles": [
+                {
+                    "searchTerm": "MegaMan Battle Network - Operate Star Force (Japan) [T-En by Greiga Master v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Metal Max 2 - Reloaded",
+            "titles": [
+                {
+                    "searchTerm": "Metal Max 2 - Reloaded (Japan) [T-En by Metal Dreamers v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Metal Max 3",
+            "titles": [
+                {
+                    "searchTerm": "Metal Max 3 (Japan) [T-En by Metal Dreamers v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mugen no Frontier Exceed - Super Robot Taisen OG Saga",
+            "titles": [
+                {
+                    "searchTerm": "Mugen no Frontier Exceed - Super Robot Taisen OG Saga (Japan) [T-En by Artema Translations v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Nameless Game, The",
+            "titles": [
+                {
+                    "searchTerm": "Nameless Game, The (Japan) [T-En by Nagato & Ryusui & Summvs v1.2] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Nameless Game, The - Eye",
+            "titles": [
+                {
+                    "searchTerm": "Nameless Game, The - Eye (Japan) [T-En by Nagato v1.13] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ni No Kuni - The Jet Black Mage",
+            "titles": [
+                {
+                    "searchTerm": "Ni No Kuni - The Jet Black Mage (Japan) [T-En by Anjiera v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Nora to Toki no Koubou - Kiri no Mori no Majo",
+            "titles": [
+                {
+                    "searchTerm": "Nora to Toki no Koubou - Kiri no Mori no Majo (Japan) [T-En by Nora Project v0.3d-1] [AP fix]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Petit Eva - Evangelion@Game",
+            "titles": [
+                {
+                    "searchTerm": "Petit Eva - Evangelion@Game (Japan) [T-En by ScenikEight v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Prince of Tennis, The - Princes of Doubles - Girls, Be Gracious!",
+            "titles": [
+                {
+                    "searchTerm": "Prince of Tennis, The - Princes of Doubles - Girls, Be Gracious! (Japan) [T-En by AmuletCross v3] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Puyo Puyo 7",
+            "titles": [
+                {
+                    "searchTerm": "Puyo Puyo 7 (Japan) [T-En by Puyo Nexus v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Puyo Puyo! - 15th Anniversary",
+            "titles": [
+                {
+                    "searchTerm": "Puyo Puyo! - 15th Anniversary (Japan) (Rev 1) [T-En by Puyo Nexus v1.2] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Puyo Puyo!! - 20th Anniversary",
+            "titles": [
+                {
+                    "searchTerm": "Puyo Puyo!! - 20th Anniversary (Japan) [T-En by Precise Museum v1.2] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Puzzle Series Vol. 12 - Akari",
+            "titles": [
+                {
+                    "searchTerm": "Puzzle Series Vol. 12 - Akari (Japan) [T-En T-Tudor v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Puzzle Series Vol. 5 - Slither Link",
+            "titles": [
+                {
+                    "searchTerm": "Puzzle Series Vol. 5 - Slither Link (Japan) [T-En by T-Tudor v0.7]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Retro Game Challenge 2",
+            "titles": [
+                {
+                    "searchTerm": "Retro Game Challenge 2 (Japan) [T-En by Aaron Tokunaga-Chmielowiec v1.51] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ripened Tingle's Balloon Trip of Love",
+            "titles": [
+                {
+                    "searchTerm": "Ripened Tingle's Balloon Trip of Love (Japan) [T-En by Team Tingle v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Rosario + Vampire - Tanabata's Miss Yokai Academy",
+            "titles": [
+                {
+                    "searchTerm": "Rosario + Vampire - Tanabata's Miss Yokai Academy (Japan) [T-En by Jjewel v20150515] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "SaGa 2 - Legend of the Relics - Goddess of Destiny",
+            "titles": [
+                {
+                    "searchTerm": "SaGa 2 - Legend of the Relics - Goddess of Destiny (Japan) [T-En by Crimson Nocturnal v2.12] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "SaGa 3 - Champions of Time and Space - Shadow or Light",
+            "titles": [
+                {
+                    "searchTerm": "SaGa 3 - Champions of Time and Space - Shadow or Light (Japan) [T-En by Cain & Easton West v2.0.830 Beta] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sailor Moon - The Shining Moon",
+            "titles": [
+                {
+                    "searchTerm": "Sailor Moon - The Shining Moon (Italy) [T-En by Jonko & Tokko Tomcat & Lizmelo & Sailor Moon Italy v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Series of Haruhi Suzumiya, The",
+            "titles": [
+                {
+                    "searchTerm": "Series of Haruhi Suzumiya, The (Japan) [T-En by Haroohie Translation Club v0.6] [voice subs] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Shinseiki Evangelion - Ayanami Ikusei Keikaku DS with Asuka Hokan Keikaku",
+            "titles": [
+                {
+                    "searchTerm": "Shinseiki Evangelion - Ayanami Ikusei Keikaku DS with Asuka Hokan Keikaku (Japan) [T-En by Pearse Hillock v0.90] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Soma Bringer",
+            "titles": [
+                {
+                    "searchTerm": "Soma Bringer (Japan) [T-En by DarthNemesis v2009.02.02]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Soul Eater - Medusa's Plot",
+            "titles": [
+                {
+                    "searchTerm": "Soul Eater - Medusa's Plot (Japan) [T-En by Anime Game Translations Team v1.2] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Spice & Wolf - My Year with Holo",
+            "titles": [
+                {
+                    "searchTerm": "Spice & Wolf - My Year with Holo (Japan) [T-En by Anime Game Translations Team v1.3] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Spice & Wolf - The Wind that spans the Sea",
+            "titles": [
+                {
+                    "searchTerm": "Spice & Wolf - The Wind that spans the Sea (Japan) [T-En by Anime Game Translations Team v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Summon Night X - Tears Crown",
+            "titles": [
+                {
+                    "searchTerm": "Summon Night X - Tears Crown (Japan) [T-En by Englishsubs4all v0.951] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Super Control Mecha MG",
+            "titles": [
+                {
+                    "searchTerm": "Super Control Mecha MG (Japan) [T-En by Supper v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Super Robot Wars W",
+            "titles": [
+                {
+                    "searchTerm": "Super Robot Wars W (Japan) [T-En by Brunom1 & Fei & Kingcom v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Tales of Innocence",
+            "titles": [
+                {
+                    "searchTerm": "Tales of Innocence (Japan) [T-En by Absolute Zero v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Tales of the Tempest",
+            "titles": [
+                {
+                    "searchTerm": "Tales of the Tempest (Japan) [T-En by Absolute Zero v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Tengen Toppa Gurren Lagann",
+            "titles": [
+                {
+                    "searchTerm": "Tengen Toppa Gurren Lagann (Japan) [T-En by Anime Game Translations Team v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Tokimeki Memorial Girl's Side - 1st Love Plus",
+            "titles": [
+                {
+                    "searchTerm": "Tokimeki Memorial Girl's Side - 1st Love Plus (Japan) [T-En by TMGS1 Translation Team v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Tokimeki Memorial Girl's Side - 2nd Season",
+            "titles": [
+                {
+                    "searchTerm": "Tokimeki Memorial Girl's Side - 2nd Season (Japan) [T-En by Gokusaishiki v6]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Tokimeki Memorial Girl's Side - 3rd Story",
+            "titles": [
+                {
+                    "searchTerm": "Tokimeki Memorial Girl's Side - 3rd Story (Japan) [T-En by Jjjewel v2.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Tomodachi Collection",
+            "titles": [
+                {
+                    "searchTerm": "Tomodachi Collection (Japan) (Rev 1) [T-En by Jjjewel v0.80] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Vampire Knight DS",
+            "titles": [
+                {
+                    "searchTerm": "Vampire Knight DS (Japan) [T-En by Anime Game Translations Team v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Wizardry - Inochi no Kusabi",
+            "titles": [
+                {
+                    "searchTerm": "Wizardry - Inochi no Kusabi (Japan) [T-En by Faramir v30102015] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Zoids Saga DS - Legend of Arcadia",
+            "titles": [
+                {
+                    "searchTerm": "Zoids Saga DS - Legend of Arcadia (Japan) [T-En by Snowboundmage v1.3] [i]",
+                    "nameType": "full"
+                }
+            ]
+        }
+    ]
+}

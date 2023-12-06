@@ -1,0 +1,157 @@
+{
+    "description": {
+        "name": "Nintendo - 3DS (Translated En)",
+        "lastUpdated": "5 December 2023",
+        "minimumVersion": "2.00",
+        "romSourceName": "English Translation ROMs Collection (2023)",
+        "romSourceUrl": "https://archive.org/details/En-ROMs",
+        "author": "dsync89",
+        "authorEmail": "dsync89@yahoo.com"
+    },
+    "variants": [
+        {
+            "group": "Beyond the Labyrinth",
+            "titles": [
+                {
+                    "searchTerm": "Beyond the Labyrinth (Japan) [T-En by Angular & Nagato & Vodka v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Cave Story 3D",
+            "titles": [
+                {
+                    "searchTerm": "Cave Story 3D (USA) [T-En by Aeon Genesis v0.96 RC2] [Relocalized]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Quest Heroes - Rocket Slime 3",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Quest Heroes - Rocket Slime 3 (Japan) [T-En by Fan Translators International v1.0 RC1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Quest Monsters - Terry's Wonderland 3D",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Quest Monsters - Terry's Wonderland 3D (Japan) [T-En by Team TW3D v1.2] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Quest Monsters 2 - Cobi and Tara's Marvelous Mysterious Key",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Quest Monsters 2 - Cobi and Tara's Marvelous Mysterious Key (Japan) [T-En by Dackst & Ich73 v1.2] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "E.X. Troopers",
+            "titles": [
+                {
+                    "searchTerm": "E.X. Troopers (Japan) [T-En by Fan Translators International v1.0.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "FabStyle",
+            "titles": [
+                {
+                    "searchTerm": "FabStyle (Japan) [T-En by Rocket Robz & Sidier v2.0] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fire Emblem If - Anya Oukoku",
+            "titles": [
+                {
+                    "searchTerm": "Fire Emblem If - Anya Oukoku (Japan) [T-En by Team If v4.2]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fire Emblem If - Byakuya Oukoku",
+            "titles": [
+                {
+                    "searchTerm": "Fire Emblem If - Byakuya Oukoku (Japan) [T-En by Team If v4.2]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fire Emblem If - Special Edition",
+            "titles": [
+                {
+                    "searchTerm": "Fire Emblem If - Special Edition (Japan) [T-En by Team If v4.2]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "MapleStory - The Girl of Destiny",
+            "titles": [
+                {
+                    "searchTerm": "MapleStory - The Girl of Destiny (Japan) [T-En by Team Maple v1.03] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Monster Hunter Stories",
+            "titles": [
+                {
+                    "searchTerm": "Monster Hunter Stories (Japan) [T-En by Dasding v1.3] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Monster Hunter XX - Double Cross",
+            "titles": [
+                {
+                    "searchTerm": "Monster Hunter XX - Double Cross (Japan) [T-En by Dasding v5] [Add by Crosshex v2] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Neko Atsume - Kitty Collector",
+            "titles": [
+                {
+                    "searchTerm": "Neko Atsume - Kitty Collector (Japan) [T-En by Nagato & Seikiku & Lycanroc & DarkSynopsis v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Taiko Drum Master - Adventures through Time and Space",
+            "titles": [
+                {
+                    "searchTerm": "Taiko Drum Master - Adventures through Time and Space (Japan) [T-En by Team Full Combo! v1.1] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Touch Detective Rising 3 - Does Fungi Dream of Bananas",
+            "titles": [
+                {
+                    "searchTerm": "Touch Detective Rising 3 - Does Fungi Dream of Bananas (Japan) [T-En by Kekkyoku] [n]",
+                    "nameType": "full"
+                }
+            ]
+        }
+    ]
+}

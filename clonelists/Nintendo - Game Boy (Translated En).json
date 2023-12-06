@@ -1,0 +1,643 @@
+{
+    "description": {
+        "name": "Nintendo - Game Boy (Translated En)",
+        "lastUpdated": "3 December 2023",
+        "minimumVersion": "2.00",
+        "romSourceName": "English Translation ROMs Collection (2023)",
+        "romSourceUrl": "https://archive.org/details/En-ROMs",
+        "author": "dsync89",
+        "authorEmail": "dsync89@yahoo.com"
+    },
+    "variants": [
+        {
+            "group": "Absolute Invincible Raijin-Oh",
+            "titles": [
+                {
+                    "searchTerm": "Absolute Invincible Raijin-Oh (Japan) [T-En by PentarouZero v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Another Bible",
+            "titles": [
+                {
+                    "searchTerm": "Another Bible (Japan) (SGB Enhanced) [T-En by Aeon Genesis v1.01]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Banishing Racer",
+            "titles": [
+                {
+                    "searchTerm": "Banishing Racer (Japan) [T-En by Stardust Crusaders v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Battle of Kingdom",
+            "titles": [
+                {
+                    "searchTerm": "Battle of Kingdom (Japan) [T-En by Stardust Crusaders v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Bishoujo Senshi Sailor Moon",
+            "titles": [
+                {
+                    "searchTerm": "Bishoujo Senshi Sailor Moon (Japan) [T-En by EsperKnight & Some Good Shit Translations v0.95] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Block Kuzushi GB",
+            "titles": [
+                {
+                    "searchTerm": "Block Kuzushi GB (Japan) (SGB Enhanced) [T-En by PentarouZero v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Bomber Man GB 3",
+            "titles": [
+                {
+                    "searchTerm": "Bomber Man GB 3 (Japan) (SGB Enhanced) [T-En by David Mullen & Duke Serkol v1.0] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Booby Boys",
+            "titles": [
+                {
+                    "searchTerm": "Booby Boys (Japan) [T-En by HTI v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Brave Fighter of the Sun - Fighbird GB",
+            "titles": [
+                {
+                    "searchTerm": "Brave Fighter of the Sun - Fighbird GB (Japan) [T-En by Zynk Oxhyde v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Castle of Ayakashi",
+            "titles": [
+                {
+                    "searchTerm": "Castle of Ayakashi (Japan) [T-En by KingMike's Translations v1.1 Beta] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Cave Noire",
+            "titles": [
+                {
+                    "searchTerm": "Cave Noire (Japan) [T-En by Aeon Genesis v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Chalvo 55 - Super Puzzle Action",
+            "titles": [
+                {
+                    "searchTerm": "Chalvo 55 - Super Puzzle Action (Japan) [T-En by Lame Boy v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Daisenryaku",
+            "titles": [
+                {
+                    "searchTerm": "Daisenryaku (Japan) [T-En by Gaijin Productions v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Doraemon Kart",
+            "titles": [
+                {
+                    "searchTerm": "Doraemon Kart (Japan) (SGB Enhanced) [T-En by Magecraft Translations v1.01] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou!",
+            "titles": [
+                {
+                    "searchTerm": "Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan) [T-En by Lando v1.0] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Ball Z - Gokuu Gekitouden",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Ball Z - Gokuu Gekitouden (Japan) (SGB Enhanced) [T-En by WyndCrosser v0.05] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Firebrand - A Ghosts 'n Goblins Tale",
+            "titles": [
+                {
+                    "searchTerm": "Firebrand - A Ghosts 'n Goblins Tale (Japan) [T-En by Stardust Crusaders v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "For the Frog the Bell Tolls",
+            "titles": [
+                {
+                    "searchTerm": "For the Frog the Bell Tolls (Japan) [T-En by Ryanbgstl v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fortress of Fury",
+            "titles": [
+                {
+                    "searchTerm": "Fortress of Fury (Japan) [T-En by Stardust Crusaders v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fortress of Fury 2",
+            "titles": [
+                {
+                    "searchTerm": "Fortress of Fury 2 (Japan) [T-En by Stardust Crusaders v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Frog for Whom the Bell Tolls, The",
+            "titles": [
+                {
+                    "searchTerm": "Frog for Whom the Bell Tolls, The (Japan) [T-En by Ryanbgstl v1.0] [Add by Hamikon v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Game Boy Wars Turbo",
+            "titles": [
+                {
+                    "searchTerm": "Game Boy Wars Turbo (Japan) (SGB Enhanced) [T-En by TransBRC v0.91] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Gamera - The Guardian of the Universe",
+            "titles": [
+                {
+                    "searchTerm": "Gamera - The Guardian of the Universe (Japan) (SGB Enhanced) [T-En by Stardust Crusaders v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Gargoyle's Quest II - The Demon Darkness",
+            "titles": [
+                {
+                    "searchTerm": "Gargoyle's Quest II - The Demon Darkness (Japan) [T-En by Bailli v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Glory of Heracles, The - Snap Story",
+            "titles": [
+                {
+                    "searchTerm": "Glory of Heracles, The - Snap Story (Japan) [T-En by HTI v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Glory of Heracles, The - The Olympus Offensive - The Snap-Story",
+            "titles": [
+                {
+                    "searchTerm": "Glory of Heracles, The - The Olympus Offensive - The Snap-Story (Japan) [T-En by Aishsha & Stardust Crusaders v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "God Medicine - Fukkokuban",
+            "titles": [
+                {
+                    "searchTerm": "God Medicine - Fukkokuban (Japan) (SGB Enhanced) [T-En by Aeon Genesis v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Hugo 2",
+            "titles": [
+                {
+                    "searchTerm": "Hugo 2 (Germany) [T-En by NikcDC v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "I'm Jajamaru! The Great World Adventure",
+            "titles": [
+                {
+                    "searchTerm": "I'm Jajamaru! The Great World Adventure (Japan) [T-En by Stardust Crusaders v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Legend of the Axe - Kintaro Action Edition",
+            "titles": [
+                {
+                    "searchTerm": "Legend of the Axe - Kintaro Action Edition (Japan) [T-En by FlyingClimber v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Little Master - Legend of Richban",
+            "titles": [
+                {
+                    "searchTerm": "Little Master - Legend of Richban (Japan) [T-En by Zatos Hacks v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Magic Knight Rayearth",
+            "titles": [
+                {
+                    "searchTerm": "Magic Knight Rayearth (Japan) (SGB Enhanced) [T-En by LIPEMCO! Translations v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Magic Knight Rayearth 2nd. - The Missing Colors",
+            "titles": [
+                {
+                    "searchTerm": "Magic Knight Rayearth 2nd. - The Missing Colors (Japan) (SGB Enhanced) [T-En by Pearse Hillock v0.99] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Magical Painter",
+            "titles": [
+                {
+                    "searchTerm": "Magical Painter (Japan) [T-En by Stardust Crusaders v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Medarot - Kabuto Version",
+            "titles": [
+                {
+                    "searchTerm": "Medarot - Kabuto Version (Japan) (Rev 1) (SGB Enhanced) [T-En by Cash Medal Chameleon v0.6.7+txt.20] [Portraits]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Medarot - Kuwagata Version",
+            "titles": [
+                {
+                    "searchTerm": "Medarot - Kuwagata Version (Japan) (Rev 1) (SGB Enhanced) [T-En by Cash Medal Chameleon v0.6.7+txt.20] [Portraits]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Momotaro Thunderbolt",
+            "titles": [
+                {
+                    "searchTerm": "Momotaro Thunderbolt (Japan) [T-En by The Spoony Bard v0.91] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Nectaris GB",
+            "titles": [
+                {
+                    "searchTerm": "Nectaris GB (Japan) (SGB Enhanced) [T-En by TransBRC v1.11]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Nekketsu High - Hot Blooded! Kunio Kun's Final Battle",
+            "titles": [
+                {
+                    "searchTerm": "Nekketsu High - Hot Blooded! Kunio Kun's Final Battle (Japan) [T-En by Ice Translations v0.99] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Nettou The King of Fighters '96",
+            "titles": [
+                {
+                    "searchTerm": "Nettou The King of Fighters '96 (Japan) (SGB Enhanced) [T-En by Vice Translations v0.30] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Noobow",
+            "titles": [
+                {
+                    "searchTerm": "Noobow (Japan) [T-En by Stardust Crusaders v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Oni Chronicles - Genesis",
+            "titles": [
+                {
+                    "searchTerm": "Oni Chronicles - Genesis (Japan) [T-En by Aishsha & Stardust Crusaders v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Oni IV - Kijin no Ketsuzoku",
+            "titles": [
+                {
+                    "searchTerm": "Oni IV - Kijin no Ketsuzoku (Japan) [T-En by Akujin v0.30] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Painter Momopie",
+            "titles": [
+                {
+                    "searchTerm": "Painter Momopie (Japan) [T-En by Stardust Crusaders v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Panel Ninja - Kesamaru",
+            "titles": [
+                {
+                    "searchTerm": "Panel Ninja - Kesamaru (Japan) [T-En by Zynk Oxhyde v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Peke & Poko's Daruman Busters",
+            "titles": [
+                {
+                    "searchTerm": "Peke & Poko's Daruman Busters (Japan) [T-En by Aishsha & Stardust Crusaders v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Penta Dragon",
+            "titles": [
+                {
+                    "searchTerm": "Penta Dragon (Japan) [T-En by HTI v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Picross 2",
+            "titles": [
+                {
+                    "searchTerm": "Picross 2 (Japan) (SGB Enhanced) [T-En by Zed v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Pokemon - Green Version",
+            "titles": [
+                {
+                    "searchTerm": "Pokemon - Green Version (USA, Europe) (SGB Enhanced) [T-En by Skeetendo Inc. v3.0] [PokeMartSigns] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sa-Ga 3 - Champions of Time and Space",
+            "titles": [
+                {
+                    "searchTerm": "Sa-Ga 3 - Champions of Time and Space (Japan) [T-En by Granz v0.5] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Samurai Lord Musashi, The",
+            "titles": [
+                {
+                    "searchTerm": "Samurai Lord Musashi, The (Japan) [T-En by Aishsha & Stardust Crusaders v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sanrio Carnival",
+            "titles": [
+                {
+                    "searchTerm": "Sanrio Carnival (Japan) [T-En by Six Feet Under v1.2]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Snoopy's Errand Adventures",
+            "titles": [
+                {
+                    "searchTerm": "Snoopy's Errand Adventures (Japan) (SGB Enhanced) [T-En by Zynk Oxhyde v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Southern Boy Papuwa - Ambition of Ganma",
+            "titles": [
+                {
+                    "searchTerm": "Southern Boy Papuwa - Ambition of Ganma (Japan) [T-En by Adventurous Translations v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sunshine Angel Marlowe - Panic in Bloomland!",
+            "titles": [
+                {
+                    "searchTerm": "Sunshine Angel Marlowe - Panic in Bloomland! (Japan) [T-En by Stardust Crusaders v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Super Bikkuriman - The Legendary Tablet",
+            "titles": [
+                {
+                    "searchTerm": "Super Bikkuriman - The Legendary Tablet (Japan) [T-En by Eien Ni Hen & PentarouZero v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Super Robot Wars",
+            "titles": [
+                {
+                    "searchTerm": "Super Robot Wars (Japan) [T-En by Aeon Genesis v1.00] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Taiyou no Tenshi Marlowe - Ohanabatake wa Dai-panic",
+            "titles": [
+                {
+                    "searchTerm": "Taiyou no Tenshi Marlowe - Ohanabatake wa Dai-panic (Japan) [T-En by Silenthal v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Tenjin Kaisen",
+            "titles": [
+                {
+                    "searchTerm": "Tenjin Kaisen (Japan) [T-En by Stardust Crusaders v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Uchuu no Kishi Tekkaman Blade",
+            "titles": [
+                {
+                    "searchTerm": "Uchuu no Kishi Tekkaman Blade (Japan) [T-En by Strag0 v0.99] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ultraman - Legend of the Super Warrior",
+            "titles": [
+                {
+                    "searchTerm": "Ultraman - Legend of the Super Warrior (Japan) (SGB Enhanced) [T-En by Gorgyrip v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ultraman Ball",
+            "titles": [
+                {
+                    "searchTerm": "Ultraman Ball (Japan) (SGB Enhanced) [T-En by Suicidal Translations v0.99] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Urusei Yatsura - Miss Tomobiki o Sagase!",
+            "titles": [
+                {
+                    "searchTerm": "Urusei Yatsura - Miss Tomobiki o Sagase! (Japan) [T-En by Razor-X Translations v0.05] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Wizardry Gaiden - Suffering of the Queen",
+            "titles": [
+                {
+                    "searchTerm": "Wizardry Gaiden - Suffering of the Queen (Japan) [T-En by Tangyi_Chang v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Wizardry Gaiden II - Curse of the Ancient Emperor",
+            "titles": [
+                {
+                    "searchTerm": "Wizardry Gaiden II - Curse of the Ancient Emperor (Japan) [T-En by MrRichard999 & Tangyi_Chang v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Wizardry Gaiden III - Scripture of the Dark",
+            "titles": [
+                {
+                    "searchTerm": "Wizardry Gaiden III - Scripture of the Dark (Japan) [T-En by Tangyi_Chang v1.03] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "X",
+            "titles": [
+                {
+                    "searchTerm": "X (Japan) [T-En by Anthropogon v0.9]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Yakuman",
+            "titles": [
+                {
+                    "searchTerm": "Yakuman (Japan) [T-En by Marvo v1.2]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Yu-Gi-Oh! Duel Monsters",
+            "titles": [
+                {
+                    "searchTerm": "Yu-Gi-Oh! Duel Monsters (Japan) (SGB Enhanced) [T-En by Darrman v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Zoids Legends",
+            "titles": [
+                {
+                    "searchTerm": "Zoids Legends (Japan) [T-En by MrRichard999 v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        }
+    ]
+}

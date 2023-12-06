@@ -1,0 +1,400 @@
+{
+    "description": {
+        "name": "Sega - Saturn (Translated En)",
+        "lastUpdated": "5 December 2023",
+        "minimumVersion": "2.00",
+        "romSourceName": "English Translation ROMs Collection (2023)",
+        "romSourceUrl": "https://archive.org/details/En-ROMs",
+        "author": "dsync89",
+        "authorEmail": "dsync89@yahoo.com"
+    },
+    "variants": [
+        {
+            "group": "Baroque",
+            "titles": [
+                {
+                    "searchTerm": "Baroque (Japan) [T-En by Plissken v1.0.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Bulk Slash",
+            "titles": [
+                {
+                    "searchTerm": "Bulk Slash (Japan) [T-En by Bulk Slash English Localization Team v1.001] [Undub]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Castlevania - Symphony of the Night",
+            "titles": [
+                {
+                    "searchTerm": "Castlevania - Symphony of the Night (Japan) (2M) [T-En by Knight0fDragon v1.021+hotfix] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "DeathMask",
+            "titles": [
+                {
+                    "searchTerm": "DeathMask (Japan) [T-En by A Murder of Crows and ShadowMask v0.2j RC]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dracula X - Nocturne in the Moonlight",
+            "titles": [
+                {
+                    "searchTerm": "Dracula X - Nocturne in the Moonlight (Japan) [T-En by Paul_met v1.5] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Force II - The Godforsaken Land",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Force II - The Godforsaken Land (Japan) [T-En by Verve Fanworks v1.04] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dungeon Master Nexus",
+            "titles": [
+                {
+                    "searchTerm": "Dungeon Master Nexus (Japan) [T-En by ChristopheF v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "EGWord Ver 2.00",
+            "titles": [
+                {
+                    "searchTerm": "EGWord Ver 2.00 (Japan) [T-En by Retrodadandmodernlad v0.9]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Falcom Classics",
+            "titles": [
+                {
+                    "searchTerm": "Falcom Classics (Japan) [T-En by Murzik & CrawdKenny v0.763] [Ancient Ys Vanished Omen] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fire Pro Gaiden Blazing Tornado",
+            "titles": [
+                {
+                    "searchTerm": "Fire Pro Gaiden Blazing Tornado (Japan) [T-En by Malenko v0.91] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fire Prowrestling S - 6Men Scramble",
+            "titles": [
+                {
+                    "searchTerm": "Fire Prowrestling S - 6Men Scramble (Japan) [T-En by Malenko v0.91] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Grandia",
+            "titles": [
+                {
+                    "searchTerm": "Grandia (Japan) [T-En by TrekkiesUnite118 v1.1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Gungriffon II",
+            "titles": [
+                {
+                    "searchTerm": "Gungriffon II (Japan) [T-En by Gungriffon II Localization Team v0.97.5] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "J. B. Harold - Blue Chicago Blues",
+            "titles": [
+                {
+                    "searchTerm": "J. B. Harold - Blue Chicago Blues (Japan) [T-En by Collin ''Arjak'' Pierce & Kate ''MossstarMoon'' Pierce v1.00]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Langrisser III",
+            "titles": [
+                {
+                    "searchTerm": "Langrisser III (Japan) [T-En by Cyber Warrior X v0.2] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Linkle Liver Story",
+            "titles": [
+                {
+                    "searchTerm": "Linkle Liver Story (Japan) [T-En by Aishsha v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Lunar - Silver Star Story",
+            "titles": [
+                {
+                    "searchTerm": "Lunar - Silver Star Story (Japan) [T-En by TrekkiesUnite118 v1.5.1] [Sub Edition]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Lunar - Silver Star Story Complete",
+            "titles": [
+                {
+                    "searchTerm": "Lunar - Silver Star Story Complete (Japan) [T-En by Mr Conan v0.75] [req Video CD Card]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Lunar 2 - Eternal Blue",
+            "titles": [
+                {
+                    "searchTerm": "Lunar 2 - Eternal Blue (Japan) [T-En by Mr Conan v0.19b] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Magic Knight Rayearth",
+            "titles": [
+                {
+                    "searchTerm": "Magic Knight Rayearth (USA) [Un-Worked Design by Supper v0 (15-03-2017)]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Magical Night Dreams - Cotton 2",
+            "titles": [
+                {
+                    "searchTerm": "Magical Night Dreams - Cotton 2 (Japan) [T-En by Nanashi v0.9]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mobile Suit Gundam",
+            "titles": [
+                {
+                    "searchTerm": "Mobile Suit Gundam (Japan) [T-En by ShadowMask v0.2] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ninja Penguin Manmaru",
+            "titles": [
+                {
+                    "searchTerm": "Ninja Penguin Manmaru (Japan) [T-En by Alex Kid and Darkfalzx and Simon Fang v2022-01-20b] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ogre Battle - The March of the Black Queen",
+            "titles": [
+                {
+                    "searchTerm": "Ogre Battle - The March of the Black Queen (Japan) [T-En by Aishsha & Paul_met & Stardust Crusaders v1.3.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Phantasmagoria",
+            "titles": [
+                {
+                    "searchTerm": "Phantasmagoria (Japan) [T-En by Delta-Islands Team v1.50 final revu] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Policenauts",
+            "titles": [
+                {
+                    "searchTerm": "Policenauts (Japan) [T-En by JunkerHQ v1.0.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Prisoner of Ice - Jashin Kourin",
+            "titles": [
+                {
+                    "searchTerm": "Prisoner of Ice - Jashin Kourin (Japan) [T-En by Plissken v1.0.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "RMJ - The Mystery Hospital",
+            "titles": [
+                {
+                    "searchTerm": "RMJ - The Mystery Hospital (Japan) [T-En by Kitchen34 v1.10] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sakura Wars",
+            "titles": [
+                {
+                    "searchTerm": "Sakura Wars (Japan) [T-En by Sakura Wars Translation Project v2.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sega Ages - Castle of Illusion Starring Mickey Mouse & QuackShot Starring Donald Duck",
+            "titles": [
+                {
+                    "searchTerm": "Sega Ages - Castle of Illusion Starring Mickey Mouse & QuackShot Starring Donald Duck (Japan) [T-En by TrekkiesUnite118 v0.9.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sega Ages - Castle of Illusion Starring Mickey Mouse and QuackShot Starring Donald Duck",
+            "titles": [
+                {
+                    "searchTerm": "Sega Ages - Castle of Illusion Starring Mickey Mouse and QuackShot Starring Donald Duck (Japan) [T-En by TrekkiesUnite118 v0.9.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "SegaSaturn FDD Operator",
+            "titles": [
+                {
+                    "searchTerm": "SegaSaturn FDD Operator (Japan) [T-En by TrekkiesUnite118 v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Shining Force III",
+            "titles": [
+                {
+                    "searchTerm": "Shining Force III (Japan) [T-En by Shining Force III Translation Project v24]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari",
+            "titles": [
+                {
+                    "searchTerm": "Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) [T-En by In the Rose Garden v1.04]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Silhouette Mirage",
+            "titles": [
+                {
+                    "searchTerm": "Silhouette Mirage (Japan) [T-En by Rasputin3000 v0.99b]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Stellar Assault SS",
+            "titles": [
+                {
+                    "searchTerm": "Stellar Assault SS (Japan) [T-En by Stellar Assault SS Localization Team v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Tactics Ogre - Let Us Cling Together",
+            "titles": [
+                {
+                    "searchTerm": "Tactics Ogre - Let Us Cling Together (Japan) [T-En by Aishsha & Paul_met & Pennywise v1.0.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Tokyo Highway Battle '97",
+            "titles": [
+                {
+                    "searchTerm": "Tokyo Highway Battle '97 (Japan) [T-En by Malenko v1.02] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Valhollian",
+            "titles": [
+                {
+                    "searchTerm": "Valhollian (Japan) [T-En by Paul_Met and Aishsha and Pennywise v1.3] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Vampire Savior",
+            "titles": [
+                {
+                    "searchTerm": "Vampire Savior (Japan) [T-En by Paul_met v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Vandal Hearts - The Lost Civilization",
+            "titles": [
+                {
+                    "searchTerm": "Vandal Hearts - The Lost Civilization (Japan) [T-En by Paul_met and Stardust Crusaders v1.5] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Wachenroeder",
+            "titles": [
+                {
+                    "searchTerm": "Wachenroeder (Japan) [T-En by Knight0fDragon v0.49] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Yumimi Mix Remix",
+            "titles": [
+                {
+                    "searchTerm": "Yumimi Mix Remix (Japan) [T-En by Supper v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "description": {
+        "name": "Bandai - Wonderswan Color (Translated En)",
+        "lastUpdated": "4 December 2023",
+        "minimumVersion": "2.00",
+        "romSourceName": "English Translation ROMs Collection (2023)",
+        "romSourceUrl": "https://archive.org/details/En-ROMs",
+        "author": "dsync89",
+        "authorEmail": "dsync89@yahoo.com"
+    },
+    "variants": [
+        {
+            "group": "Dicing Knight",
+            "titles": [
+                {
+                    "searchTerm": "Dicing Knight",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Digimon 02 - D1 Tamers",
+            "titles": [
+                {
+                    "searchTerm": "Digimon 02 - D1 Tamers",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Digimon Adventure 02 - D1 Tamers",
+            "titles": [
+                {
+                    "searchTerm": "Digimon Adventure 02 - D1 Tamers",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Digimon Tamers - Battle Spirit Ver. 1",
+            "titles": [
+                {
+                    "searchTerm": "Digimon Tamers - Battle Spirit Ver. 1",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Digital Monster Card Game - Ver",
+            "titles": [
+                {
+                    "searchTerm": "Digital Monster Card Game - Ver",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Final Fantasy II",
+            "titles": [
+                {
+                    "searchTerm": "Final Fantasy II",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Final Fantasy IV",
+            "titles": [
+                {
+                    "searchTerm": "Final Fantasy IV",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Final Fantasy",
+            "titles": [
+                {
+                    "searchTerm": "Final Fantasy",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mega Man Battle Network WS",
+            "titles": [
+                {
+                    "searchTerm": "Mega Man Battle Network WS",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mr. Driller",
+            "titles": [
+                {
+                    "searchTerm": "Mr. Driller",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Spirit World Tower Warrior Sa-Ga",
+            "titles": [
+                {
+                    "searchTerm": "Spirit World Tower Warrior Sa-Ga",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Wizardry Scenario 1 - Proving Grounds of the Mad Overlord",
+            "titles": [
+                {
+                    "searchTerm": "Wizardry Scenario 1 - Proving Grounds of the Mad Overlord",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Working Chocobo",
+            "titles": [
+                {
+                    "searchTerm": "Working Chocobo",
+                    "nameType": "full"
+                }
+            ]
+        }
+    ]
+}

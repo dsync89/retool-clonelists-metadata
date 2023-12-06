@@ -1,0 +1,85 @@
+{
+    "description": {
+        "name": "SNK - NeoGeo Pocket Color (Translated En)",
+        "lastUpdated": "4 December 2023",
+        "minimumVersion": "2.00",
+        "romSourceName": "English Translation ROMs Collection (2023)",
+        "romSourceUrl": "https://archive.org/details/En-ROMs",
+        "author": "dsync89",
+        "authorEmail": "dsync89@yahoo.com"
+    },
+    "variants": [
+        {
+            "group": "Cool Cool Jam",
+            "titles": [
+                {
+                    "searchTerm": "Cool Cool Jam (Japan) [T-En by WyndCrosser v0.01] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori.",
+            "titles": [
+                {
+                    "searchTerm": "Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan) [T-En by WyndCrosser v0.38] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mizuki Shigeru no Youkai Shashinkan",
+            "titles": [
+                {
+                    "searchTerm": "Mizuki Shigeru no Youkai Shashinkan (Japan) [T-En by WyndCrosser v0.01] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Nige-ron-pa",
+            "titles": [
+                {
+                    "searchTerm": "Nige-ron-pa (Japan) [T-En by Lo\u00efc v0.9]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ogre Battle Gaiden - The Prince of Zenobia",
+            "titles": [
+                {
+                    "searchTerm": "Ogre Battle Gaiden - The Prince of Zenobia (Japan) [T-En by FFaddic v1.0] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Rockman - Battle & Fighters",
+            "titles": [
+                {
+                    "searchTerm": "Rockman - Battle & Fighters (Japan) [T-En by Marc_max v1.0] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "SNK vs. Capcom - Card Fighters 2 - Expand Edition",
+            "titles": [
+                {
+                    "searchTerm": "SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan) [T-En by CFC2 Translation Team v20170125]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "_SNK Neo Geo Pocket Color [T-En] Docs",
+            "titles": [
+                {
+                    "searchTerm": "_SNK Neo Geo Pocket Color [T-En] Docs",
+                    "nameType": "full"
+                }
+            ]
+        }
+    ]
+}

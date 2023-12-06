@@ -1,0 +1,454 @@
+{
+    "description": {
+        "name": "Sony - Playstation 2 (Translated En)",
+        "lastUpdated": "5 December 2023",
+        "minimumVersion": "2.00",
+        "romSourceName": "English Translation ROMs Collection (2023)",
+        "romSourceUrl": "https://archive.org/details/En-ROMs",
+        "author": "dsync89",
+        "authorEmail": "dsync89@yahoo.com"
+    },
+    "variants": [
+        {
+            "group": "Amagami",
+            "titles": [
+                {
+                    "searchTerm": "Amagami (Japan) (ebKore Plus) [T-En by Ni-shi-shi Translations v0.9.2] [Ai & Haruka]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ar tonelico II - Melody of Metafalica",
+            "titles": [
+                {
+                    "searchTerm": "Ar tonelico II - Melody of Metafalica (USA) [T-En by Project Metafalica v1.0] [Relocalized]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Atelier Marie+Elie - The Alchemists of Salburg - Episodes 1 & 2 [T-En by Atelier Traduction v1.01] [n]",
+            "titles": [
+                {
+                    "searchTerm": "Atelier Marie+Elie - The Alchemists of Salburg - Episodes 1 & 2 [T-En by Atelier Traduction v1.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Battle Stadium D.O.N",
+            "titles": [
+                {
+                    "searchTerm": "Battle Stadium D.O.N (Japan) [T-En by Lord Izen v20230906] [Japanese voices]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Berserk - Millennium Falcon Arc - Falcon of the Millenium Empire - Chapter of the Holy Demon War",
+            "titles": [
+                {
+                    "searchTerm": "Berserk - Millennium Falcon Arc - Falcon of the Millenium Empire - Chapter of the Holy Demon War (Japan) [T-En by Wesker90 v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Blood Will Tell - Tezuka Osamu's Dororo",
+            "titles": [
+                {
+                    "searchTerm": "Blood Will Tell - Tezuka Osamu's Dororo (USA) [Undub by Kristian Zdunek v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Boku no Natsuyasumi 2 - Adventure by the Sea",
+            "titles": [
+                {
+                    "searchTerm": "Boku no Natsuyasumi 2 - Adventure by the Sea (Japan) [T-En by Hilltop v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Bujingai - Swordmaster",
+            "titles": [
+                {
+                    "searchTerm": "Bujingai - Swordmaster (Europe) (En,Fr,De,Es,It) [Undub by Swosho v1.0] [NTSC 60Hz mode only]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dog of Bay",
+            "titles": [
+                {
+                    "searchTerm": "Dog of Bay (Japan) [T-En by Hilltop v1.0] (CD)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dot Hack Fraegment",
+            "titles": [
+                {
+                    "searchTerm": "Dot Hack Fraegment (Japan) [T-En by Dothackers v3.7] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Quest & Final Fantasy in Fortune Street Special",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Quest & Final Fantasy in Fortune Street Special (Japan) [T-En by Choppasmith v3.01] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dragon Quest V - Tenkuu no Hanayome",
+            "titles": [
+                {
+                    "searchTerm": "Dragon Quest V - Tenkuu no Hanayome (Japan) [T-En by DQ Translations v1.2] [Dragon Quest VIII Style Names]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Echo Night - Beyond",
+            "titles": [
+                {
+                    "searchTerm": "Echo Night - Beyond (USA) [English fixes by IlDucci v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Final Fantasy X-2 International + Last Mission",
+            "titles": [
+                {
+                    "searchTerm": "Final Fantasy X-2 International + Last Mission (Japan) [T-En by Pbirdman v1.5] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Final Fantasy XII International - Zodiac Job System",
+            "titles": [
+                {
+                    "searchTerm": "Final Fantasy XII International - Zodiac Job System (Japan) [T-En by ffgriever v0.23]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fire Pro Wrestling Z",
+            "titles": [
+                {
+                    "searchTerm": "Fire Pro Wrestling Z (Japan) [T-En by Fatman Dave v0.5b] [i] (CD)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Front Mission 5 - Scars of the War",
+            "titles": [
+                {
+                    "searchTerm": "Front Mission 5 - Scars of the War (Japan) [T-En by Front Mission 5 Team v4b] [Add by Swosho v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Growlanser VI - Precarious World",
+            "titles": [
+                {
+                    "searchTerm": "Growlanser VI - Precarious World (Japan) [T-En by Risae v2023-08-27]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Initial D - Special Stage",
+            "titles": [
+                {
+                    "searchTerm": "Initial D - Special Stage (Japan) [T-En by Alexvgz v1.3] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "J. League Winning Eleven 10 + Europe League '06-'07",
+            "titles": [
+                {
+                    "searchTerm": "J. League Winning Eleven 10 + Europe League '06-'07 (Japan) (v1.03) [T-En by Fernando fk v2.70]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Jojo no Kimyou na Bouken - Ougon no Kaze",
+            "titles": [
+                {
+                    "searchTerm": "Jojo no Kimyou na Bouken - Ougon no Kaze (Japan) [T-En by JoJo's Colored Adventure v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "JoJo's Bizarre Adventure - Golden Wind",
+            "titles": [
+                {
+                    "searchTerm": "JoJo's Bizarre Adventure - Golden Wind (Japan) [T-En by Hudgyn Sasdarl v3.003] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "JoJo's Bizarre Adventure - Phantom Blood",
+            "titles": [
+                {
+                    "searchTerm": "JoJo's Bizarre Adventure - Phantom Blood (Japan) [T-En by Penguino & Hudgyn Sasdarl v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Kenka Banchou 2 - Full Throttle",
+            "titles": [
+                {
+                    "searchTerm": "Kenka Banchou 2 - Full Throttle (Japan) [T-En by TransGen v1.0alpha] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Kingdom Hearts II - Final Mix",
+            "titles": [
+                {
+                    "searchTerm": "Kingdom Hearts II - Final Mix (Japan) [T-En by Crazycatz00 v0.99.15222.0425r]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Monster Hunter 2",
+            "titles": [
+                {
+                    "searchTerm": "Monster Hunter 2 (Japan) [T-En by Break Arts v1.02]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mystic Nights",
+            "titles": [
+                {
+                    "searchTerm": "Mystic Nights (Korea) [T-En by Jeremy De Cola-David v1.1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Namco x Capcom",
+            "titles": [
+                {
+                    "searchTerm": "Namco x Capcom (Japan) [T-En by TransGen Final Version A]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "OutRun 2 SP",
+            "titles": [
+                {
+                    "searchTerm": "OutRun 2 SP (Japan) [T-En by SolidSnake11] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Piposaru 2001",
+            "titles": [
+                {
+                    "searchTerm": "Piposaru 2001 (Japan) [T-En by BmanRulesYou21 v1.1] (CD)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Rogue Hearts Dungeon",
+            "titles": [
+                {
+                    "searchTerm": "Rogue Hearts Dungeon (Japan) [T-En by TransGen v1.1 beta]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sega Ages 2500 Series Vol. 1 - Phantasy Star Generation-1",
+            "titles": [
+                {
+                    "searchTerm": "Sega Ages 2500 Series Vol. 1 - Phantasy Star Generation-1 (Japan) [T-En by Kyence v2.10] (CD)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sega Ages 2500 Series Vol. 17 - Phantasy Star Generation-2",
+            "titles": [
+                {
+                    "searchTerm": "Sega Ages 2500 Series Vol. 17 - Phantasy Star Generation-2 (Japan) [T-En by Goldenboy v2f] (CD)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Shadow Tower Abyss",
+            "titles": [
+                {
+                    "searchTerm": "Shadow Tower Abyss (Japan) [T-En by Mord of Swoonlight v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Shin Master of Monsters Final EX",
+            "titles": [
+                {
+                    "searchTerm": "Shin Master of Monsters Final EX (Japan) [T-En by Nebelwurfer HQ v0.50] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Shin Megami Tensei III - Nocturne Maniax - Chronicle Edition",
+            "titles": [
+                {
+                    "searchTerm": "Shin Megami Tensei III - Nocturne Maniax - Chronicle Edition (Japan) [T-En by E.F Jang & Krisan Thyme v1.1.3]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Simple 2000 Series Vol. 105 - The Maid Uniform & Machinegun",
+            "titles": [
+                {
+                    "searchTerm": "Simple 2000 Series Vol. 105 - The Maid Uniform & Machinegun (Japan) [T-En by Cargodin & Hilltop v1.0] [n] (CD)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Soul Eater - Battle Resonance",
+            "titles": [
+                {
+                    "searchTerm": "Soul Eater - Battle Resonance (Japan) [T-En by Anime Game Translations Team v1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Standard Daisenryaku - Ushinawareta Shouri",
+            "titles": [
+                {
+                    "searchTerm": "Standard Daisenryaku - Ushinawareta Shouri (Japan) [T-En by Nebelwurfer HQ v0.60] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Super Robot Wars OG - Original Generations",
+            "titles": [
+                {
+                    "searchTerm": "Super Robot Wars OG - Original Generations (Japan) [T-En by Black & Dewgrass & Kingcom & Ngram Prisken v1.2] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "SuperLite 2000 Vol. 34 - Akai Ito",
+            "titles": [
+                {
+                    "searchTerm": "SuperLite 2000 Vol. 34 - Akai Ito (Japan) [T-En by Shizuka & Nanashi3 & Zohar v20170115] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Tales of Destiny - Director's Cut",
+            "titles": [
+                {
+                    "searchTerm": "Tales of Destiny - Director's Cut (Japan, Asia) [T-En by Life Bottle Productions v0.1.244]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Tales of Destiny 2",
+            "titles": [
+                {
+                    "searchTerm": "Tales of Destiny 2 (Japan) [T-En by Cless v062808 Pre-Alpha] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "TearRing Saga - Berwick Saga - Lazberia Chronicle - Chapter 174",
+            "titles": [
+                {
+                    "searchTerm": "TearRing Saga - Berwick Saga - Lazberia Chronicle - Chapter 174 (Japan) [T-En by Aethin v2.3] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Vampire Panic",
+            "titles": [
+                {
+                    "searchTerm": "Vampire Panic (Japan) [T-En by TransGen v1.0 Beta] (CD)",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "World Soccer Winning Eleven 10",
+            "titles": [
+                {
+                    "searchTerm": "World Soccer Winning Eleven 10 (Japan) [T-En by Fernando fk v5]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "World Soccer Winning Eleven 9",
+            "titles": [
+                {
+                    "searchTerm": "World Soccer Winning Eleven 9 (Japan) [T-En by Fernando fk v5]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Yakuza",
+            "titles": [
+                {
+                    "searchTerm": "Yakuza (USA) [Undub by Kristian Zdunek v1.0] [PS3 fix v2]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Zill O'll Infinite",
+            "titles": [
+                {
+                    "searchTerm": "Zill O'll Infinite (Japan) [T-En by TransGen v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        }
+    ]
+}

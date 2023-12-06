@@ -1,0 +1,67 @@
+{
+    "description": {
+        "name": "Nintendo - Virtual Boy (Translated En)",
+        "lastUpdated": "4 December 2023",
+        "minimumVersion": "2.00",
+        "romSourceName": "English Translation ROMs Collection (2023)",
+        "romSourceUrl": "https://archive.org/details/En-ROMs",
+        "author": "dsync89",
+        "authorEmail": "dsync89@yahoo.com"
+    },
+    "variants": [
+        {
+            "group": "Insmouth Mansion",
+            "titles": [
+                {
+                    "searchTerm": "Insmouth Mansion (Japan) [T-En by Thunderstruck v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "SD Gundam - Dimension War",
+            "titles": [
+                {
+                    "searchTerm": "SD Gundam - Dimension War (Japan) [T-En by Greg Stevens & Benjamin Stevens v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Space Invaders - Virtual Collection",
+            "titles": [
+                {
+                    "searchTerm": "Space Invaders - Virtual Collection (Japan) [T-En by Thunderstruck v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Space Squash",
+            "titles": [
+                {
+                    "searchTerm": "Space Squash (Japan) [T-En by Feel & Greg Stevens & Benjamin Stevens & Thunderstruck v2.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Virtual Fishing",
+            "titles": [
+                {
+                    "searchTerm": "Virtual Fishing (Japan) [T-En by Benjamin Stevens & Thunderstruck v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Virtual Lab",
+            "titles": [
+                {
+                    "searchTerm": "Virtual Lab (Japan) [T-En by Thunderstruck v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        }
+    ]
+}

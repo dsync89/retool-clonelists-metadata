@@ -1,0 +1,49 @@
+{
+    "description": {
+        "name": "Sega - SG-1000 (Translated En)",
+        "lastUpdated": "4 December 2023",
+        "minimumVersion": "2.00",
+        "romSourceName": "English Translation ROMs Collection (2023)",
+        "romSourceUrl": "https://archive.org/details/En-ROMs",
+        "author": "dsync89",
+        "authorEmail": "dsync89@yahoo.com"
+    },
+    "variants": [
+        {
+            "group": "Black Onyx, The",
+            "titles": [
+                {
+                    "searchTerm": "Black Onyx, The (Japan) [T-En by SSTranslations v1.0] [Enhanced]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Chack'n Pop",
+            "titles": [
+                {
+                    "searchTerm": "Chack'n Pop (Japan) [T-En by Goldenband v1.02]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ninja Princess",
+            "titles": [
+                {
+                    "searchTerm": "Ninja Princess (Japan) [T-En by Goldenband v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Soukoban",
+            "titles": [
+                {
+                    "searchTerm": "Soukoban (Japan) [T-En by Maurice Kaltofen v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        }
+    ]
+}

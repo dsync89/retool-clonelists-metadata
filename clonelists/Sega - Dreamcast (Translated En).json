@@ -1,0 +1,382 @@
+{
+    "description": {
+        "name": "Sega - Dreamcast (Translated En)",
+        "lastUpdated": "5 December 2023",
+        "minimumVersion": "2.00",
+        "romSourceName": "English Translation ROMs Collection (2023)",
+        "romSourceUrl": "https://archive.org/details/En-ROMs",
+        "author": "dsync89",
+        "authorEmail": "dsync89@yahoo.com"
+    },
+    "variants": [
+        {
+            "group": "Advanced Daisenryaku 2001",
+            "titles": [
+                {
+                    "searchTerm": "Advanced Daisenryaku 2001 (Japan) [T-En by Nebelwurfer HQ v0.95] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Berserk - Millennium Falcon Arc - Flowers of Oblivion Chapter",
+            "titles": [
+                {
+                    "searchTerm": "Berserk - Millennium Falcon Arc - Flowers of Oblivion Chapter (Japan) [T-En by Catasplurge & Vimiani & Gem v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Blue Submarine No. 6 - Time and Tide",
+            "titles": [
+                {
+                    "searchTerm": "Blue Submarine No. 6 - Time and Tide (Japan) [T-En by Rolly and RafaGam and Esperknight B6] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Boko Dream Master",
+            "titles": [
+                {
+                    "searchTerm": "Boko Dream Master (Japan) [T-En by AnimatedAF v1] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Chaos Field",
+            "titles": [
+                {
+                    "searchTerm": "Chaos Field (Japan) [T-En by Derek Pascarella v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Cool Cool Toon",
+            "titles": [
+                {
+                    "searchTerm": "Cool Cool Toon (Japan) [T-En by Derek Pascarella v1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Dance Dance Revolution - Club Version - Dreamcast Edition",
+            "titles": [
+                {
+                    "searchTerm": "Dance Dance Revolution - Club Version - Dreamcast Edition (Japan) [T-En by Topping Translations v1.0] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fire Pro Wrestling D",
+            "titles": [
+                {
+                    "searchTerm": "Fire Pro Wrestling D (Japan) [T-En by Irvgotti452]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fish Life in Amazon",
+            "titles": [
+                {
+                    "searchTerm": "Fish Life in Amazon (Japan) [T-En by Rolly v20190713]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Frame Gride",
+            "titles": [
+                {
+                    "searchTerm": "Frame Gride (Japan) [T-En by DCHQ Final]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Fushigi no Dungeon - Fuurai no Shiren Gaiden - Onna Kenshi Asuka Kenzan!",
+            "titles": [
+                {
+                    "searchTerm": "Fushigi no Dungeon - Fuurai no Shiren Gaiden - Onna Kenshi Asuka Kenzan! (Japan) [T-En by SharkSnack v0.16] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Karous",
+            "titles": [
+                {
+                    "searchTerm": "Karous (Japan) [T-En by Rolly and RafaGam v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "L.O.L. - Lack of Love",
+            "titles": [
+                {
+                    "searchTerm": "L.O.L. - Lack of Love (Japan) [T-En by Rolly and RafaGam v1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Lost Golem, The",
+            "titles": [
+                {
+                    "searchTerm": "Lost Golem, The (Japan) [T-En by Rolly and RafaGam and Cargodin v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Nakoruru - The Gift She Gave Me",
+            "titles": [
+                {
+                    "searchTerm": "Nakoruru - The Gift She Gave Me (Japan) [T-En by Derek Pascarella v1.2] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Napple Tale - Arsia in Daydream",
+            "titles": [
+                {
+                    "searchTerm": "Napple Tale - Arsia in Daydream (Japan) [T-En by Cargodin v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Neon Genesis Evangelion - Typing Project Advanced",
+            "titles": [
+                {
+                    "searchTerm": "Neon Genesis Evangelion - Typing Project Advanced (Japan) [T-En by Derek Pascarella v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Neon Genesis Evangelion - Typing Project E",
+            "titles": [
+                {
+                    "searchTerm": "Neon Genesis Evangelion - Typing Project E (Japan) [T-En by Derek Pascarella v2.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Panzer Front",
+            "titles": [
+                {
+                    "searchTerm": "Panzer Front (Japan) [T-En by DerPlayer and PhilYeahz v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Puyo Pop Fever",
+            "titles": [
+                {
+                    "searchTerm": "Puyo Pop Fever (Japan) [T-En by Derek Pascarella v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Puyo Puyo 4",
+            "titles": [
+                {
+                    "searchTerm": "Puyo Puyo 4 (Japan) [T-En by Precise Museum v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Radirgy",
+            "titles": [
+                {
+                    "searchTerm": "Radirgy (Japan) [T-En by Wiredcrackpot v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Rainbow Cotton",
+            "titles": [
+                {
+                    "searchTerm": "Rainbow Cotton (Japan) [T-En by Derek Pascarella v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Rent a Hero No.1",
+            "titles": [
+                {
+                    "searchTerm": "Rent a Hero No.1 (Japan) [T-En by Rent-A-Modders Team v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Resident Evil - Code Veronica X",
+            "titles": [
+                {
+                    "searchTerm": "Resident Evil - Code Veronica X (Japan) [T-En by Truemaster1] [n] [Clone GDEMU bug fix by YZB]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Run=Dim as Black Soul",
+            "titles": [
+                {
+                    "searchTerm": "Run=Dim as Black Soul (Japan) [T-En by EsperKnight & RafaMGam & Rolly v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Sakura Wars - Columns 2",
+            "titles": [
+                {
+                    "searchTerm": "Sakura Wars - Columns 2 (Japan) [T-En by Derek Pascarella v1.2] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Samba de Amigo Ver. 2000",
+            "titles": [
+                {
+                    "searchTerm": "Samba de Amigo Ver. 2000 (Japan) [T-En by Dukeblooders v0.9.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Seven Mansions - Ghastly Smile",
+            "titles": [
+                {
+                    "searchTerm": "Seven Mansions - Ghastly Smile (Japan) [T-En by ArcaneAria & MrNobody v1.4] [Forced VGA] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Shenmue",
+            "titles": [
+                {
+                    "searchTerm": "Shenmue (Europe) [Undub Definitive Edition by Shenmue Master and Phantom River Stone]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Shenmue II",
+            "titles": [
+                {
+                    "searchTerm": "Shenmue II (Europe) [Xbox dub by Fafadou]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Shutokou Battle 2",
+            "titles": [
+                {
+                    "searchTerm": "Shutokou Battle 2 (Japan) [T-En by SGGG v20221128] [i]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Space Channel 5 Part 2",
+            "titles": [
+                {
+                    "searchTerm": "Space Channel 5 Part 2 (Japan) [T-En by BrAzE v20110418]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Super Puzzle Fighter II X for Matching Service",
+            "titles": [
+                {
+                    "searchTerm": "Super Puzzle Fighter II X for Matching Service (Japan) [T-En by ComradeSnarky] [Add by Derek Pascarella v1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Super Street Fighter II X for Matching Service",
+            "titles": [
+                {
+                    "searchTerm": "Super Street Fighter II X for Matching Service (Japan) [T-En by ComradeSnarky]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Taxi 2 - The Game",
+            "titles": [
+                {
+                    "searchTerm": "Taxi 2 - The Game (France) [T-En by Derek Pascarella v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Trizeal",
+            "titles": [
+                {
+                    "searchTerm": "Trizeal (Japan) [T-En by Derek Pascarella v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Under Defeat",
+            "titles": [
+                {
+                    "searchTerm": "Under Defeat (Japan) [T-En by TapamN v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "What's Shenmue",
+            "titles": [
+                {
+                    "searchTerm": "What's Shenmue (Japan) [T-En by Shenmue Dojo v1.0.4]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Yu Suzuki Game Works Vol. 1",
+            "titles": [
+                {
+                    "searchTerm": "Yu Suzuki Game Works Vol. 1 (Japan) [T-En by Shenmue Dojo v20201208]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Yukawa Moto Senmu no Otakara Sagashi",
+            "titles": [
+                {
+                    "searchTerm": "Yukawa Moto Senmu no Otakara Sagashi (Japan) [T-En by EsperKnight & Mr. Nobody & SnowyAria v1.0] [i]",
+                    "nameType": "full"
+                }
+            ]
+        }
+    ]
+}

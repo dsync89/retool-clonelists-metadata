@@ -1,0 +1,265 @@
+{
+    "description": {
+        "name": "Nintendo - 64 (Translated En)",
+        "lastUpdated": "4 December 2023",
+        "minimumVersion": "2.00",
+        "romSourceName": "English Translation ROMs Collection (2023)",
+        "romSourceUrl": "https://archive.org/details/En-ROMs",
+        "author": "dsync89",
+        "authorEmail": "dsync89@yahoo.com"
+    },
+    "variants": [
+        {
+            "group": "Aleck Bordon Adventure - 4th Story - Tower & Shaft",
+            "titles": [
+                {
+                    "searchTerm": "Aleck Bordon Adventure - 4th Story - Tower & Shaft (Japan) (Aleck 64) [T-En by Zoinkity v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Animal Forest",
+            "titles": [
+                {
+                    "searchTerm": "Animal Forest (Japan) [T-En by Zoinkity v021210] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Bomberman 64",
+            "titles": [
+                {
+                    "searchTerm": "Bomberman 64 (Japan) [T-En by Zoinkity v1.3]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Chameleon Twist",
+            "titles": [
+                {
+                    "searchTerm": "Chameleon Twist (Japan) [T-En by Zoinkity v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Choro Q 64 2 - Hacha Mecha Grand Prix Race",
+            "titles": [
+                {
+                    "searchTerm": "Choro Q 64 2 - Hacha Mecha Grand Prix Race (Japan) [T-En by Zoinkity v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Custom Robo",
+            "titles": [
+                {
+                    "searchTerm": "Custom Robo (Japan) [T-En by Star Trinket v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Densha de Go! 64",
+            "titles": [
+                {
+                    "searchTerm": "Densha de Go! 64 (Japan) [T-En by Zoinkity v1.01]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Doshin the Giant 1",
+            "titles": [
+                {
+                    "searchTerm": "Doshin the Giant 1 (Japan) (64DD) [Hack by Zoinkity v1.1] [T-En by Ozidual v2018-06] [i] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "F-Zero X - Expansion Kit",
+            "titles": [
+                {
+                    "searchTerm": "F-Zero X - Expansion Kit (Japan) (64DD) [Hack by Zoinkity v2] [T-En by LuigiBlood v2]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "J.League Dynamite Soccer 64",
+            "titles": [
+                {
+                    "searchTerm": "J.League Dynamite Soccer 64 (Japan) [T-En by Zoinkity v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "J.League Live 64",
+            "titles": [
+                {
+                    "searchTerm": "J.League Live 64 (Japan) [T-En by Zoinkity v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Last Legion UX",
+            "titles": [
+                {
+                    "searchTerm": "Last Legion UX (Japan) [T-En by Zoinkity v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Magical Tetris Challenge",
+            "titles": [
+                {
+                    "searchTerm": "Magical Tetris Challenge (Japan) (Aleck 64) [T-En by Zoinkity v1.1] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mario Artist - Paint Studio",
+            "titles": [
+                {
+                    "searchTerm": "Mario Artist - Paint Studio (Japan) (64DD) [Hack by Zoinkity v1.2] [T-En by LuigiBlood & Cauterize v2.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mario Artist - Polygon Studio",
+            "titles": [
+                {
+                    "searchTerm": "Mario Artist - Polygon Studio (Japan) (64DD) [Hack by Zoinkity v1.2] [T-En by LuigiBlood v3.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mario Artist - Talent Studio",
+            "titles": [
+                {
+                    "searchTerm": "Mario Artist - Talent Studio (Japan) (64DD) [T-En by LuigiBlood v2.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Mario's Photo Studio",
+            "titles": [
+                {
+                    "searchTerm": "Mario's Photo Studio (Japan) [T-En by Zoinkity v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Masters '98 - Augusta National Golf Club",
+            "titles": [
+                {
+                    "searchTerm": "Masters '98 - Augusta National Golf Club (Japan) [T-En by Zoinkity v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Ninja Boy Rantarou 64 Game Gallery",
+            "titles": [
+                {
+                    "searchTerm": "Ninja Boy Rantarou 64 Game Gallery (Japan) [T-En by Zoinkity v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Puyo Puyo Sun 64",
+            "titles": [
+                {
+                    "searchTerm": "Puyo Puyo Sun 64 (Japan) [T-En by Zoinkity v1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Shiren the Wanderer 2 - Oni Invasion! Shiren Castle!",
+            "titles": [
+                {
+                    "searchTerm": "Shiren the Wanderer 2 - Oni Invasion! Shiren Castle! (Japan) [T-En by SharkSnack & Ozidual & KmbTos v1.02] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "SimCity 64",
+            "titles": [
+                {
+                    "searchTerm": "SimCity 64 (Japan) (64DD) [Hack by Zoinkity v1.1] [T-En by Ozidual v0.6.38]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "St. Andrews Old Course",
+            "titles": [
+                {
+                    "searchTerm": "St. Andrews Old Course (Japan) [T-En by Zoinkity v1.0] [n]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Tsumi to Batsu - Hoshi no Keishousha",
+            "titles": [
+                {
+                    "searchTerm": "Tsumi to Batsu - Hoshi no Keishousha (Japan) [T-En by Zoinkity v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Virtual Pro Wrestling 2 - Oudou Keishou",
+            "titles": [
+                {
+                    "searchTerm": "Virtual Pro Wrestling 2 - Oudou Keishou (Japan) [T-En by VPW 2 Dojo Beta 3]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Virtual Pro Wrestling 64",
+            "titles": [
+                {
+                    "searchTerm": "Virtual Pro Wrestling 64 (Japan) [T-En by Star Trinket v1.77 beta]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Wave Race 64 - Kawasaki Jet Ski",
+            "titles": [
+                {
+                    "searchTerm": "Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 2) (Shindou Edition) [T-En by Zoinkity v1.1]",
+                    "nameType": "full"
+                }
+            ]
+        },
+        {
+            "group": "Wonder Project J2 - Koruro no Mori no Jozet",
+            "titles": [
+                {
+                    "searchTerm": "Wonder Project J2 - Koruro no Mori no Jozet (Japan) [T-En by Ryu v1.0]",
+                    "nameType": "full"
+                }
+            ]
+        }
+    ]
+}
