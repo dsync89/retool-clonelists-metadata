@@ -1,0 +1,279 @@
+
+{
+    "author_name": "dsync89",
+    "author_email": "dsync89@yahoo.com",
+    "output_1g1r_dat_dir": ".",
+    "platforms": [
+        { 
+            "rom_dir": "s:\\roms-translated-1g1r\\archive-org-bandai-wonderswan",
+            "headers": {
+                "dat_name": "Bandai - Wonderswan (Translated En)",
+                "rom_source_name": "English Translation ROMs Collection (2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "last_updated": "4 December 2023"
+            }
+        },          
+        { 
+            "rom_dir": "s:\\roms-translated-1g1r\\archive-org-bandai-wonderswan-color",
+            "headers": {
+                "dat_name": "Bandai - Wonderswan Color (Translated En)",
+                "rom_source_name": "English Translation ROMs Collection (2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "last_updated": "4 December 2023"
+            }
+        },          
+        { 
+            "rom_dir": "s:\\roms-translated-1g1r\\archive-org-microsoft-msx",
+            "headers": {
+                "dat_name": "Microsoft - MSX (Translated En)",
+                "rom_source_name": "English Translation ROMs Collection (2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "last_updated": "1 December 2023"
+            }
+        },        
+        { 
+            "rom_dir": "s:\\roms-translated-1g1r\\archive-org-microsoft-msx2",
+            "headers": {
+                "dat_name": "Microsoft - MSX2 (Translated En)",
+                "rom_source_name": "English Translation ROMs Collection (2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "last_updated": "1 December 2023"
+            }
+        },
+        { 
+            "rom_dir": "s:\\roms-translated-1g1r\\archive-org-nintendo-game-boy",
+            "headers": {
+                "dat_name": "Nintendo - Game Boy (Translated En)",
+                "rom_source_name": "English Translation ROMs Collection (2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "last_updated": "3 December 2023"
+            }
+        },
+        { 
+            "rom_dir": "s:\\roms-translated-1g1r\\archive-org-nintendo-game-boy-advance",
+            "headers": {
+                "dat_name": "Nintendo - Game Boy Advance (Translated En)",
+                "rom_source_name": "English Translation ROMs Collection (2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "last_updated": "4 December 2023"
+            }
+        },
+        { 
+            "rom_dir": "s:\\roms-translated-1g1r\\archive-org-nintendo-game-boy-color",
+            "headers": {
+                "dat_name": "Nintendo - Game Boy Color (Translated En)",
+                "rom_source_name": "English Translation ROMs Collection (2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "last_updated": "4 December 2023"
+            }
+        } ,
+        { 
+            "rom_dir": "s:\\roms-translated-1g1r\\archive-org-nintendo-famicom-disk-system",
+            "headers": {
+                "dat_name": "Nintendo - Famicom Disk System (Translated En)",
+                "rom_source_name": "English Translation ROMs Collection (2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "last_updated": "4 December 2023"
+            }
+        },
+        { 
+            "rom_dir": "s:\\roms-translated-1g1r\\archive-org-nintendo-entertainment-system",
+            "headers": {
+                "dat_name": "Nintendo - Entertainment System (Translated En)",
+                "rom_source_name": "English Translation ROMs Collection (2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "last_updated": "4 December 2023"
+            }
+        },
+        { 
+            "rom_dir": "s:\\roms-translated-1g1r\\archive-org-nintendo-64",
+            "headers": {
+                "dat_name": "Nintendo - 64 (Translated En)",
+                "rom_source_name": "English Translation ROMs Collection (2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "last_updated": "4 December 2023"
+            }
+        },
+        { 
+            "rom_dir": "s:\\roms-translated-1g1r\\archive-org-nintendo-ds",
+            "headers": {
+                "dat_name": "Nintendo - DS (Translated En)",
+                "rom_source_name": "English Translation ROMs Collection (2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "last_updated": "4 December 2023"
+            }
+        },
+        { 
+            "rom_dir": "s:\\roms-translated-1g1r\\archive-org-nintendo-virtual-boy",
+            "headers": {
+                "dat_name": "Nintendo - Virtual Boy (Translated En)",
+                "rom_source_name": "English Translation ROMs Collection (2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "last_updated": "4 December 2023"
+            }
+        },
+        { 
+            "rom_dir": "s:\\roms-translated-1g1r\\archive-org-sega-game-gear",
+            "headers": {
+                "dat_name": "Sega - Game Gear (Translated En)",
+                "rom_source_name": "English Translation ROMs Collection (2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "last_updated": "4 December 2023"
+            }
+        },
+        { 
+            "rom_dir": "s:\\roms-translated-1g1r\\archive-org-sega-master-system",
+            "headers": {
+                "dat_name": "Sega - Master System (Translated En)",
+                "rom_source_name": "English Translation ROMs Collection (2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "last_updated": "4 December 2023"
+            }
+        },
+        { 
+            "rom_dir": "s:\\roms-translated-1g1r\\archive-org-sega-mega-drive-genesis",
+            "headers": {
+                "dat_name": "Sega - Mega Drive (Translated En)",
+                "rom_source_name": "English Translation ROMs Collection (2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "last_updated": "4 December 2023"
+            }
+        },
+        { 
+            "rom_dir": "s:\\roms-translated-1g1r\\archive-org-sega-sg-1000",
+            "headers": {
+                "dat_name": "Sega - SG-1000 (Translated En)",
+                "rom_source_name": "English Translation ROMs Collection (2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "last_updated": "4 December 2023"
+            }
+        },
+        { 
+            "rom_dir": "s:\\roms-translated-1g1r\\archive-org-snk-neo-geo-pocket-color",
+            "headers": {
+                "dat_name": "SNK - NeoGeo Pocket Color (Translated En)",
+                "rom_source_name": "English Translation ROMs Collection (2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "last_updated": "4 December 2023"
+            }
+        },
+        { 
+            "rom_dir": "s:\\roms-translated-1g1r\\archive-org-nec-pc-engine-turbografx-16",
+            "headers": {
+                "dat_name": "NEC - PC Engine TurboGrafx-16 (Translated En)",
+                "rom_source_name": "English Translation ROMs Collection (2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "last_updated": "4 December 2023"
+            }
+        },
+        { 
+            "rom_dir": "s:\\roms-translated-1g1r\\archive-org-nec-pc-engine-cd-turbografx-cd",
+            "headers": {
+                "dat_name": "NEC - PC Engine CD TurboGrafx-CD (Translated En)",
+                "rom_source_name": "English Translation ROMs Collection (2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "last_updated": "4 December 2023"
+            }
+        },
+        { 
+            "rom_dir": "s:\\roms-translated-1g1r\\archive-org-sony-playstation",
+            "headers": {
+                "dat_name": "Sony - Playstation (Translated En)",
+                "rom_source_name": "English Translation ROMs Collection (2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "last_updated": "4 December 2023"
+            }
+        },
+        { 
+            "rom_dir": "s:\\roms-translated-1g1r\\archive-org-sony-playstation-2",
+            "headers": {
+                "dat_name": "Sony - Playstation 2 (Translated En)",
+                "rom_source_name": "English Translation ROMs Collection (2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "last_updated": "5 December 2023"
+            }
+        },
+        { 
+            "rom_dir": "s:\\roms-translated-1g1r\\archive-org-nintendo-3ds",
+            "headers": {
+                "dat_name": "Nintendo - 3DS (Translated En)",
+                "rom_source_name": "English Translation ROMs Collection (2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "last_updated": "5 December 2023"
+            }
+        },
+        { 
+            "rom_dir": "s:\\roms-translated-1g1r\\archive-org-sega-saturn",
+            "headers": {
+                "dat_name": "Sega - Saturn (Translated En)",
+                "rom_source_name": "English Translation ROMs Collection (2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "last_updated": "5 December 2023"
+            }
+        },
+        { 
+            "rom_dir": "s:\\roms-translated-1g1r\\archive-org-sega-dreamcast",
+            "headers": {
+                "dat_name": "Sega - Dreamcast (Translated En)",
+                "rom_source_name": "English Translation ROMs Collection (2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "last_updated": "5 December 2023"
+            }
+        },
+        { 
+            "rom_dir": "s:\\roms-translated-1g1r\\archive-org-sony-playstation-portable",
+            "headers": {
+                "dat_name": "Sony - Playstation Portable (Translated En)",
+                "rom_source_name": "English Translation ROMs Collection (2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "last_updated": "5 December 2023"
+            }
+        },
+        { 
+            "rom_dir": "s:\\roms-translated-1g1r\\archive-org-nintendo-game-cube",
+            "headers": {
+                "dat_name": "Nintendo - GameCube (Translated En)",
+                "rom_source_name": "English Translation ROMs Collection (2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "last_updated": "7 December 2023"
+            }
+        },
+        { 
+            "rom_dir": "s:\\roms-translated-1g1r\\archive-org-nintendo-wii",
+            "headers": {
+                "dat_name": "Nintendo - Wii (Translated En)",
+                "rom_source_name": "English Translation ROMs Collection (2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "last_updated": "7 December 2023"
+            }
+        },
+        { 
+            "rom_dir": "s:\\roms-translated-1g1r\\archive-org-sega-mega-cd",
+            "headers": {
+                "dat_name": "Sega - Mega CD (Translated En)",
+                "rom_source_name": "English Translation ROMs Collection (2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "last_updated": "7 December 2023"
+            }
+        },
+        { 
+            "rom_dir": "s:\\roms-translated-1g1r\\archive-org-microsoft-xbox",
+            "headers": {
+                "dat_name": "Microsoft - Xbox (Translated En)",
+                "rom_source_name": "English Translation ROMs Collection (2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "last_updated": "7 December 2023"
+            }
+        },
+        { 
+            "rom_dir": "s:\\roms-translated-1g1r\\archive-org-microsoft-xbox-360",
+            "headers": {
+                "dat_name": "Microsoft - Xbox 360 (Translated En)",
+                "rom_source_name": "English Translation ROMs Collection (2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "last_updated": "7 December 2023"
+            }
+        }                                        
+        
+    ]
+}
