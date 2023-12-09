@@ -1,6 +1,7 @@
 import os
 import re
 import json
+import hashlib
 
 def get_files_in_folder(folder_path):
     file_list = []
@@ -11,6 +12,23 @@ def get_files_in_folder(folder_path):
         for file_name in files:
             name, extension = os.path.splitext(file_name)
             file_list.append(name)
+        
+        return file_list
+    else:
+        print("The specified folder path does not exist or is not a directory.")
+        return None
+
+def get_clonelist_files_in_folder(folder_path):
+    file_list = []
+
+    if os.path.exists(folder_path) and os.path.isdir(folder_path):
+        files = os.listdir(folder_path)
+        
+        for file_name in files:
+            name, extension = os.path.splitext(file_name)
+            if extension == '.json':
+                if name != 'config' and name != 'hash':
+                    file_list.append(file_name)
         
         return file_list
     else:
@@ -27,7 +45,7 @@ def group_filenames_by_pattern(file_list, pattern):
             key = match.group()
             if key not in grouped_files:
                 grouped_files[key] = []
-                regex_matches[key] = pattern.findall(file_name)
+                regex_matches[key] = list(map(str.strip, pattern.findall(file_name)))
             grouped_files[key].append(file_name)
 
     print("Groups:")
@@ -69,6 +87,24 @@ def generate_json_template(grouped_files):
     }
 
     return json_template
+
+def generate_hash_file(folder):
+    # Calculate a hash.json file
+    platform_files = get_clonelist_files_in_folder(folder)
+    hash_contents = {}
+    for file in platform_files:
+        hash_object = hashlib.sha256()
+        with open(file, 'rb') as json_file:
+            while True:
+                data = json_file.read(4096)
+                if len(data) == 0:
+                    break
+                else:
+                    hash_object.update(data)
+            hash_contents[str(file)] = hash_object.hexdigest()
+    with open(os.path.join(folder, 'hash.json'), 'w') as hash_file:
+        json.dump(hash_contents, hash_file, indent=4)
+    return hash_contents
 
 # -----------------------------------------------------------
 # Main
@@ -118,7 +154,7 @@ if __name__ == "__main__":
         # if files_array:
         #     print("List of files in the folder:", files_array)
 
-
+    generate_hash_file(OUTPUT_1G1R_DAT_DIR)
 
     # FOLDER_PATH = 's:\\roms-translated-1g1r\\archive-org-nintendo-snes'
     # LAST_UPDATED = '1 December 2023'
