@@ -1,0 +1,845 @@
+
+{
+    "author_name": "dsync89",
+    "author_email": "dsync89@yahoo.com",
+    "output_1g1r_dat_dir": ".",
+    "platforms": [
+        { 
+            "rom_dir": "s:\\roms-fullset\\neokobe-nodat-nec-pc8801-full",
+            "headers": {
+                "dat_name": "NEC - PC-8801 (Neo Kobe)",
+                "rom_source_name": "Neo Kobe - NEC PC-8801 (2016-02-25)",
+                "rom_source_url": "https://archive.org/details/Neo_Kobe_NEC_PC-8801_2016-02-25",
+                "rom_version": "2016-02-25"
+            },
+            "removes": [   
+            ],            
+            "overrides": [
+                {
+                    "searchTerm": "Mirrors [FD]",
+                    "newGroup": "Mirrors FD",
+                    "nameType": "full"
+                }
+            ]            
+        },     
+        { 
+            "rom_dir": "s:\\roms-fullset\\neokobe-nodat-nec-pc9801-full",
+            "headers": {
+                "dat_name": "NEC - PC-9801 (Neo Kobe)",
+                "rom_source_name": "Neo Kobe - NEC PC-9801 (2017-11-17)",
+                "rom_source_url": "https://archive.org/details/NeoKobe-NecPc-98012017-11-17",
+                "rom_version": "2017-11-17"
+            },
+            "removes": [
+                {
+                    "searchTerm": "Angel Halo (FD version) [HD]",   
+                    "nameType": "full"
+                }   
+            ],
+            "overrides": [
+                {
+                    "searchTerm": "Akiko Gold [CD floppy]",
+                    "newGroup": "Akiko Gold CD floppy",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Akumu - Aoi Kajitsu no Sange [HD]",
+                    "newGroup": "Akumu - Aoi Kajitsu no Sange HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Alice no Yakata III [HD]",   
+                    "newGroup": "Alice no Yakata III HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Alone in the Dark 2 (CD version) [HD]",   
+                    "newGroup": "Alone in the Dark 2 CD version HD",
+                    "nameType": "full"
+                },  
+                {
+                    "searchTerm": "Alone in the Dark 3 [HD]",   
+                    "newGroup": "Alone in the Dark 3 HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Angel (U-Jin Presents) [CD floppy]",
+                    "newGroup": "Angel U-Jin Presents CD floppy",
+                    "nameType": "full"
+                },                
+                {
+                    "searchTerm": "Angel Halo (CD version) [HD]",   
+                    "newGroup": "Angel Halo CD version HD",
+                    "nameType": "full"
+                }, 
+                {
+                    "searchTerm": "Appareden - Fukuryuu no Shou (patched CD version) [HD]",
+                    "newGroup": "Appareden - Fukuryuu no Shou patched CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Arquelphos [HD]",
+                    "newGroup": "Arquelphos HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Ayumi-chan Monogatari Jissha-ban [HD]",
+                    "newGroup": "Ayumi-chan Monogatari Jissha-ban HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Ballade for Maria (Maria ni Sasageru Ballade) [CD floppy]",
+                    "newGroup": "Ballade for Maria Maria ni Sasageru Ballade CD floppy",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Blandia 98 (CD version) [HD]",
+                    "newGroup": "Blandia 98 CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Bounty Hunter Ludy (CD version) [HD]",
+                    "newGroup": "Bounty Hunter Ludy CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Brandish 2 Renewal (CD version) [HD]",
+                    "newGroup": "Brandish 2 Renewal CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Brandish 3 - Spirit of Balcan (CD version) [HD]",
+                    "newGroup": "Brandish 3 - Spirit of Balcan CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Brandish 3 Renewal (CD version) [HD]",
+                    "newGroup": "Brandish 3 Renewal CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Brandish Renewal (CD version) [HD]",
+                    "newGroup": "Brandish Renewal CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Brandish VT (CD version) [HD]",
+                    "newGroup": "Brandish VT CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Branmarker [CD floppy]",
+                    "newGroup": "Branmarker CD floppy",
+                    "nameType": "full"
+                }, 
+                {
+                    "searchTerm": "Branmarker 2 [CD floppy]",
+                    "newGroup": "Branmarker 2 CD floppy",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "CRW 2 [HD]",
+                    "newGroup": "CRW 2 HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Cry Sweeper [HD]",
+                    "newGroup": "Cry Sweeper HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Crystal Rinal (CD version) [HD]",
+                    "newGroup": "Crystal Rinal CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Cyber War [CD 2]",
+                    "newGroup": "Cyber War CD 2",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Cyber War [CD 1]",
+                    "newGroup": "Cyber War CD 1",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Cyber War [HD]",
+                    "newGroup": "Cyber War HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "D.O. Doki Doki Disk CD Vol. 1 [CD floppy]",
+                    "newGroup": "D.O. Doki Doki Disk CD Vol. 1 CD floppy",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "D.O. Doki Doki Disk CD Vol. 2 [CD floppy]",
+                    "newGroup": "D.O. Doki Doki Disk CD Vol. 2 CD floppy",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "D.O. Doki Doki Disk CD Vol. 3 [CD floppy]",
+                    "newGroup": "D.O. Doki Doki Disk CD Vol. 3 CD floppy",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "D.O. Doki Doki Disk CD Vol. 4-5 [CD floppy]",
+                    "newGroup": "D.O. Doki Doki Disk CD Vol. 4-5 CD floppy",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "D.O. Kanshuu Premium Box - Touch My Heart [CD floppy]",
+                    "newGroup": "D.O. Kanshuu Premium Box - Touch My Heart CD floppy",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "D.P.S Zenbu (All Dream Program System) [HD]",   
+                    "newGroup": "D.P.S Zenbu All Dream Program System HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Dangel (CD version) [HD]",
+                    "newGroup": "Dangel CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Daraku no Kuni no Angie (with Omake disk) [HD]",
+                    "newGroup": "Daraku no Kuni no Angie with Omake disk HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Dark Seraphim (FD version) [HD]",
+                    "newGroup": "Dark Seraphim FD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Dark Seraphim [FD]",
+                    "newGroup": "Dark Seraphim FD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "De.FaNa (CD version) [HD]",
+                    "newGroup": "De.FaNa CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "DOR Best Selection Vol. 1 (Joukan) [CD floppy]",
+                    "newGroup": "DOR Best Selection Vol. 1 Joukan CD floppy",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "DOR Best Selection Vol. 2 (Gekan) [CD floppy]",
+                    "newGroup": "DOR Best Selection Vol. 2 Gekan CD floppy",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "DOR Special Edition '93 (CD version) [HD]",
+                    "newGroup": "DOR Special Edition '93 CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Desire - Haitoku no Rasen (CD version) [HD]",
+                    "newGroup": "Desire - Haitoku no Rasen CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Dies Irae (CD version) [HD]",
+                    "newGroup": "Dies Irae CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Doom (CD version) [HD]",
+                    "newGroup": "Doom CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Doom II (patched CD version) [HD]",
+                    "newGroup": "Doom II patched CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Dragon Lore [CD 1]",
+                    "newGroup": "Dragon Lore CD 1",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Dragon Lore [HD]",
+                    "newGroup": "Dragon Lore HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Duel Succession Plus Kit [HD]",
+                    "newGroup": "Duel Succession Plus Kit HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Eimmy to Yobanaide (CD version) [HD]",
+                    "newGroup": "Eimmy to Yobanaide CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "El-Hazard - The Magnificent World [HD]",
+                    "newGroup": "El-Hazard - The Magnificent World HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Elm Knight - A Living Body Armor (CD version) [HD]",
+                    "newGroup": "Elm Knight - A Living Body Armor CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Elm Knight - A Living Body Armor [CD floppy]",
+                    "newGroup": "Elm Knight - A Living Body Armor CD floppy",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Emit Vol. 1 - Toki no Maigo [CD floppy]",
+                    "newGroup": "Emit Vol. 1 - Toki no Maigo CD floppy",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Emit Vol. 3 - Watashi ni Sayonara o [CD floppy]",
+                    "newGroup": "Emit Vol. 3 - Watashi ni Sayonara o CD floppy",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Etsuraku no Gakuen (CD version) [HD]",
+                    "newGroup": "Etsuraku no Gakuen CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "F-117A Nighthawk Stealth Fighter 2.0 (256-color version) [HD]",
+                    "newGroup": "F-117A Nighthawk Stealth Fighter 2.0 256-color version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Finish Hold 2 Tag [HD]",
+                    "newGroup": "Finish Hold 2 Tag HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Fukushuu [HD]",
+                    "newGroup": "Fukushuu HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Gakuen King (CD version) [HD]",   
+                    "newGroup": "Gakuen King CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Galpani [CD floppy]",
+                    "newGroup": "Galpani CD floppy",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Gal Pani 2 [CD floppy]",
+                    "newGroup": "Gal Pani 2 CD floppy",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Giten Megami Tensei - Tokyo Mokushiroku [HD]",
+                    "newGroup": "Giten Megami Tensei - Tokyo Mokushiroku HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Gokichi-kun Series Igo Kinenban CD [CD]",
+                    "newGroup": "Gokichi-kun Series Igo Kinenban CD CD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Golf Links 386 Pro (CD version) [HD]",
+                    "newGroup": "Golf Links 386 Pro CD version HD",
+                    "nameType": "full"
+                },                   
+                {
+                    "searchTerm": "Guardian Recall - Shugojuu Shoukan (CD version with Special Disk) [HD]",   
+                    "newGroup": "Guardian Recall - Shugojuu Shoukan CD version with Special Disk HD",
+                    "nameType": "full"
+                },    
+                {
+                    "searchTerm": "Guynarock R [HD]",
+                    "newGroup": "Guynarock R HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Hana no Kioku (CD version) [HD]",
+                    "newGroup": "Hana no Kioku CD version HD",
+                    "nameType": "full"
+                },          
+                {
+                    "searchTerm": "Hanafuda de Pon! (CD version) [HD]",   
+                    "newGroup": "Hanafuda de Pon! CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Heart de Ron!! [CD floppy]",
+                    "newGroup": "Heart de Ron!! CD floppy",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Henshin Ring [HD]",
+                    "newGroup": "Henshin Ring HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Hiiragizaka no Kyuukan (CD version) [HD]",
+                    "newGroup": "Hiiragizaka no Kyuukan CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Hoshi no Suna Monogatari 3 [CD floppy]",
+                    "newGroup": "Hoshi no Suna Monogatari 3 CD floppy",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Hyoui Tengoku [HD]",
+                    "newGroup": "Hyoui Tengoku HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Ikazuchi no Senshi Raidy (CD version) [HD]",
+                    "newGroup": "Ikazuchi no Senshi Raidy CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Ikazuchi no Senshi Raidy 2 (CD version) [HD]",
+                    "newGroup": "Ikazuchi no Senshi Raidy 2 CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Inherit the Earth - Quest for the Orb [HD]",
+                    "newGroup": "Inherit the Earth - Quest for the Orb HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Innocent Tour [HD]",
+                    "newGroup": "Innocent Tour HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Jinmon Yuugi [CD floppy]",
+                    "newGroup": "Jinmon Yuugi CD floppy",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Koko wa Rakuensou (CD version) [HD]",
+                    "newGroup": "Koko wa Rakuensou CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Koko wa Rakuensou 2 (CD version) [HD]",
+                    "newGroup": "Koko wa Rakuensou 2 CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Kono Yo no Hate de Koi o Utau Shoujo YU-NO (with Special Disk) [HD]",
+                    "newGroup": "Kono Yo no Hate de Koi o Utau Shoujo YU-NO with Special Disk HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Lesser Mern Special Director's Edition [FD]",
+                    "newGroup": "Lesser Mern Special Director's Edition FD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Let's! Pirates - Trouble Vacances [HD]",
+                    "newGroup": "Let's! Pirates - Trouble Vacances HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Love Escalator [HD]",
+                    "newGroup": "Love Escalator HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Mahjong de Pon! (CD version) [HD]",   
+                    "newGroup": "Mahjong de Pon! CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Magical Girl Pretty Samy (Second Part) [CD]",   
+                    "newGroup": "Magical Girl Pretty Samy Second Part CD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Magical Girl Pretty Samy (First Part+Second Part) [HD]",   
+                    "newGroup": "Magical Girl Pretty Samy First Part+Second Part HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Magical Squadron [HD]",
+                    "newGroup": "Magical Squadron HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Making Candy - Oki ni Mesu mama [HD]",
+                    "newGroup": "Making Candy - Oki ni Mesu mama HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Manji Psy Yuuki [HD]",
+                    "newGroup": "Manji Psy Yuuki HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Menzoberranzan - Yami no Monshou (CD version) [HD]",
+                    "newGroup": "Menzoberranzan - Yami no Monshou CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Might and Magic IV - Clouds of Xeen (256-color version) [HD]",
+                    "newGroup": "Might and Magic IV - Clouds of Xeen 256-color version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Ms. Detective #1 - Iwami Ginzan Satsujin Jiken (CanBe-compatible version) [CD floppy]",
+                    "newGroup": "Ms. Detective #1 - Iwami Ginzan Satsujin Jiken CanBe-compatible version CD floppy",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Ms. Detective #1 - Iwami Ginzan Satsujin Jiken (CanBe-compatible version) [CD]",
+                    "newGroup": "Ms. Detective #1 - Iwami Ginzan Satsujin Jiken CanBe-compatible version CD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Ms. Detective #2 - Sugatanaki Iraisha [CD floppy]",
+                    "newGroup": "Ms. Detective #2 - Sugatanaki Iraisha CD floppy",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Mugen Houyou (CD version) [HD]",   
+                    "newGroup": "Mugen Houyou CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Mujintou Monogatari (CD version) [HD]",
+                    "newGroup": "Mujintou Monogatari CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Mujintou Monogatari Memorial Version [HD]",
+                    "newGroup": "Mujintou Monogatari Memorial Version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "My Home Dream 2 [HD]",
+                    "newGroup": "My Home Dream 2 HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Necronomicon [CD floppy]",
+                    "newGroup": "Necronomicon CD floppy",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Oh! Kitsune-sama [HD]",
+                    "newGroup": "Oh! Kitsune-sama HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Only You - Seikimatsu no Juliet-tachi (CD version) [HD]",   
+                    "newGroup": "Only You - Seikimatsu no Juliet-tachi CD version HD",
+                    "nameType": "full"
+                },                      
+                {
+                    "searchTerm": "PGA Tour Golf III [HD]",
+                    "newGroup": "PGA Tour Golf III HD",
+                    "nameType": "full"
+                },      
+                {
+                    "searchTerm": "Photo Genic [HD]",
+                    "newGroup": "Photo Genic HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "PILcaSEX (with Omake disk) [HD]",
+                    "newGroup": "PILcaSEX with Omake disk HD",
+                    "nameType": "full"
+                },                                          
+                {
+                    "searchTerm": "Policenauts [HD] [for Neko Project II]",   
+                    "newGroup": "Policenauts HD for Neko Project II",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Professional Baseball 1996 [HD]",
+                    "newGroup": "Professional Baseball 1996 HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Psychic Detective Series Vol. 1 - Invitation [CD floppy]",
+                    "newGroup": "Psychic Detective Series Vol. 1 - Invitation CD floppy",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Psychic Detective Series Vol. 2 - Memories [CD floppy]",
+                    "newGroup": "Psychic Detective Series Vol. 2 - Memories CD floppy",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Psychic Detective Series Vol. 3 - Aya [CD floppy]",
+                    "newGroup": "Psychic Detective Series Vol. 3 - Aya CD floppy",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Race into Space - Uchuu e no Chousen [HD]",
+                    "newGroup": "Race into Space - Uchuu e no Chousen HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Revival Xanadu (CD version) [HD]",
+                    "newGroup": "Revival Xanadu CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Revival Xanadu II Remix (CD version) [HD]",
+                    "newGroup": "Revival Xanadu II Remix CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Ring Out!! (CD version) [HD]",
+                    "newGroup": "Ring Out!! CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Rookies [HD]",
+                    "newGroup": "Rookies HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Ruriiro no Yuki (with update patch) [HD]",
+                    "newGroup": "Ruriiro no Yuki with update patch HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Ryouki no Ori [HD]",
+                    "newGroup": "Ryouki no Ori HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Ryouki no Ori Dai-2-shou - The Vengeful Days [HD]",
+                    "newGroup": "Ryouki no Ori Dai-2-shou - The Vengeful Days HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Sangokushi V (CD version) [HD]",
+                    "newGroup": "Sangokushi V CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Sayonara no Mukougawa (CD version) [HD]",
+                    "newGroup": "Sayonara no Mukougawa CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Schwarzschild EX - Tessa no Seigun [HD]",
+                    "newGroup": "Schwarzschild EX - Tessa no Seigun HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Schwarzschild GX - Sabita Sousei [HD]",
+                    "newGroup": "Schwarzschild GX - Sabita Sousei HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Sensual Angels [CD floppy]",
+                    "newGroup": "Sensual Angels CD floppy",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Sex 2 [HD]",
+                    "newGroup": "Sex 2 HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Sela (CD version) [HD]",
+                    "newGroup": "Sela CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Shamhat - The Holy Circlet [CD floppy]",
+                    "newGroup": "Shamhat - The Holy Circlet CD floppy",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Star Cruiser 2 [FD]",
+                    "newGroup": "Star Cruiser 2 FD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Strike Commander Plus [HD]",
+                    "newGroup": "Strike Commander Plus HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Super Real Mahjong PIV Final [HD]",
+                    "newGroup": "Super Real Mahjong PIV Final HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Tamago Ryouri [HD]",
+                    "newGroup": "Tamago Ryouri HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Tanjou - Debut (CD version) [CD floppy]",
+                    "newGroup": "Tanjou - Debut CD version CD floppy",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "TFX [HD]",
+                    "newGroup": "TFX HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "The Horde [HD]",
+                    "newGroup": "The Horde HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "The Legend of Heroes (Eiyuu Densetsu) III - Shiroki Majo Renewal [CD]",
+                    "newGroup": "The Legend of Heroes Eiyuu Densetsu III - Shiroki Majo Renewal CD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "The Legend of Heroes (Eiyuu Densetsu) III - Shiroki Majo Renewal (CD version) [HD]",
+                    "newGroup": "The Legend of Heroes Eiyuu Densetsu III - Shiroki Majo Renewal CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "The Legend of Heroes (Eiyuu Densetsu) IV - Akai Shizuku (CD version) [HD]",
+                    "newGroup": "The Legend of Heroes Eiyuu Densetsu IV - Akai Shizuku CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "The Legend of Kyrandia [CD floppy]",
+                    "newGroup": "The Legend of Kyrandia CD floppy",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "The Original Pictures of Ryouki no Ori [HD]",
+                    "newGroup": "The Original Pictures of Ryouki no Ori HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "The Super Dimension Fortress Macross - Skull Leader Complete Pack (CD version) [HD]",
+                    "newGroup": "The Super Dimension Fortress Macross - Skull Leader Complete Pack CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Theme Park (CD version) [HD]",
+                    "newGroup": "Theme Park CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Tokio 2 - Kaitaku Imin Boshuuchuu! [HD]",
+                    "newGroup": "Tokio 2 - Kaitaku Imin Boshuuchuu! HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Toushin Toshi II - Soshite, Sorekara... [HD]",
+                    "newGroup": "Toushin Toshi II - Soshite, Sorekara... HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Tuned Heart [HD]",
+                    "newGroup": "Tuned Heart HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Vastness - Kuukyo no Ikenie-tachi (CD version) [HD]",
+                    "newGroup": "Vastness - Kuukyo no Ikenie-tachi CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Viper F-40 [HD]",
+                    "newGroup": "Viper F-40 HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Viper CTR - Asuka [HD]",
+                    "newGroup": "Viper CTR - Asuka HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Virtuacall 2 [CD floppy]",
+                    "newGroup": "Virtuacall 2 CD floppy",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Warcraft (CD version) [HD]",
+                    "newGroup": "Warcraft CD version HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Watashi [HD]",
+                    "newGroup": "Watashi HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Xenon - Mugen no Shitai (CD version) [HD]",
+                    "newGroup": "Xenon - Mugen no Shitai CD version HD",
+                    "nameType": "full"
+                },                
+                {
+                    "searchTerm": "Yume no Sei [HD]",
+                    "newGroup": "Yume no Sei HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Yumemizaka & Collections [HD]",
+                    "newGroup": "Yumemizaka & Collections HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Yuu Disk Special - CD-ROM Bishoujo Collection [CD floppy]",
+                    "newGroup": "Yuu Disk Special - CD-ROM Bishoujo Collection CD floppy",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Zai Metajo [HD]",
+                    "newGroup": "Zai Metajo HD",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Zatsuon Ryouiki [CD floppy]",
+                    "newGroup": "Zatsuon Ryouiki CD floppy",
+                    "nameType": "full"
+                },
+                {
+                    "searchTerm": "Zenith (CD version) [HD]",
+                    "newGroup": "Zenith CD version HD",
+                    "nameType": "full"
+                }                               
+            ]
+        },           
+        { 
+            "rom_dir": "s:\\roms-fullset\\neokobe-nodat-sharp-x68000-full",
+            "headers": {
+                "dat_name": "Sharp - X68000 (Neo Kobe)",
+                "rom_source_name": "Neo Kobe - Sharp X68000 (2018-04-26)",
+                "rom_source_url": "https://archive.org/details/SharpX68000Collection",
+                "rom_version": "2018-04-26"
+            },            
+            "removes": [
+            ], 
+            "overrides": [
+            ] 
+        },
+        { 
+            "rom_dir": "s:\\roms-fullset\\neokobe-nodat-sharp-x1-full",
+            "headers": {
+                "dat_name": "Sharp - X1 (Neo Kobe)",
+                "rom_source_name": "Neo Kobe - Sharp X1 (2016-02-25)",
+                "rom_source_url": "https://archive.org/details/Neo_Kobe_Sharp_X1_2016-02-25",
+                "rom_version": "2016-02-25"
+            },            
+            "removes": [
+            ], 
+            "overrides": [
+            ] 
+        }                                           
+        
+    ]
+}

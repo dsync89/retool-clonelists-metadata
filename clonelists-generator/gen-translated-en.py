@@ -76,7 +76,7 @@ def generate_json_template(grouped_files):
 if __name__ == "__main__":
 
     # Read JSON data from the file
-    with open('config.json', 'r') as file:
+    with open('config-translated-en.json', 'r') as file:
         json_data = json.load(file)
 
     AUTHOR_NAME = json_data['author_name']
