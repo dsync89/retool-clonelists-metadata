@@ -1,1 +1,32 @@
-[]
+[
+    {
+        "group": "Aces High",
+        "titles": [
+            {
+                "searchTerm": "Aces High (Bally)(1965)(-=Kees=-)(1.00)[VPX06][MOD dB2S v1.0 Loserman76][MOD Gfx v2.1 Mustang1961]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "JP's Deadpool",
+        "titles": [
+            {
+                "searchTerm": "JP's Deadpool (Stern)(2018)(JPSalas)(5.0.0)[VPX08]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "JP's Space Cadet - Full Tilt! Pinball",
+        "titles": [
+            {
+                "searchTerm": "JP's Space Cadet - Full Tilt! Pinball (Maxis)(1995)(JPSalas)(4.0.0)[VPX07][MOD Gfx v1.0 Teisen]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    }
+]
