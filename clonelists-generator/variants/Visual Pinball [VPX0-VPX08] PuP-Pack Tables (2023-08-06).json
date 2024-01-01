@@ -1,0 +1,382 @@
+[
+    {
+        "group": "Austin Powers",
+        "titles": [
+            {
+                "searchTerm": "Austin Powers (Stern)(2001)(VPW)(1.0.3)[VPX06][PuP-Pack v1.0.0 hawkeyez88, Joey Beaulieu]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Back To The Future",
+        "titles": [
+            {
+                "searchTerm": "Back To The Future (Data East)(1990)(cyberpez)(1.4)[VPX07][MOD Gfx v1.0 NitroNimbus][Full Package]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Black Sabbath 70",
+        "titles": [
+            {
+                "searchTerm": "Black Sabbath 70 (GoldChicco, JPSalas (VP9))(1.0)[VPX06][PuP-Pack v1.0 hawkeyez88]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Dreamworks Trolls",
+        "titles": [
+            {
+                "searchTerm": "Dreamworks Trolls (2021)(Phenom)(1.2)[VPX06][Source Table Sonic Javier1515][Full Package]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Flintstones, The",
+        "titles": [
+            {
+                "searchTerm": "Flintstones, The (Williams)(1994)(g5k, 3rdaxis, DJRobX, Dark)(1.26)[VPX06][PuP-Pack v1.1.0 classicradios, Joey Beaulieu]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Foo Fighters",
+        "titles": [
+            {
+                "searchTerm": "Foo Fighters (darthwhat)(1.1)[VPX06][Full Package][MOD Gfx, PuP v2.0 RyGuy417]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Freddy - A Nightmare on Elm Street",
+        "titles": [
+            {
+                "searchTerm": "Freddy - A Nightmare on Elm Street (Gottlieb)(1994)(JPJ-Team-PP)(1.1b)[VPX05][PuP-Pack v1.0.0 hawkeyez88]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Game of Thrones LE",
+        "titles": [
+            {
+                "searchTerm": "Game of Thrones LE (Stern)(2015)(VPW)(1.0.2)[VPX07][English PuP-Pack v1.0 mikeleonheart, BurtMacklin]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Ghostbusters LE",
+        "titles": [
+            {
+                "searchTerm": "Ghostbusters LE (Stern)(2016)(ninuzzu, tom tower, djrobx)(1.2)[VPX][VPinSpa][PuP-Pack v1.0.0 Trochjochel]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Goonies, The - Never Say Die",
+        "titles": [
+            {
+                "searchTerm": "Goonies, The - Never Say Die (2021)(VPW, Hawkeyez88)(1.3)[VPX07][PuP-Pack v2.0 hawkeyez88, Joey Beaulieu]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Grease",
+        "titles": [
+            {
+                "searchTerm": "Grease (marty02)(1.1)[VPX06][Source Table JPSalas Elvis][PuP-Pack v1.0 Hawkeyez88]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Hook",
+        "titles": [
+            {
+                "searchTerm": "Hook (Data East)(1992)(Javier1515, Bigus1, Dark)(2.1)[VPX06][PuP-Pack v1.0 hawkeyez88, Joey Beaulieu]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Indiana Jones - The Pinball Adventure",
+        "titles": [
+            {
+                "searchTerm": "Indiana Jones - The Pinball Adventure (Williams)(1993)(ninuzzu, Tom Tower)(1.2)[VPX06][MOD v1.1 VPW][PuP-Pack v1.0 Rodrigo Sinoreto, TerryRed, Frank Heming]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Indochine",
+        "titles": [
+            {
+                "searchTerm": "Indochine (marty)(4.0)[VPX07][Source Table Mago de Oz JPSalas][Full Package]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Iron Maiden Virtual Time",
+        "titles": [
+            {
+                "searchTerm": "Iron Maiden Virtual Time (Mussinger)(1.0.2)[VPX06][VideoMode][PuP-Pack v1.4 Pedro Peres]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "JP's Transformers Pro",
+        "titles": [
+            {
+                "searchTerm": "JP's Transformers Pro (Stern)(2011)(JPSalas)(3.0.0)[VPX06][MOD Marcade v1.2 wpilot][PuP-Pack v1.0.0 Meatballsaucey, TerryRed, Smaug]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Judge Dredd",
+        "titles": [
+            {
+                "searchTerm": "Judge Dredd (Bally)(1993)(VPW)(1.1)[VPX06][PuP-Pack v1.0 hawkeyez88]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Last Action Hero",
+        "titles": [
+            {
+                "searchTerm": "Last Action Hero (Data East)(1993)(Javier1515)(1.07)[VPX06][English PuP-Pack v1.0 Savage2b, yannielbory]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Last Starfighter, The",
+        "titles": [
+            {
+                "searchTerm": "Last Starfighter, The (Djchiccomix)(1.0)[VPX06][PuP-Pack English]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Led Zeppelin Pinball",
+        "titles": [
+            {
+                "searchTerm": "Led Zeppelin Pinball (Pinballfan2018)(1.01)[VPX06][PupDmd 3-screen Setup][Full Package]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Linkin Park",
+        "titles": [
+            {
+                "searchTerm": "Linkin Park (2020)(AAron James, Destruk, Goldchicco)[VPX06][PuP-Pack]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Lord of the Rings, The - Valinor Edition",
+        "titles": [
+            {
+                "searchTerm": "Lord of the Rings, The - Valinor Edition (Stern)(2003)(VPW)(1.3)[VPX06][English PuP-Pack v1.0.1 mikeleonheart, oker]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Masters of the Universe",
+        "titles": [
+            {
+                "searchTerm": "Masters of the Universe (randr, sixtoe)(1.0b)[VPX06][PuP-Pack v1.1a TerryRed, Tarcisio Caleiro, Randr, Nailbuster, LynnInDenver][Full Package]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Moana",
+        "titles": [
+            {
+                "searchTerm": "Moana (2021)(Phenom)(1.1)[VPX07][Full Package v1.0 TeamTuga]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Monster Bash",
+        "titles": [
+            {
+                "searchTerm": "Monster Bash (Williams)(1998)(ninuzzu, tom tower)(1.3)[VPX04][PuP-Pack v1.1.0 classicradios]",
+                "nameType": "full",
+                "priority": -28
+            },
+            {
+                "searchTerm": "Monster Bash (Williams)(1998)(ninuzzu, Tom Tower)[VPX06][MOD Gfx v1.022 Skitso, rothbauerw, bord][Full Package]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Monsters of Rock Day 1",
+        "titles": [
+            {
+                "searchTerm": "Monsters of Rock Day 1 (2022)(TeamTuga)(3.0)[VPX07][Full Package]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Monsters of Rock Day 2",
+        "titles": [
+            {
+                "searchTerm": "Monsters of Rock Day 2 (2022)(TeamTuga)(2.0)[VPX07][Full Package]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Monsters of Rock Day 3",
+        "titles": [
+            {
+                "searchTerm": "Monsters of Rock Day 3 (2021)(TeamTuga)(1.0)[VPX07][Full Package]",
+                "nameType": "full",
+                "priority": -26
+            },
+            {
+                "searchTerm": "Monsters of Rock Day 3 (2022)(TeamTuga)(2.0)[VPX07][Full Package]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Munsters, The",
+        "titles": [
+            {
+                "searchTerm": "Munsters, The (2020)(Allknowing2012)(1.05)[VPX06][Full Package]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "NFL",
+        "titles": [            
+            {
+                "searchTerm": "NFL (Stern)(2001)(Sliderpoint, xenonph)[VPX07][MOD Bills Xenonph v4.4][PuP-Pack v1.2 merlinrtp][Source PuP-Pack NFL hawkeyez88]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Nirvana",
+        "titles": [            
+            {
+                "searchTerm": "Nirvana (2021)(darthwhat, Destruck, Goldchicco, Hawkeyez)(1.0)[VPX07][Full Package v2.1 Larouillas]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Pizza Time",
+        "titles": [
+            {
+                "searchTerm": "Pizza Time (ScottyWic)(0.65)[PuP-Pack]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Red Hot Chili Peppers Pinball",
+        "titles": [
+            {
+                "searchTerm": "Red Hot Chili Peppers Pinball (bigbeefr, scottywick)(1.1.0)[VPX07][Gfx MOD v1.0.0 balutito]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Star Wars",
+        "titles": [
+            {
+                "searchTerm": "Star Wars (Data East)(1992)(Dids666, DJRobX)(1.5.1)[VPX06][PuP-Pack v1.0 Dgrace, Joey Beaulieu]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Strikes and Spares",
+        "titles": [
+            {
+                "searchTerm": "Strikes and Spares (Bally)(1978)(32assassin)[VPX07][MOD The Dude v2.0 Hauntfreaks][Pup-Pack v1.0.0 Hawkeyez88]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Terminator 2 - Judgement Day",
+        "titles": [
+            {
+                "searchTerm": "Terminator 2 - Judgement Day (Williams)(1991)(g5k)(1.1c)[VPX06][PuP-Pack v2.0 Maiguelon, Malinas, NailBuster]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "WWF Royal Rumble",
+        "titles": [
+            {
+                "searchTerm": "WWF Royal Rumble (Data East)(1994)(32assassin)(2.1)[VPX06][PuP-Pack v1.0 hawkeyez88, RetroG33k, Migs]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    }
+]
