@@ -1,0 +1,631 @@
+{
+    "author_name": "dsync89",
+    "author_email": "dsync89@yahoo.com",
+    "output_1g1r_dat_dir": ".",
+    "platforms": [
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-nec-pc-8801",
+            "headers": {
+                "dat_name": "NEC - PC-8801 [T-En]",
+                "rom_source_name": "NEC - PC-8801 [T-En] Collection (04-12-2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2023-12-04"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [   
+                {
+                    "group": "Genesis - Beyond the Revelation",
+                    "titles": [
+                        {
+                            "searchTerm": "Genesis - Beyond the Revelation (Japan) [T-En by Mike Curious v0.1] [i]",
+                            "nameType": "full",
+                            "priority": -1
+                        }
+                    ]
+                }                  
+            ]            
+        },
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-nec-pc-9801",
+            "headers": {
+                "dat_name": "NEC - PC-9801 [T-En]",
+                "rom_source_name": "NEC - PC-9801 [T-En] Collection (07-11-2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2023-11-07"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [
+                {
+                    "group": "Dead of the Brain",
+                    "titles": [
+                        {
+                            "searchTerm": "Dead of the Brain (Japan) [T-En by Retronomicon v1.0] [Add by BabaJeanmel] (Harddisk)",
+                            "nameType": "full",
+                            "priority": -1
+                        }
+                    ]
+                },
+                {
+                    "group": "Rusty",
+                    "titles": [
+                        {
+                            "searchTerm": "Rusty (Japan) [T-En by 46 OkuMen v1.0.3] [Add by Flurror v1.0] (Harddisk)",
+                            "nameType": "full",
+                            "priority": -1
+                        }
+                    ]
+                },    
+                {
+                    "group": "Starfire",
+                    "titles": [
+                        {
+                            "searchTerm": "Starfire (Japan) [T-En by Team Ishtri v1.0] [256 color] (Harddisk)",
+                            "nameType": "full",
+                            "priority": -1
+                        }
+                    ]
+                },  
+                {
+                    "group": "Touhou Reiiden - The Highly Responsive to Prayers",
+                    "titles": [
+                        {
+                            "searchTerm": "Touhou Reiiden - The Highly Responsive to Prayers (Japan) [T-En by xJeePx v1.00] (Harddisk)",
+                            "nameType": "full",
+                            "priority": -1
+                        }
+                    ]
+                }                      
+            ]            
+        },
+
+
+
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-bandai-wonderswan",
+            "headers": {
+                "dat_name": "Bandai - WonderSwan [T-En]",
+                "rom_source_name": "Bandai - WonderSwan [T-En] Collection (29-11-2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2023-11-29"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        },  
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-bandai-wonderswan-color",
+            "headers": {
+                "dat_name": "Bandai - WonderSwan Color [T-En]",
+                "rom_source_name": "Bandai - WonderSwan Color [T-En] Collection (06-10-2022)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2022-10-06"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        }, 
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-microsoft-msx",
+            "headers": {
+                "dat_name": "Microsoft - MSX [T-En]",
+                "rom_source_name": "Microsoft - MSX [T-En] Collection (22-03-2022)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2022-03-22"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        }, 
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-microsoft-msx2",
+            "headers": {
+                "dat_name": "Microsoft - MSX2 [T-En]",
+                "rom_source_name": "Microsoft - MSX2 [T-En] Collection (22-11-2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2023-11-22"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        }, 
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-microsoft-xbox",
+            "headers": {
+                "dat_name": "Microsoft - Xbox [T-En]",
+                "rom_source_name": "Microsoft - XBOX [T-En] Collection",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2022-01-15"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        }, 
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-microsoft-xbox-360",
+            "headers": {
+                "dat_name": "Microsoft - Xbox 360 [T-En]",
+                "rom_source_name": "Microsoft - XBOX 360 [T-En] Collection",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2022-01-15"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        }, 
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-nec-pc-engine-cd-turbografx-cd",
+            "headers": {
+                "dat_name": "NEC - PC Engine CD & TurboGrafx CD [T-En]",
+                "rom_source_name": "NEC - PC Engine CD [T-En] Collection",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2022-01-15"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        }, 
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-nec-pc-engine-turbografx-16",
+            "headers": {
+                "dat_name": "NEC - PC Engine - TurboGrafx-16 [T-En]",
+                "rom_source_name": "NEC - PC Engine [T-En] Collection (15-06-2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2023-06-15"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        }, 
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-nintendo-3ds",
+            "headers": {
+                "dat_name": "Nintendo - Nintendo 3DS [T-En]",
+                "rom_source_name": "Nintendo - Nintendo 3DS [T-En] Collection",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2022-01-15"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        },  
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-nintendo-64",
+            "headers": {
+                "dat_name": "Nintendo - Nintendo 64 [T-En]",
+                "rom_source_name": "Nintendo - Nintendo 64 [T-En] Collection (04-12-2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2023-12-04"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        },   
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-nintendo-ds",
+            "headers": {
+                "dat_name": "Nintendo - Nintendo DS [T-En]",
+                "rom_source_name": "Nintendo - Nintendo DS [T-En] Collection (31-10-2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2023-10-31"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        },       
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-nintendo-entertainment-system",
+            "headers": {
+                "dat_name": "Nintendo - Nintendo Entertainment System [T-En]",
+                "rom_source_name": "Nintendo - Famicom [T-En] Collection (03-12-2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2023-12-03"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        },
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-nintendo-famicom-disk-system",
+            "headers": {
+                "dat_name": "Nintendo - Family Computer Disk System [T-En]",
+                "rom_source_name": "Nintendo - Family Computer Disk System [T-En] Collection (09-11-2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2023-11-09"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        },
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-nintendo-game-boy",
+            "headers": {
+                "dat_name": "Nintendo - Game Boy [T-En]",
+                "rom_source_name": "Nintendo - Game Boy [T-En] Collection (30-09-2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2023-09-30"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        },  
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-nintendo-game-boy-advance",
+            "headers": {
+                "dat_name": "Nintendo - Game Boy Advance [T-En]",
+                "rom_source_name": "Nintendo - Game Boy Advance [T-En] Collection (06-11-2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2023-11-06"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        },  
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-nintendo-game-boy-color",
+            "headers": {
+                "dat_name": "Nintendo - Game Boy Color [T-En]",
+                "rom_source_name": "Nintendo - Game Boy Color [T-En] Collection (12-12-2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2023-12-12"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        },     
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-nintendo-game-cube",
+            "headers": {
+                "dat_name": "Nintendo - GameCube [T-En]",
+                "rom_source_name": "Nintendo - GameCube [T-En] Collection",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2022-01-15"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        },
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-nintendo-snes",
+            "headers": {
+                "dat_name": "Nintendo - Super Nintendo Entertainment System [T-En]",
+                "rom_source_name": "Nintendo - Super Famicom [T-En] Collection (02-12-2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2023-12-02"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        },
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-nintendo-virtual-boy",
+            "headers": {
+                "dat_name": "Nintendo - Virtual Boy [T-En]",
+                "rom_source_name": "Nintendo - Virtual Boy [T-En] Collection (21-07-2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2023-07-21"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        },
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-nintendo-wii",
+            "headers": {
+                "dat_name": "Nintendo - Wii [T-En]",
+                "rom_source_name": "Nintendo - Wii [T-En] Collection",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2022-01-15"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        },
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-sega-dreamcast",
+            "headers": {
+                "dat_name": "Sega - Dreamcast [T-En]",
+                "rom_source_name": "Sega - Dreamcast [T-En] Collection",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2022-01-15"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        },
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-sega-game-gear",
+            "headers": {
+                "dat_name": "Sega - Game Gear [T-En]",
+                "rom_source_name": "Sega - Game Gear [T-En] Collection (31-01-2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2023-01-31"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        },
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-sega-master-system",
+            "headers": {
+                "dat_name": "Sega - Master System [T-En]",
+                "rom_source_name": "Sega - Master System [T-En] Collection (12-09-2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2023-09-12"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        },
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-sega-mega-cd",
+            "headers": {
+                "dat_name": "Sega - Mega CD & Sega CD [T-En]",
+                "rom_source_name": "Sega - Mega CD [T-En] Collection",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2022-01-15"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        },
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-sega-mega-drive-genesis",
+            "headers": {
+                "dat_name": "Sega - Mega Drive - Genesis [T-En]",
+                "rom_source_name": "Sega - Mega Drive [T-En] Collection (12-11-2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2023-11-12"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        },
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-sega-saturn",
+            "headers": {
+                "dat_name": "Sega - Saturn [T-En]",
+                "rom_source_name": "Sega - Saturn [T-En] Collection",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2022-01-15"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        },
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-sega-sg-1000",
+            "headers": {
+                "dat_name": "Sega - SG-1000 [T-En]",
+                "rom_source_name": "Sega - SG-1000 [T-En] Collection (12-02-2020)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2020-02-12"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        },
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-sega-sg-1000",
+            "headers": {
+                "dat_name": "Sega - SG-1000 [T-En]",
+                "rom_source_name": "Sega - SG-1000 [T-En] Collection (12-02-2020)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2020-02-12"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        },
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-sharp-x1",
+            "headers": {
+                "dat_name": "Sharp - X1 [T-En]",
+                "rom_source_name": "Sharp - X1 [T-En] Collection (17-03-2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2023-03-17"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        },
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-sharp-x68000",
+            "headers": {
+                "dat_name": "Sharp - X68000 [T-En]",
+                "rom_source_name": "Sharp - X68000 [T-En] Collection (07-07-2020)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2020-07-07"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        },
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-sharp-x68000",
+            "headers": {
+                "dat_name": "Sharp - X68000 [T-En]",
+                "rom_source_name": "Sharp - X68000 [T-En] Collection (07-07-2020)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2020-07-07"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        },
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-snk-neo-geo-pocket-color",
+            "headers": {
+                "dat_name": "SNK - Neo Geo Pocket Color [T-En]",
+                "rom_source_name": "SNK - Neo Geo Pocket Color [T-En] Collection (17-04-2023)",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2023-04-17"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        },
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-sony-playstation",
+            "headers": {
+                "dat_name": "Sony - Playstation [T-En]",
+                "rom_source_name": "Sony - PlayStation [T-En] Collection",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2022-01-15"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        },
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-sony-playstation-2",
+            "headers": {
+                "dat_name": "Sony - Playstation 2 [T-En]",
+                "rom_source_name": "Sony - PlayStation 2 [T-En] Collection",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2022-01-15"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        },
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-sony-playstation-3",
+            "headers": {
+                "dat_name": "Sony - Playstation 3 [T-En]",
+                "rom_source_name": "Sony - PlayStation 3 [T-En] Collection",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2022-01-15"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        },
+        { 
+            "rom_dir": "z:\\roms-translated-fullset\\archive-org-sony-playstation-portable",
+            "headers": {
+                "dat_name": "Sony - Playstation Portable [T-En]",
+                "rom_source_name": "Sony - PlayStation Portable [T-En] Collection",
+                "rom_source_url": "https://archive.org/details/En-ROMs",
+                "rom_version": "2022-01-15"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [                            
+            ]            
+        }
+
+    ]
+}

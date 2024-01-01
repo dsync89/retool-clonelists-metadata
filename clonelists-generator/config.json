@@ -1,0 +1,526 @@
+{
+    "author_name": "dsync89",
+    "author_email": "dsync89@yahoo.com",
+    "output_1g1r_dat_dir": ".",
+    "platforms": [
+        { 
+            "enabled": true,
+            "headers": {
+                "dat_name": "Visual Pinball [VPX0-VPX08] Original Tables",
+                "rom_source_name": "Visual Pinball [VPX0-VPX08] Original Tables (2023-08-06)",
+                "rom_source_url": "na",
+                "rom_version": "2022-08-09"
+            },            
+            "rom_dir": "z:\\roms-fullset\\pinball\\Visual Pinball\\Visual Pinball (2023-08-06)",
+            "folder_filter_regex": "\\bVPX.*Original Tables\\b(?!.*(?:MODs|Flipperless|VP Plus|Full|WideScreen|Hybrid))", 
+            "removes": "",  
+            "overrides": ".\\clonelists-generator\\overrides\\Visual Pinball [VPX0-VPX08] Original Tables (2023-08-06).json",
+            "variants": ".\\clonelists-generator\\variants\\Visual Pinball [VPX0-VPX08] Original Tables (2023-08-06).json"         
+        },
+
+        { 
+            "rom_dir": "z:\\roms-pinball\\Visual Pinball",
+            "enabled": false,
+            "folder_filter_regex": "\\bOriginal Tables \\[MODs\\b",
+            "headers": {
+                "dat_name": "Visual Pinball Original Tables [MODs, HACKs] (2022-08-09)",
+                "rom_source_name": "Visual Pinball Original Tables [MODs, HACKs] (2022-08-09)",
+                "rom_source_url": "na",
+                "rom_version": "2022-08-09"
+            },
+            "removes": [   
+            ],            
+            "overrides": [
+            ],
+            "variants": [  
+                            
+            ]            
+        },
+
+        { 
+            "enabled": true,
+            "headers": {
+                "dat_name": "Visual Pinball [VPX0-VPX08] Recreated Tables",
+                "rom_source_name": "Visual Pinball [VPX0-VPX08] Recreated Tables (2023-08-06)",
+                "rom_source_url": "na",
+                "rom_version": "2023-08-06"
+            },
+            "rom_dir": "z:\\roms-fullset\\pinball\\Visual Pinball\\Visual Pinball (2023-08-06)",
+            "folder_filter_regex": "\\bVPX.*Recreated Tables\\b(?!.*(?:MODs|Flipperless|VP Plus|Full|WideScreen|Hybrid))",        
+            "removes": "", 
+            "overrides": ".\\clonelists-generator\\overrides\\Visual Pinball [VPX0-VPX08] Recreated Tables (2023-08-06).json",
+            "variants": ".\\clonelists-generator\\variants\\Visual Pinball [VPX0-VPX08] Recreated Tables (2023-08-06).json"
+        },
+        
+        { 
+            "enabled": true,
+            "headers": {
+                "dat_name": "Visual Pinball [VPX0-VPX08] Recreated Tables [MODs, HACKs]",
+                "rom_source_name": "Visual Pinball [VPX0-VPX08] Recreated Tables [MODs, HACKs] (2023-08-06)",
+                "rom_source_url": "na",
+                "rom_version": "2023-08-06"
+            },
+            "rom_dir": "z:\\roms-fullset\\pinball\\Visual Pinball\\Visual Pinball (2023-08-06)",
+            "folder_filter_regex": "\\bVPX.*Recreated Tables \\[\b(?!.*(?:Flipperless|VP Plus|Full|WideScreen|Hybrid))", 
+            "removes": "",   
+            "overrides": ".\\clonelists-generator\\overrides\\Visual Pinball [VPX0-VPX08] Recreated Tables [MODs, HACKs] (2023-08-06).json",
+            "variants": ".\\clonelists-generator\\variants\\Visual Pinball [VPX0-VPX08] Recreated Tables [MODs, HACKs] (2023-08-06).json"
+        },
+
+        { 
+            "rom_dir": "z:\\roms-pinball\\Visual Pinball",
+            "enabled": false,
+            "folder_filter_regex": "\\bPinMame Tables\\b(?!.*(?:Mods|Flipperless|VP Plus|Full|WideScreen|Hybrid))",
+            "headers": {
+                "dat_name": "Visual Pinball PinMame Tables (2022-08-09)",
+                "rom_source_name": "Visual Pinball PinMame Tables (2022-08-09)",
+                "rom_source_url": "na",
+                "rom_version": "2022-08-09"
+            },
+            "removes": [   
+            ],            
+            "overrides": [
+            ],
+            "variants": [  
+                {
+                    "group": "Godzilla",
+                    "titles": [
+                        {
+                            "searchTerm": "Godzilla (SEGA)(1998)(Bigus1, 32assassin)(2.0)[VPX07]",
+                            "nameType": "full",
+                            "priority": -99
+                        }
+                    ]
+                },
+                {
+                    "group": "X's & O's",
+                    "titles": [
+                        {
+                            "searchTerm": "X's & O's (Bally)(1984)(32assassin)(2.0)[VPX06]",
+                            "nameType": "full",
+                            "priority": -99
+                        }
+                    ]
+                },
+                {
+                    "group": "World Cup Soccer 94",
+                    "titles": [
+                        {
+                            "searchTerm": "World Cup Soccer 94 (Bally)(1994)(KieferSkunk_Dorsola, bmiki75, Lupopt)(1.0.6b)[VP9x]",
+                            "nameType": "full",
+                            "priority": -99
+                        }
+                    ]
+                },
+                {
+                    "group": "Star Trek - The Next Generation",
+                    "titles": [
+                        {
+                            "searchTerm": "Star Trek - The Next Generation (Williams)(1993)(Knorr, Clark Kent)(1.4.1)[VPX06][DT+FS][DOF arngrim]",
+                            "nameType": "full",
+                            "priority": -99
+                        }
+                    ]
+                },
+                {
+                    "group": "World Cup Soccer",
+                    "titles": [
+                        {
+                            "searchTerm": "World Cup Soccer (Bally)(1994)(Knorr, Clark Kent)(1.5)[VPX06]",
+                            "nameType": "full",
+                            "priority": -99
+                        }                       
+                    ]
+                },
+                {
+                    "group": "Wild Fyre",
+                    "titles": [
+                        {
+                            "searchTerm": "Wild Fyre (Stern)(1978)(Goldchicco, 32assassin)(1.1)[VPX06]",
+                            "nameType": "full",
+                            "priority": -99
+                        }
+                    ]
+                },
+                {
+                    "group": "Zarza",
+                    "titles": [
+                        {
+                            "searchTerm": "Zarza (Taito do Brasil)(1982)(JPSalas)(3.0.0)[VPX06][JPSalas arcade physics 3.0]",
+                            "nameType": "full",
+                            "priority": -99
+                        }
+                    ]
+                },
+                {
+                    "group": "Wipe Out",
+                    "titles": [
+                        {
+                            "searchTerm": "Wipe Out (Premier)(1993)(Edizzle, Kiwi)(1.1.0)[VPX06][DT+FS+FSS]",
+                            "nameType": "full",
+                            "priority": -99
+                        }
+                    ]
+                }
+           
+            ]            
+        },
+
+        { 
+            "rom_dir": "z:\\roms-pinball\\Visual Pinball",
+            "enabled": false,
+            "folder_filter_regex": "\\bPinMame Tables \\[MODs\\b",
+            "headers": {
+                "dat_name": "Visual Pinball PinMame Tables [MODs, HACKs] (2022-08-09)",
+                "rom_source_name": "Visual Pinball PinMame Tables [MODs, HACKs] (2022-08-09)",
+                "rom_source_url": "na",
+                "rom_version": "2022-08-09"
+            },
+            "removes": [   
+            ],            
+            "overrides": [
+            ],
+            "variants": [  
+                            
+            ]            
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        { 
+            "rom_dir": "z:\\roms-fullset\\pinball\\Future Pinball\\Future Pinball (2023-08-07)\\Future Pinball Original Tables",
+            "enabled": false,
+            "folder_filter_regex": "",
+            "headers": {
+                "dat_name": "Future Pinball Original Tables",
+                "rom_source_name": "Future Pinball Original Tables (2023-08-07)",
+                "rom_source_url": "na",
+                "rom_version": "2023-08-07"
+            },
+            "removes": [   
+            ],            
+            "overrides": [
+            ],
+            "variants": [  
+                            
+            ]            
+        },
+        { 
+            "rom_dir": "z:\\roms-fullset\\pinball\\Future Pinball\\Future Pinball (2023-08-07)\\Future Pinball Original Tables [MODs, HACKs]",
+            "enabled": false,
+            "folder_filter_regex": "",
+            "headers": {
+                "dat_name": "Future Pinball Original Tables [MODs, HACKs]",
+                "rom_source_name": "Future Pinball Original Tables [MODs, HACKs] (2023-08-07)",
+                "rom_source_url": "na",
+                "rom_version": "2023-08-07"
+            },
+            "removes": [   
+            ],            
+            "overrides": [
+            ],
+            "variants": [  
+                {
+                    "group": "Batman JOKER Edition",
+                    "titles": [
+                        {
+                            "searchTerm": "Batman JOKER Edition (SLAMT1LT)[ULTIMATUM Edition](1.04c)(2015-05-25)[FP Physics Adjustment 2.6][MOD Gimli][fix togglesave]",
+                            "nameType": "full",
+                            "priority": -99
+                        }
+                    ]
+                },
+                {
+                    "group": "Goonies, The",
+                    "titles": [
+                        {
+                            "searchTerm": "Goonies, The (Jpinsa, Shaderbytes, GLXB, Highlnder00)(0.99)[MOD BAM 2.0 NitroNimbus][req. latest BAM]",
+                            "nameType": "full",
+                            "priority": -99
+                        }
+                    ]
+                },
+                {
+                    "group": "Harry Potter",
+                    "titles": [
+                        {
+                            "searchTerm": "Harry Potter (NITRONIMBUS)[MOD 2.0 BAM][req. latest BAM]",
+                            "nameType": "full",
+                            "priority": -99
+                        }
+                    ]
+                },                
+                {
+                    "group": "JAWS",
+                    "titles": [
+                        {
+                            "searchTerm": "JAWS (SLAMT1LT)(ULTIMATE Pro Edition)(1.08 PE)[FP Phys. Adj. 2.7][latest BAM req.][PinEvent v1.2 TerryRed][PUP Pack]",
+                            "nameType": "full",
+                            "priority": -99
+                        }
+                    ]
+                },
+                {
+                    "group": "Jeff Wayne's Musical Version of the War of the Worlds",
+                    "titles": [
+                        {
+                            "searchTerm": "Jeff Wayne's Musical Version of the War of the Worlds (SLAMT1LT)(ULTIMATE Edition)(1.03)[FP Physics Adjustment 2.7]",
+                            "nameType": "full",
+                            "priority": -99
+                        }
+                     
+                    ]
+                },
+                {
+                    "group": "Lethal Weapon 3",
+                    "titles": [
+                        {
+                            "searchTerm": "Lethal Weapon 3 (rom, francisco666)(1.5)[mod ZEDONIUs PHYSICS by skinooe v1.0]",
+                            "nameType": "full",
+                            "priority": -99
+                        }
+                    ]
+                },
+                {
+                    "group": "Minions Pinball",
+                    "titles": [
+                        {
+                            "searchTerm": "Minions Pinball (rom)[MOD v2.0 Nitronimbus][req. latest BAM]",
+                            "nameType": "full",
+                            "priority": -99
+                        }
+                    ]
+                },
+                {
+                    "group": "Nightmare on Elm Street",
+                    "titles": [
+                        {
+                            "searchTerm": "Nightmare on Elm Street (SLAMT1LT)(ULTIMATE EDITION)(1.06)[FP Physics 2.7 DOFLinx by senseless v1.0]",
+                            "nameType": "full",
+                            "priority": -99
+                        }
+                    ]
+                },
+                {
+                    "group": "Pink Floyd",
+                    "titles": [
+                        {
+                            "searchTerm": "Pink Floyd (francisco666, SLAMT1LT)[MOD Gfx NitroNimbus v2.6][BAM v.1.5-34x req. or up]",
+                            "nameType": "full",
+                            "priority": -99
+                        }
+                    ]
+                },
+                {
+                    "group": "Retroflair BAM Edition",
+                    "titles": [
+                        {
+                            "searchTerm": "Retroflair BAM Edition (rom)(1.4)(PinEvent v1.1 TerryRed][PUP-Pack v1.1]",
+                            "nameType": "full",
+                            "priority": -99
+                        }
+                    ]
+                },
+                {
+                    "group": "Superman",
+                    "titles": [
+                        {
+                            "searchTerm": "Superman (SLAMT1LT)(ULTIMATE Edition)(1.04)[FP Physics Adjustment 2.7][DOFLinx TerryRed][CAB Edition][Multiplayers]",
+                            "nameType": "full",
+                            "priority": -99
+                        }
+                    ]
+                },
+                {
+                    "group": "Transformers",
+                    "titles": [
+                        {
+                            "searchTerm": "Transformers (SLAMT1LT)(ULTRA VIP Edition)(1.02)[FP Physics Adjustment 2.5]",
+                            "nameType": "full",
+                            "priority": -99
+                        }
+                    ]
+                },
+                {
+                    "group": "TRON Legacy",
+                    "titles": [
+                        {
+                            "searchTerm": "TRON Legacy (SLAMT1LT)(ULTIMATE EDITION)(1.13)[FP Physics Adjustment 2.7][DOFLinx Cabinet Edition TerryRed]",
+                            "nameType": "full",
+                            "priority": -99
+                        }
+                    ]
+                },
+                {
+                    "group": "Wipeout",
+                    "titles": [
+                        {
+                            "searchTerm": "Wipeout (Drakko)(1.0)[DOFLinx MX Cabinet Edition v1.0 by TerryRed]",
+                            "nameType": "full",
+                            "priority": -99
+                        }
+                    ]
+                }
+            ]
+        },
+        { 
+            "rom_dir": "z:\\roms-fullset\\pinball\\Future Pinball\\Future Pinball (2023-08-07)\\Future Pinball Recreated Tables",
+            "enabled": false,
+            "folder_filter_regex": "",
+            "headers": {
+                "dat_name": "Future Pinball Recreated Tables",
+                "rom_source_name": "Future Pinball Recreated Tables (2023-08-07)",
+                "rom_source_url": "na",
+                "rom_version": "2023-08-07"
+            },
+            "removes": [   
+            ],            
+            "overrides": [
+            ],
+            "variants": [  
+                            
+            ]            
+        },
+        { 
+            "rom_dir": "z:\\roms-fullset\\pinball\\Future Pinball\\Future Pinball (2023-08-07)\\Future Pinball Recreated Tables [MODs, HACKs]",
+            "enabled": false,
+            "folder_filter_regex": "",
+            "headers": {
+                "dat_name": "Future Pinball Recreated Tables [MODs, HACKs]",
+                "rom_source_name": "Future Pinball Recreated Tables [MODs, HACKs] (2023-08-07)",
+                "rom_source_url": "na",
+                "rom_version": "2023-08-07"
+            },
+            "removes": [   
+            ],            
+            "overrides": [                
+            ],
+            "variants": [  
+                {
+                    "group": "Addams Family, The",
+                    "titles": [                     
+                        {
+                            "searchTerm": "Addams Family, The (Bally)(1994)(SLAMT1LT)(ULTIMATE Pro)(1.05)[FP PhyAdj 2.7][BAM v.1.4-258 req. or up]",
+                            "nameType": "full",
+                            "priority": -99
+                        }
+                    ]
+                },
+                {
+                    "group": "Attack from Mars",
+                    "titles": [
+                        {
+                            "searchTerm": "Attack from Mars (Bally)(1995)(SLAMT1LT)(ULTIMATE Edition)(1.03)[FP Physics Adjustment 2.6]",
+                            "nameType": "full",
+                            "priority": -99
+                        }
+                    ]
+                },
+                {
+                    "group": "Creature from the Black Lagoon",
+                    "titles": [
+                        {
+                            "searchTerm": "Creature from the Black Lagoon (Bally)(1992)(Francisco666)(1.2)[Mod Zedonius Physics v1.0 by skinooe v1.2b][Night & Day mode]",
+                            "nameType": "full",
+                            "priority": 99
+                        }                      
+                    ]
+                },
+                {
+                    "group": "F-14 Tomcat",
+                    "titles": [
+                        {
+                            "searchTerm": "F-14 Tomcat (Williams)(1987)(Chaos, SLAMT1LT)(ULTIMATE Pro)(1.01)[PinEvent-1.0 TerryRed][PuP-Pack v1.0]",
+                            "nameType": "full",
+                            "priority": -99
+                        }
+                    ]
+                },
+                {
+                    "group": "Family Guy",
+                    "titles": [
+                        {
+                            "searchTerm": "Family Guy (Stern)(2007)(SLAMT1LT)(ULTRA EDITON)(1.01)[mod Zedonius Physics 1.0 by skinooe]",
+                            "nameType": "full",
+                            "priority": -99
+                        }
+                    ]
+                },
+                {
+                    "group": "Jokerz!",
+                    "titles": [
+                        {
+                            "searchTerm": "Jokerz! (Williams)(1988)(Drakko, francisco666)(1.0)[mod BAM by bigsilverhotdog][FP Phys. Adj. 2.7]",
+                            "nameType": "full",
+                            "priority": -99
+                        }
+                    ]
+                },
+                {
+                    "group": "Space Shuttle",
+                    "titles": [
+                        {
+                            "searchTerm": "Space Shuttle (Williams)(1984)(Sepeteus)(1.4)[mod BAM by GeorgeH]",
+                            "nameType": "full",
+                            "priority": -99
+                        }
+                    ]
+                },
+                {
+                    "group": "Spider-Man",
+                    "titles": [
+                        {
+                            "searchTerm": "Spider-Man (Stern)(2007)(SLAMT1LT)(ULTRA Edition)(1.09)(2014-04-20)[FP Physics Adjustment 2.5]",
+                            "nameType": "full",
+                            "priority": -99
+                        }
+                    ]
+                },
+                {
+                    "group": "Strip Joker Poker",
+                    "titles": [
+                        {
+                            "searchTerm": "Strip Joker Poker (SLAMT1LT)(ULTIMATE Edition)(1.02)(2013-11-14)[FP Physics Adjustment 2.6]",
+                            "nameType": "full",
+                            "priority": -99
+                        }
+                    ]
+                },
+                {
+                    "group": "Terminator 2 - Judgement Day",
+                    "titles": [
+                        {
+                            "searchTerm": "Terminator 2 - Judgement Day (Williams)(1991)(SLAMT1LT)(ULTIMATE SKYNET Edition)(1.06)[FP Physics Adjustment 2.7]",
+                            "nameType": "full",
+                            "priority": -99
+                        }
+                    ]
+                },
+                {
+                    "group": "Xenon",
+                    "titles": [
+                        {
+                            "searchTerm": "Xenon (Bally)(1980)(SLAMT1LT)[ULTIMATE Pro](1.02)",
+                            "nameType": "full",
+                            "priority": -99
+                        }
+                    ]
+                }
+            ]            
+        }        
+    ]
+}

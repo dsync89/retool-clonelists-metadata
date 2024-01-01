@@ -1,5 +1,16 @@
 # Clonelist Generator
 
-For NeoKobe set, run `python3 gen-neokobe.py`
+If the table name contains the following regex pattern, assign the priority (the lower the more preferred):
 
-For Translated En set from https://archive.org/details/En-ROMs, run `python3 gen-translated-en.py`
+```
+priority_mapping = {
+    r'\bBAM\b': -1,
+    r'\bUltimate\b': -2,
+    r'\bTerryRed\b': -3,
+    r'\bSLAMT1LT\b': -4,
+}
+```
+
+For Visual Pinball Set
+
+Prioritize VPX over VP9x...
