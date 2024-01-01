@@ -61,6 +61,7 @@ priority_mapping = {
     r'VPX05': -24,
     r'VPX06': -25,
     r'VPX07': -26,
+    r'VPX08': -27,
     r'DT\+FS': -1,
     
     r'PuP': -5,
@@ -77,6 +78,9 @@ def get_files_in_folder(folder_path, regex_pattern):
             regex = re.compile(regex_pattern, re.IGNORECASE)
             if not regex.search(root):
                 continue
+
+            else:
+                pass
             
             # skip any folder that matches the bad pattern, e.g. BIOS, Misc, OS]
             if len(files) == 0:
