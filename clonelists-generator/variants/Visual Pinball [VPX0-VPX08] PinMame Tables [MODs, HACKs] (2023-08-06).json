@@ -1,0 +1,172 @@
+[
+    {
+        "group": "Attack from Mars",
+        "titles": [
+            {
+                "searchTerm": "Attack from Mars (Bally)(1995)(JPSalas)(3.0.2)[VPX07][MOD Gfx v2.0 Starlion]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Back To The Future",
+        "titles": [
+            {
+                "searchTerm": "Back To The Future (Data East)(1990)(cyberpez)(1.4)[VPX07][MOD Gfx v2.0 Bigus]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Bram Stoker's Dracula",
+        "titles": [
+            {
+                "searchTerm": "Bram Stoker's Dracula (Williams)(1993)(ICPjuggla, Dozer316)(1.1)[VPX07][MOD Gfx v2.0 Bigus]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Cue Ball Wizard",
+        "titles": [
+            {
+                "searchTerm": "Cue Ball Wizard (Gottlieb)(1992)(JPSalas, Rascal)(1.2)[VPX07][MOD Gfx v4.1 Bigus]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Earthshaker",
+        "titles": [
+            {
+                "searchTerm": "Earthshaker (Williams)(1989)(32assassin)(0.9a)[VPX07][MOD Gfx v2.2 Bigus][VR Room Mike Da Spike]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Elvira and the Party Monsters",
+        "titles": [
+            {
+                "searchTerm": "Elvira and the Party Monsters (Bally)(1989)(32assassin)(2.3)[VPX07][MOD Gfx v2.1 Bigus][FlexDMD Scutters]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Guns N' Roses",
+        "titles": [
+            {
+                "searchTerm": "Guns N' Roses (Data East)(1994)(Jpsalas, Team PP)[VPX07][MOD Gfx v3.0 Bigus]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "JP's Lord of the Rings",
+        "titles": [
+            {
+                "searchTerm": "JP's Lord of the Rings (Stern)(2003)(JPSalas)(4.0.0)[VPX07][Neo LED MOD v2.0 Siggi]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "JP's Terminator 2 - Judgement Day",
+        "titles": [
+            {
+                "searchTerm": "JP's Terminator 2 - Judgement Day (Williams)(1991)(JPSalas)(4.0.0)[VPX07]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "JP's Transformers Pro",
+        "titles": [
+            {
+                "searchTerm": "JP's Transformers Pro (Stern)(2011)(JPSalas)(4.0.0)[VPX07]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "KISS",
+        "titles": [
+            {
+                "searchTerm": "KISS (Bally)(1979)(jbg4208, JPSalas, 32assassin, Borgdog, Popotte)(2.2)[VPX06][MOD Gfx v3.0 Bigus]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Monday Night Football",
+        "titles": [
+            {
+                "searchTerm": "Monday Night Football (Data East)(1989)(Goldchicco, agentEighty6, Allknowing2012)(1.1)[VPX07][MOD Gfx v1.0 Bigus]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Playboy",
+        "titles": [
+            {
+                "searchTerm": "Playboy (Bally)(1978)(Goldchicco, 32assassin, HiRez00)(1.0)[VPX06][Nude-Mod Extras HiRez00]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Scared Stiff",
+        "titles": [            
+            {
+                "searchTerm": "Scared Stiff (Bally)(1996)(nFozzy)(1.43)[VPX07][Nude MOD v1.0 BallStuck]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Star Wars",
+        "titles": [
+            {
+                "searchTerm": "Star Wars (Data East)(1992)(Dids666, DJRobX)(1.5.1)[VPX07][MOD Gfx v1.0 Starlion]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "Whirlwind",
+        "titles": [
+            {
+                "searchTerm": "Whirlwind (Williams)(1990)(walamab)(1.4)[VPX06][MOD Gfx v1.0 Siggis][MOD Gfx v1.0 Bigus]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    },
+    {
+        "group": "X-Men LE",
+        "titles": [
+            {
+                "searchTerm": "X-Men LE (Stern)(2012)(freneticamnesic, ICPjuggla, HauntFreaks, Bord, DJrobX)(2.0.1)[VPX07][MOD Gfx v1.1 Bigus]",
+                "nameType": "full",
+                "priority": -99
+            }
+        ]
+    }
+]
