@@ -19,22 +19,18 @@
         },
 
         { 
-            "rom_dir": "z:\\roms-pinball\\Visual Pinball",
-            "enabled": false,
-            "folder_filter_regex": "\\bOriginal Tables \\[MODs\\b",
+            "enabled": true,
             "headers": {
-                "dat_name": "Visual Pinball Original Tables [MODs, HACKs] (2022-08-09)",
-                "rom_source_name": "Visual Pinball Original Tables [MODs, HACKs] (2022-08-09)",
+                "dat_name": "Visual Pinball [VPX0-VPX08] Original Tables [MODs, HACKs]",
+                "rom_source_name": "Visual Pinball [VPX0-VPX08] Original Tables [MODs, HACKs] (2023-08-06)",
                 "rom_source_url": "na",
-                "rom_version": "2022-08-09"
+                "rom_version": "2023-08-06"
             },
-            "removes": [   
-            ],            
-            "overrides": [
-            ],
-            "variants": [  
-                            
-            ]            
+            "rom_dir": "z:\\roms-fullset\\pinball\\Visual Pinball\\Visual Pinball (2023-08-06)",
+            "folder_filter_regex": "\\bVPX.*Original Tables \\[\\b(?!.*(?:Flipperless|VP Plus|Full|WideScreen|Hybrid))", 
+            "removes": "",   
+            "overrides": ".\\clonelists-generator\\overrides\\Visual Pinball [VPX0-VPX08] Original Tables [MODs, HACKs] (2023-08-06).json",
+            "variants": ".\\clonelists-generator\\variants\\Visual Pinball [VPX0-VPX08] Original Tables [MODs, HACKs] (2023-08-06).json"
         },
 
         { 
@@ -50,8 +46,7 @@
             "removes": "", 
             "overrides": ".\\clonelists-generator\\overrides\\Visual Pinball [VPX0-VPX08] Recreated Tables (2023-08-06).json",
             "variants": ".\\clonelists-generator\\variants\\Visual Pinball [VPX0-VPX08] Recreated Tables (2023-08-06).json"
-        },
-        
+        },        
         { 
             "enabled": true,
             "headers": {
@@ -61,11 +56,67 @@
                 "rom_version": "2023-08-06"
             },
             "rom_dir": "z:\\roms-fullset\\pinball\\Visual Pinball\\Visual Pinball (2023-08-06)",
-            "folder_filter_regex": "\\bVPX.*Recreated Tables \\[\b(?!.*(?:Flipperless|VP Plus|Full|WideScreen|Hybrid))", 
+            "folder_filter_regex": "\\bVPX.*Recreated Tables \\[\\b(?!.*(?:Flipperless|VP Plus|Full|WideScreen|Hybrid))", 
             "removes": "",   
             "overrides": ".\\clonelists-generator\\overrides\\Visual Pinball [VPX0-VPX08] Recreated Tables [MODs, HACKs] (2023-08-06).json",
             "variants": ".\\clonelists-generator\\variants\\Visual Pinball [VPX0-VPX08] Recreated Tables [MODs, HACKs] (2023-08-06).json"
         },
+        { 
+            "enabled": true,
+            "headers": {
+                "dat_name": "Visual Pinball [VPX0-VPX08] PinMame Tables",
+                "rom_source_name": "Visual Pinball [VPX0-VPX08] PinMame Tables (2023-08-06)",
+                "rom_source_url": "na",
+                "rom_version": "2023-08-06"
+            },
+            "rom_dir": "z:\\roms-fullset\\pinball\\Visual Pinball\\Visual Pinball (2023-08-06)",
+            "folder_filter_regex": "\\bVPX(?!.*VR PinMame).*PinMame Tables\\b(?!.*(?:MODs|Flipperless|VP Plus|Full|WideScreen|Hybrid))", 
+            "removes": "",   
+            "overrides": ".\\clonelists-generator\\overrides\\Visual Pinball [VPX0-VPX08] PinMame Tables (2023-08-06).json",
+            "variants": ".\\clonelists-generator\\variants\\Visual Pinball [VPX0-VPX08] PinMame Tables (2023-08-06).json"
+        },
+        { 
+            "enabled": true,
+            "headers": {
+                "dat_name": "Visual Pinball [VPX0-VPX08] PinMame Tables [MODs, HACKs]",
+                "rom_source_name": "Visual Pinball [VPX0-VPX08] PinMame Tables [MODs, HACKs] (2023-08-06)",
+                "rom_source_url": "na",
+                "rom_version": "2023-08-06"
+            },
+            "rom_dir": "z:\\roms-fullset\\pinball\\Visual Pinball\\Visual Pinball (2023-08-06)",
+            "folder_filter_regex": "\\bVPX(?!.*VR PinMame).*PinMame Tables \\[\\b(?!.*(?:Flipperless|VP Plus|Full|WideScreen|Hybrid))", 
+            "removes": "",   
+            "overrides": ".\\clonelists-generator\\overrides\\Visual Pinball [VPX0-VPX08] PinMame Tables [MODs, HACKs] (2023-08-06).json",
+            "variants": ".\\clonelists-generator\\variants\\Visual Pinball [VPX0-VPX08] PinMame Tables [MODs, HACKs] (2023-08-06).json"
+        },
+        { 
+            "enabled": true,
+            "headers": {
+                "dat_name": "Visual Pinball [VPX0-VPX08] PuP-Pack Tables",
+                "rom_source_name": "Visual Pinball [VPX0-VPX08] PuP-Pack Tables (2023-08-06)",
+                "rom_source_url": "na",
+                "rom_version": "2023-08-06"
+            },
+            "rom_dir": "z:\\roms-fullset\\pinball\\Visual Pinball\\Visual Pinball (2023-08-06)",
+            "folder_filter_regex": "\\bVPX.*PuP\\b(?!.*(?:Flipperless|VP Plus|Full|WideScreen|Hybrid))", 
+            "removes": "",   
+            "overrides": ".\\clonelists-generator\\overrides\\Visual Pinball [VPX0-VPX08] PuP-Pack Tables (2023-08-06).json",
+            "variants": ".\\clonelists-generator\\variants\\Visual Pinball [VPX0-VPX08] PuP-Pack Tables (2023-08-06).json"
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         { 
             "rom_dir": "z:\\roms-pinball\\Visual Pinball",
