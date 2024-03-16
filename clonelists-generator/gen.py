@@ -47,6 +47,7 @@ priority_mapping = {
     r'\bUltra\b': -10,
     r'\bUltimate\b': -11,
     r'\bUltimate Pro\b': -12,
+    r'\bVPW\b'
 
     # for visual pinball
     r'VP5': -10,
