@@ -1,0 +1,44 @@
+[
+    {
+        "group": "European Champions",
+        "titles": [
+            {
+                "searchTerm": "European Champions (v1.2_Ocean_2569)",
+                "nameType": "full",
+                "priority": -1
+            },
+            {
+                "searchTerm": "Lothar Matthaus Die Interaktive Fussballsimulation",
+                "nameType": "full"
+            }
+        ]
+    },
+    {
+        "group": "Prince Of Persia",
+        "titles": [
+            {
+                "searchTerm": "Prince Of Persia",
+                "nameType": "short",
+                "priority": -1
+            },
+            {
+                "searchTerm": "Prince De Perse",
+                "nameType": "full"
+            }
+        ]
+    },
+    {
+        "group": "Quete De L Oiseau Du Temp",
+        "titles": [
+            {
+                "searchTerm": "Quete De L Oiseau Du Temp",
+                "nameType": "short",
+                "priority": -1
+            },
+            {
+                "searchTerm": "Quete De L Oiseau Du Temps",
+                "nameType": "full"
+            }
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+{
+    "author_name": "dsync89",
+    "author_email": "dsync89@yahoo.com",
+    "output_1g1r_dat_dir": ".",
+    "platforms": [
+        { 
+            "enabled": true,
+            "headers": {
+                "dat_name": "Commodore Amiga WHD",
+                "rom_source_name": "Amiga WHDLoad Games",
+                "rom_source_url": "https://archive.org/details/Amiga_WHD_Games",
+                "rom_version": "2016-06-24"
+            },            
+            "rom_dir": "r:\\roms-fullset\\commodore-amiga\\archive-org-commodore-amiga-whd",
+            "folder_filter_regex": "", 
+            "removes": "",  
+            "categories": ".\\clonelists-generator\\categories\\Commodore Amiga WHD.json",
+            "overrides": ".\\clonelists-generator\\overrides\\Commodore Amiga WHD.json",
+            "variants": ".\\clonelists-generator\\variants\\Commodore Amiga WHD.json"         
+        }
+    ]   
+}
